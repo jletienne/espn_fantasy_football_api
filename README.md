@@ -5,7 +5,7 @@ ESPN Fantasy Football API Connection
 
 For private leagues, you'll need your espn_s2 and swid cookies
 
-![](getting_espn_cookies.png)
+![](espn_cookies.png)
 
 ### Three Steps
 

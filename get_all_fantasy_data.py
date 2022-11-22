@@ -5,6 +5,7 @@ from espn_api_code.get_expected_wins import get_expected_wins
 from espn_api_code.get_team_info import get_team_info
 from espn_api_code.get_player_stats import get_player_stats
 from espn_api_code.get_team_stats import get_team_stats
+from espn_api_code.get_draft_results import get_draft_results
 
 year = 2022
 
@@ -30,3 +31,5 @@ get_player_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info
 get_team_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info)
 
 get_expected_wins()
+
+get_draft_results(swid, espn_s2, league_id, year)
