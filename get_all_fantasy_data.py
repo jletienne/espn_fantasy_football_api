@@ -25,7 +25,7 @@ league_id = config['league_id']
 
 team_info = get_team_info(swid, espn_s2, league_id, year)
 
-#get_player_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info)
+get_player_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info)
 
 get_team_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info)
 

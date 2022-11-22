@@ -1,2 +1,1638 @@
 week,player_id,player_name,player_SlotId,actual_points,player_position,player_team,projected_points,team_id,manager,team_name,Fantasy_Position,actual_position
 4.0,4262921.0,Justin Jefferson,4.0,26.0,3.0,16.0,14.8,1.0,QUON,Quon's  League ,WR,WR
+4.0,3128429.0,Courtland Sutton,4.0,13.7,3.0,7.0,12.9,1.0,QUON,Quon's  League ,WR,WR
+5.0,4262921.0,Justin Jefferson,4.0,24.32,3.0,16.0,15.3,1.0,QUON,Quon's  League ,WR,WR
+5.0,3128429.0,Courtland Sutton,4.0,9.9,3.0,7.0,13.4,1.0,QUON,Quon's  League ,WR,WR
+7.0,16737.0,Mike Evans,4.0,14.1,3.0,27.0,11.0,1.0,QUON,Quon's  League ,WR,WR
+7.0,4360438.0,Brandon Aiyuk,4.0,11.7,3.0,25.0,9.1,1.0,QUON,Quon's  League ,WR,WR
+6.0,4262921.0,Justin Jefferson,4.0,13.7,3.0,16.0,15.8,1.0,QUON,Quon's  League ,WR,WR
+6.0,16737.0,Mike Evans,4.0,6.2,3.0,27.0,12.9,1.0,QUON,Quon's  League ,WR,WR
+2.0,4262921.0,Justin Jefferson,4.0,7.8,3.0,16.0,16.3,1.0,QUON,Quon's  League ,WR,WR
+2.0,4242433.0,Joshua Palmer,4.0,11.0,3.0,24.0,9.8,1.0,QUON,Quon's  League ,WR,WR
+3.0,4262921.0,Justin Jefferson,4.0,2.9,3.0,16.0,16.9,1.0,QUON,Quon's  League ,WR,WR
+3.0,3128429.0,Courtland Sutton,4.0,13.7,3.0,7.0,11.3,1.0,QUON,Quon's  League ,WR,WR
+1.0,4262921.0,Justin Jefferson,4.0,34.9,3.0,16.0,14.7,1.0,QUON,Quon's  League ,WR,WR
+1.0,16737.0,Mike Evans,4.0,15.6,3.0,27.0,12.3,1.0,QUON,Quon's  League ,WR,WR
+10.0,4262921.0,Justin Jefferson,4.0,30.3,3.0,16.0,15.9,1.0,QUON,Quon's  League ,WR,WR
+10.0,16737.0,Mike Evans,4.0,7.9,3.0,27.0,11.6,1.0,QUON,Quon's  League ,WR,WR
+8.0,4262921.0,Justin Jefferson,4.0,12.8,3.0,16.0,15.1,1.0,QUON,Quon's  League ,WR,WR
+8.0,16737.0,Mike Evans,4.0,15.3,3.0,27.0,12.7,1.0,QUON,Quon's  League ,WR,WR
+9.0,4262921.0,Justin Jefferson,4.0,22.0,3.0,16.0,14.7,1.0,QUON,Quon's  League ,WR,WR
+9.0,16737.0,Mike Evans,4.0,6.5,3.0,27.0,11.3,1.0,QUON,Quon's  League ,WR,WR
+4.0,4362628.0,Ja'Marr Chase,4.0,10.1,3.0,4.0,16.5,2.0,RIP,Matthew Berry Dead,WR,WR
+4.0,4035687.0,Michael Pittman Jr.,4.0,4.6,3.0,11.0,12.2,2.0,RIP,Matthew Berry Dead,WR,WR
+5.0,4362628.0,Ja'Marr Chase,4.0,8.5,3.0,4.0,15.5,2.0,RIP,Matthew Berry Dead,WR,WR
+5.0,3045138.0,Mike Williams,4.0,18.4,3.0,24.0,13.5,2.0,RIP,Matthew Berry Dead,WR,WR
+7.0,4362628.0,Ja'Marr Chase,4.0,29.0,3.0,4.0,16.3,2.0,RIP,Matthew Berry Dead,WR,WR
+7.0,4035687.0,Michael Pittman Jr.,4.0,6.8,3.0,11.0,12.2,2.0,RIP,Matthew Berry Dead,WR,WR
+6.0,4362628.0,Ja'Marr Chase,4.0,28.7,3.0,4.0,14.9,2.0,RIP,Matthew Berry Dead,WR,WR
+6.0,4241372.0,Marquise Brown,4.0,9.3,3.0,22.0,14.5,2.0,RIP,Matthew Berry Dead,WR,WR
+2.0,4362628.0,Ja'Marr Chase,4.0,8.3,3.0,4.0,14.3,2.0,RIP,Matthew Berry Dead,WR,WR
+2.0,3045138.0,Mike Williams,4.0,21.3,3.0,24.0,12.3,2.0,RIP,Matthew Berry Dead,WR,WR
+3.0,4362628.0,Ja'Marr Chase,4.0,9.7,3.0,4.0,15.5,2.0,RIP,Matthew Berry Dead,WR,WR
+3.0,4035687.0,Michael Pittman Jr.,4.0,11.2,3.0,11.0,12.4,2.0,RIP,Matthew Berry Dead,WR,WR
+1.0,4362628.0,Ja'Marr Chase,4.0,23.9,3.0,4.0,14.4,2.0,RIP,Matthew Berry Dead,WR,WR
+1.0,4035687.0,Michael Pittman Jr.,4.0,22.6,3.0,11.0,12.2,2.0,RIP,Matthew Berry Dead,WR,WR
+10.0,4035687.0,Michael Pittman Jr.,4.0,8.8,3.0,11.0,11.1,2.0,RIP,Matthew Berry Dead,WR,WR
+10.0,4372485.0,Rondale Moore,4.0,13.9,3.0,22.0,9.1,2.0,RIP,Matthew Berry Dead,WR,WR
+8.0,4035687.0,Michael Pittman Jr.,4.0,8.8,3.0,11.0,9.7,2.0,RIP,Matthew Berry Dead,WR,WR
+8.0,4372485.0,Rondale Moore,4.0,19.9,3.0,22.0,8.0,2.0,RIP,Matthew Berry Dead,WR,WR
+9.0,4035687.0,Michael Pittman Jr.,4.0,3.7,3.0,11.0,10.4,2.0,RIP,Matthew Berry Dead,WR,WR
+9.0,4372485.0,Rondale Moore,4.0,10.9,3.0,22.0,9.5,2.0,RIP,Matthew Berry Dead,WR,WR
+4.0,3126486.0,Deebo Samuel,4.0,20.7,3.0,25.0,16.3,3.0,TnM,Team Tenner n Mamby ,WR,WR
+4.0,4372016.0,Jaylen Waddle,4.0,4.9,3.0,15.0,14.9,3.0,TnM,Team Tenner n Mamby ,WR,WR
+5.0,3126486.0,Deebo Samuel,4.0,10.2,3.0,25.0,13.8,3.0,TnM,Team Tenner n Mamby ,WR,WR
+5.0,4372016.0,Jaylen Waddle,4.0,3.8,3.0,15.0,12.5,3.0,TnM,Team Tenner n Mamby ,WR,WR
+7.0,3126486.0,Deebo Samuel,4.0,6.9,3.0,25.0,13.2,3.0,TnM,Team Tenner n Mamby ,WR,WR
+7.0,4372016.0,Jaylen Waddle,4.0,10.8,3.0,15.0,12.5,3.0,TnM,Team Tenner n Mamby ,WR,WR
+6.0,3126486.0,Deebo Samuel,4.0,12.5,3.0,25.0,14.1,3.0,TnM,Team Tenner n Mamby ,WR,WR
+6.0,4372016.0,Jaylen Waddle,4.0,13.9,3.0,15.0,10.5,3.0,TnM,Team Tenner n Mamby ,WR,WR
+2.0,3126486.0,Deebo Samuel,4.0,12.2,3.0,25.0,14.8,3.0,TnM,Team Tenner n Mamby ,WR,WR
+2.0,4372016.0,Jaylen Waddle,4.0,34.6,3.0,15.0,10.4,3.0,TnM,Team Tenner n Mamby ,WR,WR
+3.0,3126486.0,Deebo Samuel,4.0,10.4,3.0,25.0,15.4,3.0,TnM,Team Tenner n Mamby ,WR,WR
+3.0,4372016.0,Jaylen Waddle,4.0,13.1,3.0,15.0,13.4,3.0,TnM,Team Tenner n Mamby ,WR,WR
+1.0,3126486.0,Deebo Samuel,4.0,11.6,3.0,25.0,14.6,3.0,TnM,Team Tenner n Mamby ,WR,WR
+1.0,4372016.0,Jaylen Waddle,4.0,15.7,3.0,15.0,10.9,3.0,TnM,Team Tenner n Mamby ,WR,WR
+10.0,3126486.0,Deebo Samuel,4.0,6.1,3.0,25.0,13.1,3.0,TnM,Team Tenner n Mamby ,WR,WR
+10.0,4372016.0,Jaylen Waddle,4.0,8.6,3.0,15.0,13.0,3.0,TnM,Team Tenner n Mamby ,WR,WR
+8.0,4372016.0,Jaylen Waddle,4.0,26.6,3.0,15.0,13.1,3.0,TnM,Team Tenner n Mamby ,WR,WR
+8.0,2577327.0,Tyler Lockett,4.0,12.8,3.0,26.0,10.2,3.0,TnM,Team Tenner n Mamby ,WR,WR
+9.0,4372016.0,Jaylen Waddle,4.0,17.0,3.0,15.0,12.6,3.0,TnM,Team Tenner n Mamby ,WR,WR
+9.0,2577327.0,Tyler Lockett,4.0,15.2,3.0,26.0,11.1,3.0,TnM,Team Tenner n Mamby ,WR,WR
+4.0,4239993.0,Tee Higgins,4.0,21.9,3.0,4.0,12.0,4.0,Team,Mixon and Nixon ,WR,WR
+4.0,3895856.0,Christian Kirk,4.0,7.3,3.0,30.0,12.6,4.0,Team,Mixon and Nixon ,WR,WR
+5.0,4239993.0,Tee Higgins,4.0,0.0,3.0,4.0,13.7,4.0,Team,Mixon and Nixon ,WR,WR
+5.0,3895856.0,Christian Kirk,4.0,1.6,3.0,30.0,13.2,4.0,Team,Mixon and Nixon ,WR,WR
+7.0,4239993.0,Tee Higgins,4.0,11.8,3.0,4.0,13.2,4.0,Team,Mixon and Nixon ,WR,WR
+7.0,3895856.0,Christian Kirk,4.0,13.6,3.0,30.0,10.2,4.0,Team,Mixon and Nixon ,WR,WR
+6.0,4239993.0,Tee Higgins,4.0,7.7,3.0,4.0,10.3,4.0,Team,Mixon and Nixon ,WR,WR
+6.0,3895856.0,Christian Kirk,4.0,8.8,3.0,30.0,11.0,4.0,Team,Mixon and Nixon ,WR,WR
+2.0,4239993.0,Tee Higgins,4.0,16.1,3.0,4.0,11.4,4.0,Team,Mixon and Nixon ,WR,WR
+2.0,4241463.0,Jerry Jeudy,4.0,1.7,3.0,7.0,10.9,4.0,Team,Mixon and Nixon ,WR,WR
+3.0,4239993.0,Tee Higgins,4.0,11.8,3.0,4.0,11.4,4.0,Team,Mixon and Nixon ,WR,WR
+3.0,3895856.0,Christian Kirk,4.0,16.2,3.0,30.0,11.2,4.0,Team,Mixon and Nixon ,WR,WR
+1.0,4239993.0,Tee Higgins,4.0,3.7,3.0,4.0,12.2,4.0,Team,Mixon and Nixon ,WR,WR
+1.0,4241463.0,Jerry Jeudy,4.0,18.2,3.0,7.0,11.3,4.0,Team,Mixon and Nixon ,WR,WR
+10.0,4241463.0,Jerry Jeudy,4.0,0.0,3.0,7.0,10.2,4.0,Team,Mixon and Nixon ,WR,WR
+10.0,3895856.0,Christian Kirk,4.0,27.0,3.0,30.0,11.6,4.0,Team,Mixon and Nixon ,WR,WR
+8.0,4239993.0,Tee Higgins,4.0,12.4,3.0,4.0,14.4,4.0,Team,Mixon and Nixon ,WR,WR
+8.0,3895856.0,Christian Kirk,4.0,6.5,3.0,30.0,9.7,4.0,Team,Mixon and Nixon ,WR,WR
+9.0,4239993.0,Tee Higgins,4.0,9.5,3.0,4.0,13.0,4.0,Team,Mixon and Nixon ,WR,WR
+9.0,3895856.0,Christian Kirk,4.0,17.6,3.0,30.0,11.0,4.0,Team,Mixon and Nixon ,WR,WR
+4.0,4047646.0,A.J. Brown,4.0,12.0,3.0,21.0,14.4,5.0,NIX,Defend the Crown,WR,WR
+4.0,2976499.0,Amari Cooper,4.0,1.4,3.0,5.0,11.5,5.0,NIX,Defend the Crown,WR,WR
+5.0,4047646.0,A.J. Brown,4.0,4.7,3.0,21.0,14.0,5.0,NIX,Defend the Crown,WR,WR
+5.0,2976499.0,Amari Cooper,4.0,17.1,3.0,5.0,10.2,5.0,NIX,Defend the Crown,WR,WR
+7.0,3932905.0,Diontae Johnson,4.0,7.0,3.0,23.0,10.3,5.0,NIX,Defend the Crown,WR,WR
+7.0,2976499.0,Amari Cooper,4.0,8.9,3.0,5.0,11.6,5.0,NIX,Defend the Crown,WR,WR
+6.0,4047646.0,A.J. Brown,4.0,15.2,3.0,21.0,12.4,5.0,NIX,Defend the Crown,WR,WR
+6.0,2976499.0,Amari Cooper,4.0,12.4,3.0,5.0,9.9,5.0,NIX,Defend the Crown,WR,WR
+2.0,4047646.0,A.J. Brown,4.0,9.4,3.0,21.0,12.4,5.0,NIX,Defend the Crown,WR,WR
+2.0,3932905.0,Diontae Johnson,4.0,10.7,3.0,23.0,11.1,5.0,NIX,Defend the Crown,WR,WR
+3.0,4047646.0,A.J. Brown,4.0,17.0,3.0,21.0,13.5,5.0,NIX,Defend the Crown,WR,WR
+3.0,3932905.0,Diontae Johnson,4.0,12.4,3.0,23.0,10.9,5.0,NIX,Defend the Crown,WR,WR
+1.0,4047646.0,A.J. Brown,4.0,20.5,3.0,21.0,12.2,5.0,NIX,Defend the Crown,WR,WR
+1.0,3932905.0,Diontae Johnson,4.0,9.0,3.0,23.0,11.7,5.0,NIX,Defend the Crown,WR,WR
+10.0,4047646.0,A.J. Brown,4.0,1.2,3.0,21.0,14.1,5.0,NIX,Defend the Crown,WR,WR
+10.0,2976499.0,Amari Cooper,4.0,4.7,3.0,5.0,11.5,5.0,NIX,Defend the Crown,WR,WR
+8.0,4047646.0,A.J. Brown,4.0,36.6,3.0,21.0,13.4,5.0,NIX,Defend the Crown,WR,WR
+8.0,2976499.0,Amari Cooper,4.0,19.6,3.0,5.0,11.2,5.0,NIX,Defend the Crown,WR,WR
+9.0,4047646.0,A.J. Brown,4.0,13.9,3.0,21.0,14.8,5.0,NIX,Defend the Crown,WR,WR
+9.0,4242433.0,Joshua Palmer,4.0,14.6,3.0,24.0,10.9,5.0,NIX,Defend the Crown,WR,WR
+4.0,2977187.0,Cooper Kupp,4.0,19.2,3.0,14.0,16.4,6.0,ITTO,Team Ittounas,WR,WR
+4.0,2976212.0,Stefon Diggs,4.0,8.2,3.0,2.0,17.0,6.0,ITTO,Team Ittounas,WR,WR
+5.0,2977187.0,Cooper Kupp,4.0,22.4,3.0,14.0,17.0,6.0,ITTO,Team Ittounas,WR,WR
+5.0,2976212.0,Stefon Diggs,4.0,20.2,3.0,2.0,15.2,6.0,ITTO,Team Ittounas,WR,WR
+7.0,3915416.0,DJ Moore,4.0,16.1,3.0,29.0,10.0,6.0,ITTO,Team Ittounas,WR,WR
+7.0,16731.0,Brandin Cooks,4.0,6.6,3.0,34.0,10.5,6.0,ITTO,Team Ittounas,WR,WR
+6.0,2977187.0,Cooper Kupp,4.0,13.2,3.0,14.0,17.3,6.0,ITTO,Team Ittounas,WR,WR
+6.0,2976212.0,Stefon Diggs,4.0,25.8,3.0,2.0,17.2,6.0,ITTO,Team Ittounas,WR,WR
+2.0,2977187.0,Cooper Kupp,4.0,26.3,3.0,14.0,16.7,6.0,ITTO,Team Ittounas,WR,WR
+2.0,3915416.0,DJ Moore,4.0,11.8,3.0,29.0,11.7,6.0,ITTO,Team Ittounas,WR,WR
+3.0,2977187.0,Cooper Kupp,4.0,14.4,3.0,14.0,17.7,6.0,ITTO,Team Ittounas,WR,WR
+3.0,2976212.0,Stefon Diggs,4.0,10.9,3.0,2.0,15.4,6.0,ITTO,Team Ittounas,WR,WR
+1.0,2977187.0,Cooper Kupp,4.0,25.3,3.0,14.0,16.0,6.0,ITTO,Team Ittounas,WR,WR
+1.0,2976212.0,Stefon Diggs,4.0,22.2,3.0,2.0,13.6,6.0,ITTO,Team Ittounas,WR,WR
+10.0,2976212.0,Stefon Diggs,4.0,18.8,3.0,2.0,16.7,6.0,ITTO,Team Ittounas,WR,WR
+10.0,3915416.0,DJ Moore,4.0,4.9,3.0,29.0,11.1,6.0,ITTO,Team Ittounas,WR,WR
+8.0,2977187.0,Cooper Kupp,4.0,18.9,3.0,14.0,16.0,6.0,ITTO,Team Ittounas,WR,WR
+8.0,2976212.0,Stefon Diggs,4.0,19.8,3.0,2.0,15.3,6.0,ITTO,Team Ittounas,WR,WR
+9.0,2977187.0,Cooper Kupp,4.0,22.8,3.0,14.0,16.6,6.0,ITTO,Team Ittounas,WR,WR
+9.0,2976212.0,Stefon Diggs,4.0,11.8,3.0,2.0,16.4,6.0,ITTO,Team Ittounas,WR,WR
+4.0,16800.0,Davante Adams,4.0,15.0,3.0,13.0,13.9,7.0,THIC,Kittle's Coming Home!,WR,WR
+4.0,4241478.0,DeVonta Smith,4.0,3.2,3.0,21.0,11.4,7.0,THIC,Kittle's Coming Home!,WR,WR
+5.0,16800.0,Davante Adams,4.0,25.9,3.0,13.0,16.4,7.0,THIC,Kittle's Coming Home!,WR,WR
+5.0,4241478.0,DeVonta Smith,4.0,13.7,3.0,21.0,10.5,7.0,THIC,Kittle's Coming Home!,WR,WR
+7.0,16800.0,Davante Adams,4.0,13.5,3.0,13.0,14.9,7.0,THIC,Kittle's Coming Home!,WR,WR
+7.0,3128390.0,Allen Lazard,4.0,8.5,3.0,9.0,10.4,7.0,THIC,Kittle's Coming Home!,WR,WR
+6.0,3128390.0,Allen Lazard,4.0,15.6,3.0,9.0,10.1,7.0,THIC,Kittle's Coming Home!,WR,WR
+6.0,4241478.0,DeVonta Smith,4.0,12.9,3.0,21.0,10.1,7.0,THIC,Kittle's Coming Home!,WR,WR
+2.0,16800.0,Davante Adams,4.0,8.2,3.0,13.0,15.5,7.0,THIC,Kittle's Coming Home!,WR,WR
+2.0,3120348.0,JuJu Smith-Schuster,4.0,2.5,3.0,12.0,10.8,7.0,THIC,Kittle's Coming Home!,WR,WR
+3.0,16800.0,Davante Adams,4.0,11.7,3.0,13.0,16.1,7.0,THIC,Kittle's Coming Home!,WR,WR
+3.0,3128390.0,Allen Lazard,4.0,12.5,3.0,9.0,9.0,7.0,THIC,Kittle's Coming Home!,WR,WR
+1.0,16800.0,Davante Adams,4.0,25.1,3.0,13.0,13.9,7.0,THIC,Kittle's Coming Home!,WR,WR
+1.0,15818.0,Keenan Allen,4.0,8.6,3.0,24.0,11.3,7.0,THIC,Kittle's Coming Home!,WR,WR
+10.0,16800.0,Davante Adams,4.0,23.1,3.0,13.0,14.3,7.0,THIC,Kittle's Coming Home!,WR,WR
+10.0,3120348.0,JuJu Smith-Schuster,4.0,4.3,3.0,12.0,11.6,7.0,THIC,Kittle's Coming Home!,WR,WR
+8.0,16800.0,Davante Adams,4.0,0.7,3.0,13.0,15.7,7.0,THIC,Kittle's Coming Home!,WR,WR
+8.0,4241478.0,DeVonta Smith,4.0,4.8,3.0,21.0,10.2,7.0,THIC,Kittle's Coming Home!,WR,WR
+9.0,16800.0,Davante Adams,4.0,31.6,3.0,13.0,14.1,7.0,THIC,Kittle's Coming Home!,WR,WR
+9.0,4241478.0,DeVonta Smith,4.0,3.2,3.0,21.0,10.5,7.0,THIC,Kittle's Coming Home!,WR,WR
+4.0,3116406.0,Tyreek Hill,4.0,20.9,3.0,15.0,16.1,8.0,GREG,Greg's Gang,WR,WR
+4.0,4047650.0,DK Metcalf,4.0,18.4,3.0,26.0,10.7,8.0,GREG,Greg's Gang,WR,WR
+5.0,3116406.0,Tyreek Hill,4.0,9.5,3.0,15.0,15.9,8.0,GREG,Greg's Gang,WR,WR
+5.0,4047650.0,DK Metcalf,4.0,15.3,3.0,26.0,12.8,8.0,GREG,Greg's Gang,WR,WR
+7.0,3116406.0,Tyreek Hill,4.0,10.7,3.0,15.0,16.2,8.0,GREG,Greg's Gang,WR,WR
+7.0,4047650.0,DK Metcalf,4.0,1.7,3.0,26.0,13.3,8.0,GREG,Greg's Gang,WR,WR
+6.0,3116406.0,Tyreek Hill,4.0,23.7,3.0,15.0,14.3,8.0,GREG,Greg's Gang,WR,WR
+6.0,4047650.0,DK Metcalf,4.0,4.4,3.0,26.0,14.0,8.0,GREG,Greg's Gang,WR,WR
+2.0,3116406.0,Tyreek Hill,4.0,36.5,3.0,15.0,14.0,8.0,GREG,Greg's Gang,WR,WR
+2.0,4047650.0,DK Metcalf,4.0,5.5,3.0,26.0,10.6,8.0,GREG,Greg's Gang,WR,WR
+3.0,3116406.0,Tyreek Hill,4.0,4.3,3.0,15.0,16.2,8.0,GREG,Greg's Gang,WR,WR
+3.0,4243537.0,Gabe Davis,4.0,5.2,3.0,2.0,11.7,8.0,GREG,Greg's Gang,WR,WR
+1.0,3116406.0,Tyreek Hill,4.0,14.0,3.0,15.0,13.0,8.0,GREG,Greg's Gang,WR,WR
+1.0,4047650.0,DK Metcalf,4.0,5.1,3.0,26.0,10.8,8.0,GREG,Greg's Gang,WR,WR
+10.0,3116406.0,Tyreek Hill,4.0,12.9,3.0,15.0,18.9,8.0,GREG,Greg's Gang,WR,WR
+10.0,4047650.0,DK Metcalf,4.0,10.1,3.0,26.0,12.2,8.0,GREG,Greg's Gang,WR,WR
+8.0,3116406.0,Tyreek Hill,4.0,25.5,3.0,15.0,17.6,8.0,GREG,Greg's Gang,WR,WR
+8.0,4243537.0,Gabe Davis,4.0,4.5,3.0,2.0,10.1,8.0,GREG,Greg's Gang,WR,WR
+9.0,3116406.0,Tyreek Hill,4.0,23.8,3.0,15.0,19.0,8.0,GREG,Greg's Gang,WR,WR
+9.0,4047650.0,DK Metcalf,4.0,12.2,3.0,26.0,12.6,8.0,GREG,Greg's Gang,WR,WR
+4.0,4241389.0,CeeDee Lamb,4.0,18.7,3.0,6.0,13.4,9.0,Reid,I Hate Joe Burrow,WR,WR
+4.0,3121422.0,Terry McLaurin,4.0,2.5,3.0,28.0,11.3,9.0,Reid,I Hate Joe Burrow,WR,WR
+5.0,3121422.0,Terry McLaurin,4.0,10.1,3.0,28.0,11.0,9.0,Reid,I Hate Joe Burrow,WR,WR
+5.0,4361370.0,Chris Olave,4.0,13.4,3.0,18.0,11.5,9.0,Reid,I Hate Joe Burrow,WR,WR
+7.0,4241389.0,CeeDee Lamb,4.0,8.6,3.0,6.0,15.7,9.0,Reid,I Hate Joe Burrow,WR,WR
+7.0,3121422.0,Terry McLaurin,4.0,15.8,3.0,28.0,9.7,9.0,Reid,I Hate Joe Burrow,WR,WR
+6.0,4241389.0,CeeDee Lamb,4.0,10.2,3.0,6.0,13.8,9.0,Reid,I Hate Joe Burrow,WR,WR
+6.0,3121422.0,Terry McLaurin,4.0,6.7,3.0,28.0,10.1,9.0,Reid,I Hate Joe Burrow,WR,WR
+2.0,4241389.0,CeeDee Lamb,4.0,11.6,3.0,6.0,11.2,9.0,Reid,I Hate Joe Burrow,WR,WR
+2.0,3121422.0,Terry McLaurin,4.0,10.2,3.0,28.0,12.0,9.0,Reid,I Hate Joe Burrow,WR,WR
+3.0,4241389.0,CeeDee Lamb,4.0,18.7,3.0,6.0,10.9,9.0,Reid,I Hate Joe Burrow,WR,WR
+3.0,3121422.0,Terry McLaurin,4.0,13.2,3.0,28.0,11.0,9.0,Reid,I Hate Joe Burrow,WR,WR
+1.0,4241389.0,CeeDee Lamb,4.0,3.9,3.0,6.0,14.0,9.0,Reid,I Hate Joe Burrow,WR,WR
+1.0,3121422.0,Terry McLaurin,4.0,12.8,3.0,28.0,11.8,9.0,Reid,I Hate Joe Burrow,WR,WR
+10.0,3121422.0,Terry McLaurin,4.0,16.8,3.0,28.0,11.0,9.0,Reid,I Hate Joe Burrow,WR,WR
+10.0,4361370.0,Chris Olave,4.0,5.5,3.0,18.0,11.2,9.0,Reid,I Hate Joe Burrow,WR,WR
+8.0,4241389.0,CeeDee Lamb,4.0,16.3,3.0,6.0,12.7,9.0,Reid,I Hate Joe Burrow,WR,WR
+8.0,4361370.0,Chris Olave,4.0,7.7,3.0,18.0,11.9,9.0,Reid,I Hate Joe Burrow,WR,WR
+9.0,3121422.0,Terry McLaurin,4.0,8.1,3.0,28.0,11.7,9.0,Reid,I Hate Joe Burrow,WR,WR
+9.0,4361370.0,Chris Olave,4.0,10.1,3.0,18.0,11.2,9.0,Reid,I Hate Joe Burrow,WR,WR
+4.0,4372414.0,Elijah Moore,4.0,7.0,3.0,20.0,9.2,10.0,DAD,A Cursed Entity,WR,WR
+4.0,4569618.0,Garrett Wilson,4.0,5.1,3.0,20.0,10.9,10.0,DAD,A Cursed Entity,WR,WR
+5.0,4374302.0,Amon-Ra St. Brown,4.0,3.8,3.0,8.0,14.6,10.0,DAD,A Cursed Entity,WR,WR
+5.0,4569618.0,Garrett Wilson,4.0,4.2,3.0,20.0,10.9,10.0,DAD,A Cursed Entity,WR,WR
+7.0,4374302.0,Amon-Ra St. Brown,4.0,0.9,3.0,8.0,13.7,10.0,DAD,A Cursed Entity,WR,WR
+7.0,15795.0,DeAndre Hopkins,4.0,15.3,3.0,22.0,11.3,10.0,DAD,A Cursed Entity,WR,WR
+6.0,4569618.0,Garrett Wilson,4.0,1.3,3.0,20.0,9.5,10.0,DAD,A Cursed Entity,WR,WR
+6.0,3916433.0,Jakobi Meyers,4.0,8.0,3.0,17.0,9.4,10.0,DAD,A Cursed Entity,WR,WR
+2.0,4374302.0,Amon-Ra St. Brown,4.0,34.9,3.0,8.0,10.9,10.0,DAD,A Cursed Entity,WR,WR
+2.0,4372414.0,Elijah Moore,4.0,5.0,3.0,20.0,9.3,10.0,DAD,A Cursed Entity,WR,WR
+3.0,4374302.0,Amon-Ra St. Brown,4.0,10.3,3.0,8.0,14.3,10.0,DAD,A Cursed Entity,WR,WR
+3.0,4569618.0,Garrett Wilson,4.0,9.0,3.0,20.0,10.4,10.0,DAD,A Cursed Entity,WR,WR
+1.0,4374302.0,Amon-Ra St. Brown,4.0,16.4,3.0,8.0,10.6,10.0,DAD,A Cursed Entity,WR,WR
+1.0,4372414.0,Elijah Moore,4.0,7.4,3.0,20.0,10.6,10.0,DAD,A Cursed Entity,WR,WR
+10.0,4374302.0,Amon-Ra St. Brown,4.0,17.1,3.0,8.0,13.0,10.0,DAD,A Cursed Entity,WR,WR
+10.0,15795.0,DeAndre Hopkins,4.0,14.8,3.0,22.0,12.0,10.0,DAD,A Cursed Entity,WR,WR
+8.0,4374302.0,Amon-Ra St. Brown,4.0,10.4,3.0,8.0,13.6,10.0,DAD,A Cursed Entity,WR,WR
+8.0,15795.0,DeAndre Hopkins,4.0,27.9,3.0,22.0,11.3,10.0,DAD,A Cursed Entity,WR,WR
+9.0,4374302.0,Amon-Ra St. Brown,4.0,7.5,3.0,8.0,12.6,10.0,DAD,A Cursed Entity,WR,WR
+9.0,15795.0,DeAndre Hopkins,4.0,11.6,3.0,22.0,13.2,10.0,DAD,A Cursed Entity,WR,WR
+4.0,16737.0,Mike Evans,23.0,26.3,3.0,27.0,12.6,1.0,QUON,Quon's  League ,FLEX,WR
+5.0,16737.0,Mike Evans,23.0,10.1,3.0,27.0,12.8,1.0,QUON,Quon's  League ,FLEX,WR
+7.0,4039050.0,Devin Duvernay,23.0,6.2,3.0,33.0,9.1,1.0,QUON,Quon's  League ,FLEX,WR
+6.0,3128429.0,Courtland Sutton,23.0,2.4,3.0,7.0,13.9,1.0,QUON,Quon's  League ,FLEX,WR
+2.0,16737.0,Mike Evans,23.0,7.6,3.0,27.0,11.4,1.0,QUON,Quon's  League ,FLEX,WR
+3.0,4242433.0,Joshua Palmer,23.0,12.9,3.0,24.0,8.8,1.0,QUON,Quon's  League ,FLEX,WR
+1.0,3128429.0,Courtland Sutton,23.0,9.2,3.0,7.0,10.9,1.0,QUON,Quon's  League ,FLEX,WR
+10.0,4360438.0,Brandon Aiyuk,23.0,9.4,3.0,25.0,9.8,1.0,QUON,Quon's  League ,FLEX,WR
+9.0,2580216.0,DeAndre Carter,23.0,8.8,3.0,24.0,8.3,1.0,QUON,Quon's  League ,FLEX,WR
+4.0,3045138.0,Mike Williams,23.0,15.5,3.0,24.0,11.9,2.0,RIP,Matthew Berry Dead,FLEX,WR
+5.0,4241372.0,Marquise Brown,23.0,17.8,3.0,22.0,12.8,2.0,RIP,Matthew Berry Dead,FLEX,WR
+7.0,3045138.0,Mike Williams,23.0,18.1,3.0,24.0,12.8,2.0,RIP,Matthew Berry Dead,FLEX,WR
+6.0,3045138.0,Mike Williams,23.0,2.7,3.0,24.0,11.2,2.0,RIP,Matthew Berry Dead,FLEX,WR
+2.0,4241372.0,Marquise Brown,23.0,9.8,3.0,22.0,11.3,2.0,RIP,Matthew Berry Dead,FLEX,WR
+3.0,3045138.0,Mike Williams,23.0,8.0,3.0,24.0,12.2,2.0,RIP,Matthew Berry Dead,FLEX,WR
+1.0,3045138.0,Mike Williams,23.0,2.0,3.0,24.0,11.8,2.0,RIP,Matthew Berry Dead,FLEX,WR
+10.0,4258195.0,Donovan Peoples-Jones,23.0,12.4,3.0,5.0,8.1,2.0,RIP,Matthew Berry Dead,FLEX,WR
+9.0,4035004.0,Mecole Hardman,23.0,17.9,3.0,12.0,7.5,2.0,RIP,Matthew Berry Dead,FLEX,WR
+3.0,2976316.0,Michael Thomas,23.0,7.4,3.0,18.0,10.8,3.0,TnM,Team Tenner n Mamby ,FLEX,WR
+8.0,4040655.0,Darnell Mooney,23.0,9.5,3.0,3.0,8.9,3.0,TnM,Team Tenner n Mamby ,FLEX,WR
+4.0,4426502.0,Drake London,23.0,2.7,3.0,1.0,11.7,4.0,Team,Mixon and Nixon ,FLEX,WR
+5.0,4426502.0,Drake London,23.0,5.5,3.0,1.0,12.1,4.0,Team,Mixon and Nixon ,FLEX,WR
+6.0,4426502.0,Drake London,23.0,5.5,3.0,1.0,10.2,4.0,Team,Mixon and Nixon ,FLEX,WR
+6.0,3932905.0,Diontae Johnson,23.0,6.1,3.0,23.0,10.4,5.0,NIX,Defend the Crown,FLEX,WR
+1.0,16799.0,Allen Robinson II,23.0,1.7,3.0,14.0,10.5,5.0,NIX,Defend the Crown,FLEX,WR
+7.0,4360078.0,Alec Pierce,23.0,5.2,3.0,11.0,8.3,6.0,ITTO,Team Ittounas,FLEX,WR
+2.0,2976212.0,Stefon Diggs,23.0,38.8,3.0,2.0,14.2,6.0,ITTO,Team Ittounas,FLEX,WR
+3.0,16731.0,Brandin Cooks,23.0,3.2,3.0,34.0,12.0,6.0,ITTO,Team Ittounas,FLEX,WR
+1.0,3915416.0,DJ Moore,23.0,6.5,3.0,29.0,12.0,6.0,ITTO,Team Ittounas,FLEX,WR
+10.0,2977187.0,Cooper Kupp,23.0,1.4,3.0,14.0,15.9,6.0,ITTO,Team Ittounas,FLEX,WR
+8.0,3915416.0,DJ Moore,23.0,24.5,3.0,29.0,11.5,6.0,ITTO,Team Ittounas,FLEX,WR
+9.0,3915416.0,DJ Moore,23.0,3.4,3.0,29.0,11.2,6.0,ITTO,Team Ittounas,FLEX,WR
+4.0,3128390.0,Allen Lazard,23.0,14.6,3.0,9.0,9.3,7.0,THIC,Kittle's Coming Home!,FLEX,WR
+5.0,3128390.0,Allen Lazard,23.0,11.5,3.0,9.0,9.7,7.0,THIC,Kittle's Coming Home!,FLEX,WR
+2.0,3128390.0,Allen Lazard,23.0,8.3,3.0,9.0,9.7,7.0,THIC,Kittle's Coming Home!,FLEX,WR
+1.0,3120348.0,JuJu Smith-Schuster,23.0,8.9,3.0,12.0,10.1,7.0,THIC,Kittle's Coming Home!,FLEX,WR
+10.0,3128390.0,Allen Lazard,23.0,6.0,3.0,9.0,10.8,7.0,THIC,Kittle's Coming Home!,FLEX,WR
+9.0,3116165.0,Chris Godwin,23.0,7.2,3.0,27.0,11.1,7.0,THIC,Kittle's Coming Home!,FLEX,WR
+6.0,4243537.0,Gabe Davis,23.0,14.9,3.0,2.0,11.5,8.0,GREG,Greg's Gang,FLEX,WR
+1.0,4243537.0,Gabe Davis,23.0,16.8,3.0,2.0,10.4,8.0,GREG,Greg's Gang,FLEX,WR
+5.0,4241389.0,CeeDee Lamb,23.0,7.8,3.0,6.0,14.7,9.0,Reid,I Hate Joe Burrow,FLEX,WR
+7.0,4361370.0,Chris Olave,23.0,14.1,3.0,18.0,10.9,9.0,Reid,I Hate Joe Burrow,FLEX,WR
+10.0,4241389.0,CeeDee Lamb,23.0,32.5,3.0,6.0,11.7,9.0,Reid,I Hate Joe Burrow,FLEX,WR
+9.0,4039050.0,Devin Duvernay,23.0,1.0,3.0,33.0,9.5,9.0,Reid,I Hate Joe Burrow,FLEX,WR
+4.0,3121427.0,Curtis Samuel,23.0,5.8,3.0,28.0,11.8,10.0,DAD,A Cursed Entity,FLEX,WR
+5.0,3121427.0,Curtis Samuel,23.0,9.2,3.0,28.0,11.5,10.0,DAD,A Cursed Entity,FLEX,WR
+7.0,3916433.0,Jakobi Meyers,23.0,10.4,3.0,17.0,9.1,10.0,DAD,A Cursed Entity,FLEX,WR
+6.0,3121427.0,Curtis Samuel,23.0,1.6,3.0,28.0,11.4,10.0,DAD,A Cursed Entity,FLEX,WR
+2.0,3121427.0,Curtis Samuel,23.0,19.4,3.0,28.0,10.3,10.0,DAD,A Cursed Entity,FLEX,WR
+3.0,3121427.0,Curtis Samuel,23.0,9.6,3.0,28.0,10.6,10.0,DAD,A Cursed Entity,FLEX,WR
+10.0,4362630.0,Terrace Marshall Jr.,23.0,4.8,3.0,29.0,8.3,10.0,DAD,A Cursed Entity,FLEX,WR
+9.0,3916433.0,Jakobi Meyers,23.0,4.9,3.0,17.0,9.2,10.0,DAD,A Cursed Entity,FLEX,WR
+4.0,4360438.0,Brandon Aiyuk,20.0,5.7,3.0,25.0,10.3,1.0,QUON,Quon's  League ,BN,WR
+4.0,4242433.0,Joshua Palmer,20.0,3.0,3.0,24.0,9.7,1.0,QUON,Quon's  League ,BN,WR
+5.0,4360438.0,Brandon Aiyuk,20.0,7.3,3.0,25.0,8.8,1.0,QUON,Quon's  League ,BN,WR
+5.0,4242433.0,Joshua Palmer,20.0,3.9,3.0,24.0,10.3,1.0,QUON,Quon's  League ,BN,WR
+7.0,4262921.0,Justin Jefferson,20.0,0.0,3.0,16.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+7.0,3128429.0,Courtland Sutton,20.0,3.8,3.0,7.0,11.3,1.0,QUON,Quon's  League ,BN,WR
+7.0,16733.0,Odell Beckham Jr.,20.0,0.0,3.0,0.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+6.0,4360438.0,Brandon Aiyuk,20.0,24.3,3.0,25.0,8.2,1.0,QUON,Quon's  League ,BN,WR
+2.0,3128429.0,Courtland Sutton,20.0,16.2,3.0,7.0,11.1,1.0,QUON,Quon's  League ,BN,WR
+2.0,4360438.0,Brandon Aiyuk,20.0,8.8,3.0,25.0,9.0,1.0,QUON,Quon's  League ,BN,WR
+2.0,4361432.0,Romeo Doubs,20.0,3.7,3.0,9.0,5.0,1.0,QUON,Quon's  League ,BN,WR
+3.0,16737.0,Mike Evans,20.0,0.0,3.0,27.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+3.0,4360438.0,Brandon Aiyuk,20.0,11.4,3.0,25.0,9.5,1.0,QUON,Quon's  League ,BN,WR
+1.0,4360438.0,Brandon Aiyuk,20.0,5.7,3.0,25.0,9.1,1.0,QUON,Quon's  League ,BN,WR
+1.0,4361432.0,Romeo Doubs,20.0,6.8,3.0,9.0,8.2,1.0,QUON,Quon's  League ,BN,WR
+10.0,3128429.0,Courtland Sutton,20.0,9.6,3.0,7.0,9.3,1.0,QUON,Quon's  League ,BN,WR
+10.0,16733.0,Odell Beckham Jr.,20.0,0.0,3.0,0.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+10.0,4240600.0,Kadarius Toney,20.0,17.0,3.0,12.0,5.0,1.0,QUON,Quon's  League ,BN,WR
+10.0,16799.0,Allen Robinson II,20.0,6.4,3.0,14.0,7.8,1.0,QUON,Quon's  League ,BN,WR
+8.0,3128429.0,Courtland Sutton,20.0,1.8,3.0,7.0,10.9,1.0,QUON,Quon's  League ,BN,WR
+8.0,4360438.0,Brandon Aiyuk,20.0,17.1,3.0,25.0,10.3,1.0,QUON,Quon's  League ,BN,WR
+8.0,16733.0,Odell Beckham Jr.,20.0,0.0,3.0,0.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+8.0,4240600.0,Kadarius Toney,20.0,0.0,3.0,12.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+9.0,3128429.0,Courtland Sutton,20.0,0.0,3.0,7.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+9.0,4360438.0,Brandon Aiyuk,20.0,0.0,3.0,25.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+9.0,16733.0,Odell Beckham Jr.,20.0,0.0,3.0,0.0,0.0,1.0,QUON,Quon's  League ,BN,WR
+9.0,4240600.0,Kadarius Toney,20.0,2.2,3.0,12.0,3.3,1.0,QUON,Quon's  League ,BN,WR
+4.0,4241372.0,Marquise Brown,20.0,17.8,3.0,22.0,11.9,2.0,RIP,Matthew Berry Dead,BN,WR
+4.0,4567156.0,Treylon Burks,20.0,2.8,3.0,10.0,8.2,2.0,RIP,Matthew Berry Dead,BN,WR
+4.0,4361432.0,Romeo Doubs,20.0,11.2,3.0,9.0,9.0,2.0,RIP,Matthew Berry Dead,BN,WR
+5.0,4035687.0,Michael Pittman Jr.,20.0,8.4,3.0,11.0,11.9,2.0,RIP,Matthew Berry Dead,BN,WR
+5.0,4361432.0,Romeo Doubs,20.0,4.4,3.0,9.0,10.0,2.0,RIP,Matthew Berry Dead,BN,WR
+5.0,3128724.0,Isaiah McKenzie,20.0,0.0,3.0,2.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+7.0,4361432.0,Romeo Doubs,20.0,0.0,3.0,9.0,9.3,2.0,RIP,Matthew Berry Dead,BN,WR
+7.0,4372485.0,Rondale Moore,20.0,3.6,3.0,22.0,9.1,2.0,RIP,Matthew Berry Dead,BN,WR
+6.0,4035687.0,Michael Pittman Jr.,20.0,19.9,3.0,11.0,11.4,2.0,RIP,Matthew Berry Dead,BN,WR
+6.0,4361432.0,Romeo Doubs,20.0,4.1,3.0,9.0,9.6,2.0,RIP,Matthew Berry Dead,BN,WR
+6.0,3128724.0,Isaiah McKenzie,20.0,2.9,3.0,2.0,10.7,2.0,RIP,Matthew Berry Dead,BN,WR
+6.0,4372485.0,Rondale Moore,20.0,7.9,3.0,22.0,10.1,2.0,RIP,Matthew Berry Dead,BN,WR
+2.0,4035687.0,Michael Pittman Jr.,20.0,0.0,3.0,11.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+2.0,4040655.0,Darnell Mooney,20.0,0.1,3.0,3.0,9.4,2.0,RIP,Matthew Berry Dead,BN,WR
+2.0,4567156.0,Treylon Burks,20.0,6.7,3.0,10.0,6.7,2.0,RIP,Matthew Berry Dead,BN,WR
+3.0,4040655.0,Darnell Mooney,20.0,3.3,3.0,3.0,8.1,2.0,RIP,Matthew Berry Dead,BN,WR
+3.0,4241372.0,Marquise Brown,20.0,21.0,3.0,22.0,11.1,2.0,RIP,Matthew Berry Dead,BN,WR
+3.0,4567156.0,Treylon Burks,20.0,2.6,3.0,10.0,9.0,2.0,RIP,Matthew Berry Dead,BN,WR
+1.0,4040655.0,Darnell Mooney,20.0,1.3,3.0,3.0,9.4,2.0,RIP,Matthew Berry Dead,BN,WR
+1.0,4241372.0,Marquise Brown,20.0,12.3,3.0,22.0,11.9,2.0,RIP,Matthew Berry Dead,BN,WR
+1.0,4567156.0,Treylon Burks,20.0,7.0,3.0,10.0,6.7,2.0,RIP,Matthew Berry Dead,BN,WR
+10.0,4362628.0,Ja'Marr Chase,20.0,0.0,3.0,4.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+10.0,3045138.0,Mike Williams,20.0,0.0,3.0,24.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+8.0,4362628.0,Ja'Marr Chase,20.0,0.0,3.0,4.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+8.0,3045138.0,Mike Williams,20.0,0.0,3.0,24.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+8.0,3123075.0,Braxton Berrios,20.0,1.0,3.0,20.0,7.6,2.0,RIP,Matthew Berry Dead,BN,WR
+9.0,4362628.0,Ja'Marr Chase,20.0,0.0,3.0,4.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+9.0,3045138.0,Mike Williams,20.0,0.0,3.0,24.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+4.0,2976316.0,Michael Thomas,20.0,0.0,3.0,18.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+4.0,15880.0,Robert Woods,20.0,11.0,3.0,10.0,8.3,3.0,TnM,Team Tenner n Mamby ,BN,WR
+4.0,2577327.0,Tyler Lockett,20.0,10.1,3.0,26.0,10.6,3.0,TnM,Team Tenner n Mamby ,BN,WR
+4.0,13982.0,Julio Jones,20.0,1.2,3.0,27.0,8.3,3.0,TnM,Team Tenner n Mamby ,BN,WR
+5.0,2976316.0,Michael Thomas,20.0,0.0,3.0,18.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+5.0,15880.0,Robert Woods,20.0,5.7,3.0,10.0,9.8,3.0,TnM,Team Tenner n Mamby ,BN,WR
+5.0,2577327.0,Tyler Lockett,20.0,24.9,3.0,26.0,11.6,3.0,TnM,Team Tenner n Mamby ,BN,WR
+5.0,4039050.0,Devin Duvernay,20.0,10.3,3.0,33.0,9.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+7.0,2976316.0,Michael Thomas,20.0,0.0,3.0,18.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+7.0,2577327.0,Tyler Lockett,20.0,8.0,3.0,26.0,11.1,3.0,TnM,Team Tenner n Mamby ,BN,WR
+6.0,2976316.0,Michael Thomas,20.0,0.0,3.0,18.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+6.0,15880.0,Robert Woods,20.0,0.0,3.0,10.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+6.0,2577327.0,Tyler Lockett,20.0,2.7,3.0,26.0,11.7,3.0,TnM,Team Tenner n Mamby ,BN,WR
+6.0,4039050.0,Devin Duvernay,20.0,1.9,3.0,33.0,10.2,3.0,TnM,Team Tenner n Mamby ,BN,WR
+2.0,2976316.0,Michael Thomas,20.0,15.5,3.0,18.0,9.6,3.0,TnM,Team Tenner n Mamby ,BN,WR
+2.0,15880.0,Robert Woods,20.0,5.9,3.0,10.0,8.3,3.0,TnM,Team Tenner n Mamby ,BN,WR
+2.0,2577327.0,Tyler Lockett,20.0,15.2,3.0,26.0,8.2,3.0,TnM,Team Tenner n Mamby ,BN,WR
+2.0,13982.0,Julio Jones,20.0,0.0,3.0,27.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+3.0,15880.0,Robert Woods,20.0,10.5,3.0,10.0,8.3,3.0,TnM,Team Tenner n Mamby ,BN,WR
+3.0,2577327.0,Tyler Lockett,20.0,12.1,3.0,26.0,9.9,3.0,TnM,Team Tenner n Mamby ,BN,WR
+3.0,13982.0,Julio Jones,20.0,0.0,3.0,27.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+1.0,2976316.0,Michael Thomas,20.0,20.2,3.0,18.0,10.8,3.0,TnM,Team Tenner n Mamby ,BN,WR
+1.0,15880.0,Robert Woods,20.0,1.8,3.0,10.0,9.4,3.0,TnM,Team Tenner n Mamby ,BN,WR
+1.0,16725.0,Sammy Watkins,20.0,3.3,3.0,9.0,7.2,3.0,TnM,Team Tenner n Mamby ,BN,WR
+1.0,2577327.0,Tyler Lockett,20.0,4.3,3.0,26.0,9.7,3.0,TnM,Team Tenner n Mamby ,BN,WR
+10.0,2577327.0,Tyler Lockett,20.0,11.7,3.0,26.0,10.8,3.0,TnM,Team Tenner n Mamby ,BN,WR
+10.0,4040655.0,Darnell Mooney,20.0,7.7,3.0,3.0,9.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+8.0,2976316.0,Michael Thomas,20.0,0.0,3.0,18.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+8.0,4361432.0,Romeo Doubs,20.0,14.2,3.0,9.0,8.2,3.0,TnM,Team Tenner n Mamby ,BN,WR
+9.0,4040655.0,Darnell Mooney,20.0,14.0,3.0,3.0,8.1,3.0,TnM,Team Tenner n Mamby ,BN,WR
+9.0,4361432.0,Romeo Doubs,20.0,2.3,3.0,9.0,8.8,3.0,TnM,Team Tenner n Mamby ,BN,WR
+9.0,3059722.0,Zay Jones,20.0,6.5,3.0,30.0,8.9,3.0,TnM,Team Tenner n Mamby ,BN,WR
+4.0,4241463.0,Jerry Jeudy,20.0,13.3,3.0,7.0,10.1,4.0,Team,Mixon and Nixon ,BN,WR
+4.0,4240600.0,Kadarius Toney,20.0,0.0,3.0,12.0,0.0,4.0,Team,Mixon and Nixon ,BN,WR
+5.0,4241463.0,Jerry Jeudy,20.0,6.8,3.0,7.0,9.5,4.0,Team,Mixon and Nixon ,BN,WR
+5.0,4240600.0,Kadarius Toney,20.0,0.0,3.0,12.0,0.0,4.0,Team,Mixon and Nixon ,BN,WR
+7.0,4241463.0,Jerry Jeudy,20.0,13.1,3.0,7.0,8.7,4.0,Team,Mixon and Nixon ,BN,WR
+7.0,4426502.0,Drake London,20.0,1.4,3.0,1.0,9.5,4.0,Team,Mixon and Nixon ,BN,WR
+6.0,4241463.0,Jerry Jeudy,20.0,6.9,3.0,7.0,9.6,4.0,Team,Mixon and Nixon ,BN,WR
+6.0,4240600.0,Kadarius Toney,20.0,0.0,3.0,12.0,0.0,4.0,Team,Mixon and Nixon ,BN,WR
+2.0,4240600.0,Kadarius Toney,20.0,1.0,3.0,12.0,6.2,4.0,Team,Mixon and Nixon ,BN,WR
+2.0,4426502.0,Drake London,20.0,20.6,3.0,1.0,9.6,4.0,Team,Mixon and Nixon ,BN,WR
+2.0,3895856.0,Christian Kirk,20.0,22.8,3.0,30.0,10.1,4.0,Team,Mixon and Nixon ,BN,WR
+3.0,4241463.0,Jerry Jeudy,20.0,2.7,3.0,7.0,10.1,4.0,Team,Mixon and Nixon ,BN,WR
+3.0,4240600.0,Kadarius Toney,20.0,0.0,3.0,12.0,0.0,4.0,Team,Mixon and Nixon ,BN,WR
+3.0,4426502.0,Drake London,20.0,12.9,3.0,1.0,10.8,4.0,Team,Mixon and Nixon ,BN,WR
+1.0,4240600.0,Kadarius Toney,20.0,2.3,3.0,12.0,9.8,4.0,Team,Mixon and Nixon ,BN,WR
+1.0,4426502.0,Drake London,20.0,9.9,3.0,1.0,9.4,4.0,Team,Mixon and Nixon ,BN,WR
+1.0,3895856.0,Christian Kirk,20.0,14.7,3.0,30.0,10.2,4.0,Team,Mixon and Nixon ,BN,WR
+10.0,4239993.0,Tee Higgins,20.0,0.0,3.0,4.0,0.0,4.0,Team,Mixon and Nixon ,BN,WR
+10.0,4426502.0,Drake London,20.0,12.3,3.0,1.0,8.7,4.0,Team,Mixon and Nixon ,BN,WR
+8.0,4241463.0,Jerry Jeudy,20.0,15.3,3.0,7.0,9.6,4.0,Team,Mixon and Nixon ,BN,WR
+8.0,4426502.0,Drake London,20.0,5.1,3.0,1.0,7.8,4.0,Team,Mixon and Nixon ,BN,WR
+9.0,4241463.0,Jerry Jeudy,20.0,0.0,3.0,7.0,0.0,4.0,Team,Mixon and Nixon ,BN,WR
+9.0,4426502.0,Drake London,20.0,1.8,3.0,1.0,7.9,4.0,Team,Mixon and Nixon ,BN,WR
+4.0,3932905.0,Diontae Johnson,20.0,3.2,3.0,23.0,11.4,5.0,NIX,Defend the Crown,BN,WR
+4.0,16799.0,Allen Robinson II,20.0,1.7,3.0,14.0,8.7,5.0,NIX,Defend the Crown,BN,WR
+5.0,3932905.0,Diontae Johnson,20.0,8.5,3.0,23.0,10.5,5.0,NIX,Defend the Crown,BN,WR
+5.0,16799.0,Allen Robinson II,20.0,2.7,3.0,14.0,7.4,5.0,NIX,Defend the Crown,BN,WR
+5.0,3135321.0,Hunter Renfrow,20.0,4.5,3.0,13.0,9.6,5.0,NIX,Defend the Crown,BN,WR
+7.0,4047646.0,A.J. Brown,20.0,0.0,3.0,21.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+7.0,16799.0,Allen Robinson II,20.0,0.0,3.0,14.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+7.0,3135321.0,Hunter Renfrow,20.0,7.0,3.0,13.0,8.3,5.0,NIX,Defend the Crown,BN,WR
+6.0,16799.0,Allen Robinson II,20.0,14.8,3.0,14.0,6.4,5.0,NIX,Defend the Crown,BN,WR
+6.0,3135321.0,Hunter Renfrow,20.0,0.0,3.0,13.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+2.0,16799.0,Allen Robinson II,20.0,13.3,3.0,14.0,9.7,5.0,NIX,Defend the Crown,BN,WR
+2.0,2976499.0,Amari Cooper,20.0,20.6,3.0,5.0,8.7,5.0,NIX,Defend the Crown,BN,WR
+2.0,4248528.0,Christian Watson,20.0,2.4,3.0,9.0,5.6,5.0,NIX,Defend the Crown,BN,WR
+3.0,16799.0,Allen Robinson II,20.0,3.3,3.0,14.0,9.4,5.0,NIX,Defend the Crown,BN,WR
+3.0,2976499.0,Amari Cooper,20.0,19.6,3.0,5.0,9.0,5.0,NIX,Defend the Crown,BN,WR
+3.0,4248528.0,Christian Watson,20.0,0.0,3.0,9.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+1.0,2976499.0,Amari Cooper,20.0,3.2,3.0,5.0,9.3,5.0,NIX,Defend the Crown,BN,WR
+1.0,4248528.0,Christian Watson,20.0,5.1,3.0,9.0,5.5,5.0,NIX,Defend the Crown,BN,WR
+10.0,3932905.0,Diontae Johnson,20.0,8.3,3.0,23.0,10.0,5.0,NIX,Defend the Crown,BN,WR
+10.0,4242433.0,Joshua Palmer,20.0,5.9,3.0,24.0,10.8,5.0,NIX,Defend the Crown,BN,WR
+8.0,3932905.0,Diontae Johnson,20.0,6.0,3.0,23.0,9.5,5.0,NIX,Defend the Crown,BN,WR
+8.0,16799.0,Allen Robinson II,20.0,7.9,3.0,14.0,7.4,5.0,NIX,Defend the Crown,BN,WR
+8.0,4242433.0,Joshua Palmer,20.0,0.0,3.0,24.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+9.0,3932905.0,Diontae Johnson,20.0,0.0,3.0,23.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+9.0,16799.0,Allen Robinson II,20.0,3.9,3.0,14.0,8.2,5.0,NIX,Defend the Crown,BN,WR
+9.0,2976499.0,Amari Cooper,20.0,0.0,3.0,5.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+4.0,3915416.0,DJ Moore,20.0,9.1,3.0,29.0,11.4,6.0,ITTO,Team Ittounas,BN,WR
+4.0,16731.0,Brandin Cooks,20.0,15.2,3.0,34.0,11.5,6.0,ITTO,Team Ittounas,BN,WR
+4.0,4372485.0,Rondale Moore,20.0,2.2,3.0,22.0,5.5,6.0,ITTO,Team Ittounas,BN,WR
+5.0,3915416.0,DJ Moore,20.0,8.7,3.0,29.0,10.0,6.0,ITTO,Team Ittounas,BN,WR
+5.0,16731.0,Brandin Cooks,20.0,4.0,3.0,34.0,11.0,6.0,ITTO,Team Ittounas,BN,WR
+7.0,2977187.0,Cooper Kupp,20.0,0.0,3.0,14.0,0.0,6.0,ITTO,Team Ittounas,BN,WR
+7.0,2976212.0,Stefon Diggs,20.0,0.0,3.0,2.0,0.0,6.0,ITTO,Team Ittounas,BN,WR
+6.0,3915416.0,DJ Moore,20.0,2.2,3.0,29.0,10.3,6.0,ITTO,Team Ittounas,BN,WR
+6.0,16731.0,Brandin Cooks,20.0,0.0,3.0,34.0,0.0,6.0,ITTO,Team Ittounas,BN,WR
+2.0,16731.0,Brandin Cooks,20.0,7.4,3.0,34.0,11.0,6.0,ITTO,Team Ittounas,BN,WR
+2.0,3135321.0,Hunter Renfrow,20.0,7.4,3.0,13.0,9.4,6.0,ITTO,Team Ittounas,BN,WR
+3.0,3915416.0,DJ Moore,20.0,2.0,3.0,29.0,11.1,6.0,ITTO,Team Ittounas,BN,WR
+1.0,16731.0,Brandin Cooks,20.0,11.7,3.0,34.0,11.0,6.0,ITTO,Team Ittounas,BN,WR
+1.0,3135321.0,Hunter Renfrow,20.0,3.6,3.0,13.0,10.0,6.0,ITTO,Team Ittounas,BN,WR
+10.0,16731.0,Brandin Cooks,20.0,6.2,3.0,34.0,8.7,6.0,ITTO,Team Ittounas,BN,WR
+8.0,16731.0,Brandin Cooks,20.0,9.3,3.0,34.0,9.7,6.0,ITTO,Team Ittounas,BN,WR
+8.0,3121427.0,Curtis Samuel,20.0,9.4,3.0,28.0,8.8,6.0,ITTO,Team Ittounas,BN,WR
+9.0,16731.0,Brandin Cooks,20.0,0.0,3.0,34.0,0.0,6.0,ITTO,Team Ittounas,BN,WR
+9.0,3121427.0,Curtis Samuel,20.0,15.6,3.0,28.0,9.3,6.0,ITTO,Team Ittounas,BN,WR
+4.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+4.0,3116165.0,Chris Godwin,20.0,9.4,3.0,27.0,9.3,7.0,THIC,Kittle's Coming Home!,BN,WR
+4.0,3120348.0,JuJu Smith-Schuster,20.0,7.1,3.0,12.0,9.8,7.0,THIC,Kittle's Coming Home!,BN,WR
+5.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+5.0,3116165.0,Chris Godwin,20.0,9.3,3.0,27.0,12.6,7.0,THIC,Kittle's Coming Home!,BN,WR
+5.0,3120348.0,JuJu Smith-Schuster,20.0,4.8,3.0,12.0,10.4,7.0,THIC,Kittle's Coming Home!,BN,WR
+7.0,15818.0,Keenan Allen,20.0,2.1,3.0,24.0,11.7,7.0,THIC,Kittle's Coming Home!,BN,WR
+7.0,3116165.0,Chris Godwin,20.0,8.0,3.0,27.0,11.9,7.0,THIC,Kittle's Coming Home!,BN,WR
+7.0,3120348.0,JuJu Smith-Schuster,20.0,21.9,3.0,12.0,10.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+7.0,4241478.0,DeVonta Smith,20.0,0.0,3.0,21.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+6.0,16800.0,Davante Adams,20.0,0.0,3.0,13.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+6.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+6.0,3116165.0,Chris Godwin,20.0,12.5,3.0,27.0,10.9,7.0,THIC,Kittle's Coming Home!,BN,WR
+6.0,3120348.0,JuJu Smith-Schuster,20.0,19.8,3.0,12.0,10.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+2.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+2.0,3116165.0,Chris Godwin,20.0,0.0,3.0,27.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+2.0,4241478.0,DeVonta Smith,20.0,11.5,3.0,21.0,9.1,7.0,THIC,Kittle's Coming Home!,BN,WR
+3.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+3.0,3116165.0,Chris Godwin,20.0,0.0,3.0,27.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+3.0,3120348.0,JuJu Smith-Schuster,20.0,11.4,3.0,12.0,9.1,7.0,THIC,Kittle's Coming Home!,BN,WR
+3.0,4241478.0,DeVonta Smith,20.0,26.9,3.0,21.0,9.4,7.0,THIC,Kittle's Coming Home!,BN,WR
+1.0,3116165.0,Chris Godwin,20.0,5.0,3.0,27.0,8.4,7.0,THIC,Kittle's Coming Home!,BN,WR
+1.0,3128390.0,Allen Lazard,20.0,0.0,3.0,9.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+1.0,4241478.0,DeVonta Smith,20.0,0.0,3.0,21.0,10.2,7.0,THIC,Kittle's Coming Home!,BN,WR
+10.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+10.0,3116165.0,Chris Godwin,20.0,16.1,3.0,27.0,10.6,7.0,THIC,Kittle's Coming Home!,BN,WR
+10.0,4241478.0,DeVonta Smith,20.0,10.9,3.0,21.0,9.8,7.0,THIC,Kittle's Coming Home!,BN,WR
+8.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+8.0,3116165.0,Chris Godwin,20.0,10.5,3.0,27.0,11.4,7.0,THIC,Kittle's Coming Home!,BN,WR
+8.0,3120348.0,JuJu Smith-Schuster,20.0,0.0,3.0,12.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+8.0,3128390.0,Allen Lazard,20.0,0.0,3.0,9.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+9.0,15818.0,Keenan Allen,20.0,0.0,3.0,24.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,WR
+9.0,3120348.0,JuJu Smith-Schuster,20.0,13.8,3.0,12.0,10.6,7.0,THIC,Kittle's Coming Home!,BN,WR
+9.0,3128390.0,Allen Lazard,20.0,16.7,3.0,9.0,11.2,7.0,THIC,Kittle's Coming Home!,BN,WR
+4.0,4243537.0,Gabe Davis,20.0,1.8,3.0,2.0,10.9,8.0,GREG,Greg's Gang,BN,WR
+4.0,16460.0,Adam Thielen,20.0,11.2,3.0,16.0,8.3,8.0,GREG,Greg's Gang,BN,WR
+4.0,4046692.0,Chase Claypool,20.0,0.0,3.0,3.0,9.7,8.0,GREG,Greg's Gang,BN,WR
+4.0,4361409.0,Jahan Dotson,20.0,11.8,3.0,28.0,7.7,8.0,GREG,Greg's Gang,BN,WR
+4.0,3059722.0,Zay Jones,20.0,0.0,3.0,30.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+5.0,4243537.0,Gabe Davis,20.0,30.6,3.0,2.0,10.6,8.0,GREG,Greg's Gang,BN,WR
+5.0,16460.0,Adam Thielen,20.0,4.7,3.0,16.0,9.6,8.0,GREG,Greg's Gang,BN,WR
+5.0,4046692.0,Chase Claypool,20.0,7.5,3.0,3.0,6.9,8.0,GREG,Greg's Gang,BN,WR
+5.0,4361409.0,Jahan Dotson,20.0,0.0,3.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+5.0,3059722.0,Zay Jones,20.0,2.7,3.0,30.0,9.0,8.0,GREG,Greg's Gang,BN,WR
+7.0,4243537.0,Gabe Davis,20.0,0.0,3.0,2.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+7.0,16460.0,Adam Thielen,20.0,0.0,3.0,16.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+7.0,4046692.0,Chase Claypool,20.0,6.6,3.0,3.0,9.3,8.0,GREG,Greg's Gang,BN,WR
+7.0,4361409.0,Jahan Dotson,20.0,0.0,3.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+6.0,16460.0,Adam Thielen,20.0,13.6,3.0,16.0,9.4,8.0,GREG,Greg's Gang,BN,WR
+6.0,4046692.0,Chase Claypool,20.0,19.9,3.0,3.0,8.0,8.0,GREG,Greg's Gang,BN,WR
+6.0,4361409.0,Jahan Dotson,20.0,0.0,3.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+2.0,4243537.0,Gabe Davis,20.0,0.0,3.0,2.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+2.0,16460.0,Adam Thielen,20.0,7.2,3.0,16.0,9.8,8.0,GREG,Greg's Gang,BN,WR
+2.0,4046692.0,Chase Claypool,20.0,4.6,3.0,3.0,10.1,8.0,GREG,Greg's Gang,BN,WR
+2.0,3051738.0,Marquez Valdes-Scantling,20.0,2.3,3.0,12.0,9.7,8.0,GREG,Greg's Gang,BN,WR
+2.0,4361409.0,Jahan Dotson,20.0,15.9,3.0,28.0,7.3,8.0,GREG,Greg's Gang,BN,WR
+3.0,4047650.0,DK Metcalf,20.0,14.9,3.0,26.0,10.6,8.0,GREG,Greg's Gang,BN,WR
+3.0,16460.0,Adam Thielen,20.0,15.1,3.0,16.0,9.1,8.0,GREG,Greg's Gang,BN,WR
+3.0,4046692.0,Chase Claypool,20.0,6.1,3.0,3.0,9.6,8.0,GREG,Greg's Gang,BN,WR
+3.0,4361409.0,Jahan Dotson,20.0,2.0,3.0,28.0,8.0,8.0,GREG,Greg's Gang,BN,WR
+3.0,2976592.0,Sterling Shepard,20.0,7.4,3.0,19.0,8.8,8.0,GREG,Greg's Gang,BN,WR
+1.0,16460.0,Adam Thielen,20.0,5.1,3.0,16.0,10.3,8.0,GREG,Greg's Gang,BN,WR
+1.0,4046692.0,Chase Claypool,20.0,7.4,3.0,3.0,9.7,8.0,GREG,Greg's Gang,BN,WR
+1.0,3051738.0,Marquez Valdes-Scantling,20.0,6.1,3.0,12.0,8.9,8.0,GREG,Greg's Gang,BN,WR
+1.0,4361409.0,Jahan Dotson,20.0,16.5,3.0,28.0,7.8,8.0,GREG,Greg's Gang,BN,WR
+10.0,4243537.0,Gabe Davis,20.0,18.3,3.0,2.0,10.4,8.0,GREG,Greg's Gang,BN,WR
+10.0,16460.0,Adam Thielen,20.0,7.4,3.0,16.0,9.4,8.0,GREG,Greg's Gang,BN,WR
+10.0,4046692.0,Chase Claypool,20.0,1.3,3.0,3.0,8.5,8.0,GREG,Greg's Gang,BN,WR
+10.0,3045144.0,Tyler Boyd,20.0,0.0,3.0,4.0,0.0,8.0,GREG,Greg's Gang,BN,WR
+8.0,4047650.0,DK Metcalf,20.0,14.5,3.0,26.0,10.5,8.0,GREG,Greg's Gang,BN,WR
+8.0,16460.0,Adam Thielen,20.0,9.7,3.0,16.0,9.4,8.0,GREG,Greg's Gang,BN,WR
+8.0,4046692.0,Chase Claypool,20.0,10.54,3.0,3.0,7.8,8.0,GREG,Greg's Gang,BN,WR
+8.0,3045144.0,Tyler Boyd,20.0,11.3,3.0,4.0,9.6,8.0,GREG,Greg's Gang,BN,WR
+9.0,4243537.0,Gabe Davis,20.0,4.3,3.0,2.0,11.0,8.0,GREG,Greg's Gang,BN,WR
+9.0,16460.0,Adam Thielen,20.0,8.2,3.0,16.0,9.7,8.0,GREG,Greg's Gang,BN,WR
+9.0,4046692.0,Chase Claypool,20.0,2.7,3.0,3.0,6.8,8.0,GREG,Greg's Gang,BN,WR
+9.0,3045144.0,Tyler Boyd,20.0,6.9,3.0,4.0,9.5,8.0,GREG,Greg's Gang,BN,WR
+4.0,4360939.0,Rashod Bateman,20.0,3.2,3.0,33.0,10.1,9.0,Reid,I Hate Joe Burrow,BN,WR
+4.0,4361370.0,Chris Olave,20.0,14.7,3.0,18.0,10.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+4.0,2991662.0,Mack Hollins,20.0,4.8,3.0,13.0,8.9,9.0,Reid,I Hate Joe Burrow,BN,WR
+5.0,4360939.0,Rashod Bateman,20.0,0.0,3.0,33.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+5.0,4036348.0,Michael Gallup,20.0,6.4,3.0,6.0,7.9,9.0,Reid,I Hate Joe Burrow,BN,WR
+7.0,4360939.0,Rashod Bateman,20.0,6.2,3.0,33.0,9.9,9.0,Reid,I Hate Joe Burrow,BN,WR
+7.0,4036348.0,Michael Gallup,20.0,0.0,3.0,6.0,9.5,9.0,Reid,I Hate Joe Burrow,BN,WR
+6.0,4360939.0,Rashod Bateman,20.0,0.0,3.0,33.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+6.0,4361370.0,Chris Olave,20.0,0.0,3.0,18.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+6.0,4036348.0,Michael Gallup,20.0,2.8,3.0,6.0,7.8,9.0,Reid,I Hate Joe Burrow,BN,WR
+2.0,4360939.0,Rashod Bateman,20.0,18.8,3.0,33.0,9.2,9.0,Reid,I Hate Joe Burrow,BN,WR
+2.0,4361370.0,Chris Olave,20.0,8.5,3.0,18.0,7.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+2.0,4430191.0,Skyy Moore,20.0,0.0,3.0,12.0,2.3,9.0,Reid,I Hate Joe Burrow,BN,WR
+3.0,4360939.0,Rashod Bateman,20.0,4.9,3.0,33.0,10.3,9.0,Reid,I Hate Joe Burrow,BN,WR
+3.0,4361370.0,Chris Olave,20.0,19.2,3.0,18.0,7.8,9.0,Reid,I Hate Joe Burrow,BN,WR
+3.0,4430191.0,Skyy Moore,20.0,-2.0,3.0,12.0,1.2,9.0,Reid,I Hate Joe Burrow,BN,WR
+3.0,3916433.0,Jakobi Meyers,20.0,0.0,3.0,17.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+1.0,4360939.0,Rashod Bateman,20.0,12.9,3.0,33.0,9.9,9.0,Reid,I Hate Joe Burrow,BN,WR
+1.0,4361370.0,Chris Olave,20.0,7.6,3.0,18.0,8.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+1.0,4430191.0,Skyy Moore,20.0,4.5,3.0,12.0,4.5,9.0,Reid,I Hate Joe Burrow,BN,WR
+1.0,4569587.0,Wan'Dale Robinson,20.0,1.0,3.0,19.0,7.1,9.0,Reid,I Hate Joe Burrow,BN,WR
+10.0,4036348.0,Michael Gallup,20.0,5.5,3.0,6.0,7.8,9.0,Reid,I Hate Joe Burrow,BN,WR
+10.0,4039050.0,Devin Duvernay,20.0,0.0,3.0,33.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+8.0,3121422.0,Terry McLaurin,20.0,13.6,3.0,28.0,10.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+8.0,4360939.0,Rashod Bateman,20.0,0.0,3.0,33.0,9.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+8.0,4036348.0,Michael Gallup,20.0,6.9,3.0,6.0,7.9,9.0,Reid,I Hate Joe Burrow,BN,WR
+9.0,4241389.0,CeeDee Lamb,20.0,0.0,3.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+9.0,4036348.0,Michael Gallup,20.0,0.0,3.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,WR
+4.0,4374302.0,Amon-Ra St. Brown,20.0,0.0,3.0,8.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+4.0,15795.0,DeAndre Hopkins,20.0,0.0,3.0,22.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+4.0,4426354.0,George Pickens,20.0,13.2,3.0,23.0,7.4,10.0,DAD,A Cursed Entity,BN,WR
+5.0,4372414.0,Elijah Moore,20.0,1.6,3.0,20.0,9.4,10.0,DAD,A Cursed Entity,BN,WR
+5.0,15795.0,DeAndre Hopkins,20.0,0.0,3.0,22.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+5.0,4426354.0,George Pickens,20.0,11.3,3.0,23.0,7.9,10.0,DAD,A Cursed Entity,BN,WR
+7.0,4372414.0,Elijah Moore,20.0,0.0,3.0,20.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+7.0,4569618.0,Garrett Wilson,20.0,4.4,3.0,20.0,8.6,10.0,DAD,A Cursed Entity,BN,WR
+6.0,4374302.0,Amon-Ra St. Brown,20.0,0.0,3.0,8.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+6.0,4372414.0,Elijah Moore,20.0,0.0,3.0,20.0,8.7,10.0,DAD,A Cursed Entity,BN,WR
+6.0,15795.0,DeAndre Hopkins,20.0,0.0,3.0,22.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+6.0,4426354.0,George Pickens,20.0,4.3,3.0,23.0,7.9,10.0,DAD,A Cursed Entity,BN,WR
+2.0,15795.0,DeAndre Hopkins,20.0,0.0,3.0,22.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+2.0,4426354.0,George Pickens,20.0,2.8,3.0,23.0,7.0,10.0,DAD,A Cursed Entity,BN,WR
+2.0,4569618.0,Garrett Wilson,20.0,26.0,3.0,20.0,6.6,10.0,DAD,A Cursed Entity,BN,WR
+3.0,4372414.0,Elijah Moore,20.0,6.9,3.0,20.0,9.2,10.0,DAD,A Cursed Entity,BN,WR
+3.0,15795.0,DeAndre Hopkins,20.0,0.0,3.0,22.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+3.0,4426354.0,George Pickens,20.0,5.4,3.0,23.0,5.6,10.0,DAD,A Cursed Entity,BN,WR
+1.0,15795.0,DeAndre Hopkins,20.0,0.0,3.0,22.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+1.0,4426354.0,George Pickens,20.0,0.8,3.0,23.0,6.9,10.0,DAD,A Cursed Entity,BN,WR
+1.0,4249417.0,Jalen Tolbert,20.0,0.0,3.0,6.0,3.8,10.0,DAD,A Cursed Entity,BN,WR
+1.0,4569618.0,Garrett Wilson,20.0,7.2,3.0,20.0,6.9,10.0,DAD,A Cursed Entity,BN,WR
+10.0,4569618.0,Garrett Wilson,20.0,0.0,3.0,20.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+10.0,3916433.0,Jakobi Meyers,20.0,0.0,3.0,17.0,0.0,10.0,DAD,A Cursed Entity,BN,WR
+8.0,4372414.0,Elijah Moore,20.0,0.0,3.0,20.0,7.0,10.0,DAD,A Cursed Entity,BN,WR
+8.0,4569618.0,Garrett Wilson,20.0,14.5,3.0,20.0,8.5,10.0,DAD,A Cursed Entity,BN,WR
+8.0,3916433.0,Jakobi Meyers,20.0,16.5,3.0,17.0,8.3,10.0,DAD,A Cursed Entity,BN,WR
+9.0,4569618.0,Garrett Wilson,20.0,13.9,3.0,20.0,8.4,10.0,DAD,A Cursed Entity,BN,WR
+7.0,4241372.0,Marquise Brown,21.0,0.0,3.0,22.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+10.0,4241372.0,Marquise Brown,21.0,0.0,3.0,22.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+8.0,4241372.0,Marquise Brown,21.0,0.0,3.0,22.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+9.0,4241372.0,Marquise Brown,21.0,0.0,3.0,22.0,0.0,2.0,RIP,Matthew Berry Dead,BN,WR
+8.0,3126486.0,Deebo Samuel,21.0,0.0,3.0,25.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+9.0,3126486.0,Deebo Samuel,21.0,0.0,3.0,25.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,WR
+4.0,3135321.0,Hunter Renfrow,21.0,0.0,3.0,13.0,0.0,5.0,NIX,Defend the Crown,BN,WR
+4.0,3929630.0,Saquon Barkley,2.0,17.2,2.0,19.0,17.8,1.0,QUON,Quon's  League ,RB,RB
+4.0,4239934.0,AJ Dillon,2.0,8.9,2.0,9.0,11.5,1.0,QUON,Quon's  League ,RB,RB
+5.0,3929630.0,Saquon Barkley,2.0,18.1,2.0,19.0,18.0,1.0,QUON,Quon's  League ,RB,RB
+5.0,4569173.0,Rhamondre Stevenson,2.0,18.5,2.0,17.0,12.2,1.0,QUON,Quon's  League ,RB,RB
+7.0,3929630.0,Saquon Barkley,2.0,15.5,2.0,19.0,18.8,1.0,QUON,Quon's  League ,RB,RB
+7.0,4569173.0,Rhamondre Stevenson,2.0,19.8,2.0,17.0,11.9,1.0,QUON,Quon's  League ,RB,RB
+6.0,3929630.0,Saquon Barkley,2.0,17.0,2.0,19.0,21.2,1.0,QUON,Quon's  League ,RB,RB
+6.0,4569173.0,Rhamondre Stevenson,2.0,23.1,2.0,17.0,14.5,1.0,QUON,Quon's  League ,RB,RB
+2.0,3929630.0,Saquon Barkley,2.0,10.3,2.0,19.0,15.6,1.0,QUON,Quon's  League ,RB,RB
+2.0,4239934.0,AJ Dillon,2.0,7.2,2.0,9.0,11.3,1.0,QUON,Quon's  League ,RB,RB
+3.0,3929630.0,Saquon Barkley,2.0,20.6,2.0,19.0,16.2,1.0,QUON,Quon's  League ,RB,RB
+3.0,4239934.0,AJ Dillon,2.0,4.8,2.0,9.0,11.1,1.0,QUON,Quon's  League ,RB,RB
+1.0,3929630.0,Saquon Barkley,2.0,30.4,2.0,19.0,14.0,1.0,QUON,Quon's  League ,RB,RB
+1.0,4239934.0,AJ Dillon,2.0,17.6,2.0,9.0,9.5,1.0,QUON,Quon's  League ,RB,RB
+10.0,3929630.0,Saquon Barkley,2.0,22.5,2.0,19.0,23.3,1.0,QUON,Quon's  League ,RB,RB
+10.0,3125116.0,D'Onta Foreman,2.0,19.0,2.0,29.0,10.8,1.0,QUON,Quon's  League ,RB,RB
+8.0,3929630.0,Saquon Barkley,2.0,13.7,2.0,19.0,21.2,1.0,QUON,Quon's  League ,RB,RB
+8.0,4569173.0,Rhamondre Stevenson,2.0,17.8,2.0,17.0,13.0,1.0,QUON,Quon's  League ,RB,RB
+9.0,4569173.0,Rhamondre Stevenson,2.0,14.5,2.0,17.0,16.4,1.0,QUON,Quon's  League ,RB,RB
+9.0,3125116.0,D'Onta Foreman,2.0,3.1,2.0,29.0,12.0,1.0,QUON,Quon's  League ,RB,RB
+4.0,3054850.0,Alvin Kamara,2.0,0.0,2.0,18.0,0.0,2.0,RIP,Matthew Berry Dead,RB,RB
+4.0,4427366.0,Breece Hall,2.0,14.8,2.0,20.0,10.3,2.0,RIP,Matthew Berry Dead,RB,RB
+5.0,3054850.0,Alvin Kamara,2.0,20.4,2.0,18.0,15.8,2.0,RIP,Matthew Berry Dead,RB,RB
+5.0,4427366.0,Breece Hall,2.0,26.7,2.0,20.0,11.1,2.0,RIP,Matthew Berry Dead,RB,RB
+7.0,3054850.0,Alvin Kamara,2.0,14.0,2.0,18.0,15.8,2.0,RIP,Matthew Berry Dead,RB,RB
+7.0,4427366.0,Breece Hall,2.0,13.2,2.0,20.0,13.8,2.0,RIP,Matthew Berry Dead,RB,RB
+6.0,3054850.0,Alvin Kamara,2.0,15.4,2.0,18.0,15.1,2.0,RIP,Matthew Berry Dead,RB,RB
+6.0,4427366.0,Breece Hall,2.0,19.1,2.0,20.0,14.4,2.0,RIP,Matthew Berry Dead,RB,RB
+2.0,3119195.0,Chase Edmonds,2.0,4.6,2.0,7.0,11.3,2.0,RIP,Matthew Berry Dead,RB,RB
+2.0,3139925.0,Rashaad Penny,2.0,1.5,2.0,26.0,11.2,2.0,RIP,Matthew Berry Dead,RB,RB
+3.0,3054850.0,Alvin Kamara,2.0,6.3,2.0,18.0,16.0,2.0,RIP,Matthew Berry Dead,RB,RB
+3.0,3139925.0,Rashaad Penny,2.0,7.4,2.0,26.0,10.7,2.0,RIP,Matthew Berry Dead,RB,RB
+1.0,3054850.0,Alvin Kamara,2.0,6.1,2.0,18.0,16.8,2.0,RIP,Matthew Berry Dead,RB,RB
+1.0,3139925.0,Rashaad Penny,2.0,7.7,2.0,26.0,12.3,2.0,RIP,Matthew Berry Dead,RB,RB
+10.0,3054850.0,Alvin Kamara,2.0,6.0,2.0,18.0,17.6,2.0,RIP,Matthew Berry Dead,RB,RB
+10.0,4569987.0,Jaylen Warren,2.0,9.2,2.0,23.0,5.5,2.0,RIP,Matthew Berry Dead,RB,RB
+8.0,3054850.0,Alvin Kamara,2.0,38.3,2.0,18.0,16.5,2.0,RIP,Matthew Berry Dead,RB,RB
+8.0,15920.0,Latavius Murray,2.0,12.4,2.0,7.0,8.1,2.0,RIP,Matthew Berry Dead,RB,RB
+9.0,3054850.0,Alvin Kamara,2.0,7.7,2.0,18.0,17.8,2.0,RIP,Matthew Berry Dead,RB,RB
+9.0,4240455.0,Deon Jackson,2.0,4.6,2.0,11.0,12.7,2.0,RIP,Matthew Berry Dead,RB,RB
+4.0,3068267.0,Austin Ekeler,2.0,31.9,2.0,24.0,15.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+4.0,3128720.0,Nick Chubb,2.0,19.7,2.0,5.0,15.5,3.0,TnM,Team Tenner n Mamby ,RB,RB
+5.0,3068267.0,Austin Ekeler,2.0,33.9,2.0,24.0,15.8,3.0,TnM,Team Tenner n Mamby ,RB,RB
+5.0,3128720.0,Nick Chubb,2.0,25.4,2.0,5.0,17.1,3.0,TnM,Team Tenner n Mamby ,RB,RB
+7.0,3068267.0,Austin Ekeler,2.0,30.7,2.0,24.0,17.3,3.0,TnM,Team Tenner n Mamby ,RB,RB
+7.0,3128720.0,Nick Chubb,2.0,17.7,2.0,5.0,15.5,3.0,TnM,Team Tenner n Mamby ,RB,RB
+6.0,3068267.0,Austin Ekeler,2.0,19.3,2.0,24.0,15.1,3.0,TnM,Team Tenner n Mamby ,RB,RB
+6.0,3128720.0,Nick Chubb,2.0,7.5,2.0,5.0,16.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+2.0,3068267.0,Austin Ekeler,2.0,13.9,2.0,24.0,16.3,3.0,TnM,Team Tenner n Mamby ,RB,RB
+2.0,3128720.0,Nick Chubb,2.0,30.8,2.0,5.0,14.1,3.0,TnM,Team Tenner n Mamby ,RB,RB
+3.0,3068267.0,Austin Ekeler,2.0,9.3,2.0,24.0,16.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+3.0,3128720.0,Nick Chubb,2.0,17.3,2.0,5.0,13.9,3.0,TnM,Team Tenner n Mamby ,RB,RB
+1.0,3068267.0,Austin Ekeler,2.0,9.2,2.0,24.0,17.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+1.0,3128720.0,Nick Chubb,2.0,14.8,2.0,5.0,13.1,3.0,TnM,Team Tenner n Mamby ,RB,RB
+10.0,3068267.0,Austin Ekeler,2.0,9.8,2.0,24.0,16.8,3.0,TnM,Team Tenner n Mamby ,RB,RB
+10.0,3128720.0,Nick Chubb,2.0,13.6,2.0,5.0,17.3,3.0,TnM,Team Tenner n Mamby ,RB,RB
+8.0,3128720.0,Nick Chubb,2.0,24.9,2.0,5.0,15.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+8.0,4040761.0,Devin Singletary,2.0,8.8,2.0,2.0,13.2,3.0,TnM,Team Tenner n Mamby ,RB,RB
+9.0,3068267.0,Austin Ekeler,2.0,20.6,2.0,24.0,18.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+9.0,4040761.0,Devin Singletary,2.0,6.8,2.0,2.0,10.4,3.0,TnM,Team Tenner n Mamby ,RB,RB
+4.0,3116385.0,Joe Mixon,2.0,15.4,2.0,4.0,15.5,4.0,Team,Mixon and Nixon ,RB,RB
+4.0,3059915.0,Kareem Hunt,2.0,7.8,2.0,5.0,10.8,4.0,Team,Mixon and Nixon ,RB,RB
+5.0,3116385.0,Joe Mixon,2.0,10.3,2.0,4.0,16.0,4.0,Team,Mixon and Nixon ,RB,RB
+5.0,4035538.0,David Montgomery,2.0,16.2,2.0,3.0,13.2,4.0,Team,Mixon and Nixon ,RB,RB
+7.0,3116385.0,Joe Mixon,2.0,16.6,2.0,4.0,15.4,4.0,Team,Mixon and Nixon ,RB,RB
+7.0,4035538.0,David Montgomery,2.0,12.2,2.0,3.0,11.8,4.0,Team,Mixon and Nixon ,RB,RB
+6.0,3116385.0,Joe Mixon,2.0,14.8,2.0,4.0,14.7,4.0,Team,Mixon and Nixon ,RB,RB
+6.0,4035538.0,David Montgomery,2.0,8.5,2.0,3.0,14.8,4.0,Team,Mixon and Nixon ,RB,RB
+2.0,3116385.0,Joe Mixon,2.0,9.8,2.0,4.0,15.3,4.0,Team,Mixon and Nixon ,RB,RB
+2.0,4259545.0,D'Andre Swift,2.0,15.7,2.0,8.0,13.5,4.0,Team,Mixon and Nixon ,RB,RB
+3.0,3116385.0,Joe Mixon,2.0,5.3,2.0,4.0,16.5,4.0,Team,Mixon and Nixon ,RB,RB
+3.0,4035538.0,David Montgomery,2.0,1.1,2.0,3.0,14.2,4.0,Team,Mixon and Nixon ,RB,RB
+1.0,3116385.0,Joe Mixon,2.0,18.0,2.0,4.0,16.0,4.0,Team,Mixon and Nixon ,RB,RB
+1.0,4259545.0,D'Andre Swift,2.0,25.0,2.0,8.0,13.8,4.0,Team,Mixon and Nixon ,RB,RB
+10.0,4035538.0,David Montgomery,2.0,4.9,2.0,3.0,12.0,4.0,Team,Mixon and Nixon ,RB,RB
+10.0,3059915.0,Kareem Hunt,2.0,2.4,2.0,5.0,8.9,4.0,Team,Mixon and Nixon ,RB,RB
+8.0,3116385.0,Joe Mixon,2.0,9.4,2.0,4.0,16.5,4.0,Team,Mixon and Nixon ,RB,RB
+8.0,4373626.0,Tyler Allgeier,2.0,16.0,2.0,1.0,11.0,4.0,Team,Mixon and Nixon ,RB,RB
+9.0,3116385.0,Joe Mixon,2.0,53.1,2.0,4.0,16.2,4.0,Team,Mixon and Nixon ,RB,RB
+9.0,4035538.0,David Montgomery,2.0,4.9,2.0,3.0,10.8,4.0,Team,Mixon and Nixon ,RB,RB
+4.0,3116593.0,Dalvin Cook,2.0,9.6,2.0,16.0,13.8,5.0,NIX,Defend the Crown,RB,RB
+4.0,3051392.0,Ezekiel Elliott,2.0,9.1,2.0,6.0,12.2,5.0,NIX,Defend the Crown,RB,RB
+5.0,3116593.0,Dalvin Cook,2.0,25.1,2.0,16.0,14.4,5.0,NIX,Defend the Crown,RB,RB
+5.0,4360238.0,Dameon Pierce,2.0,18.8,2.0,34.0,12.4,5.0,NIX,Defend the Crown,RB,RB
+7.0,3051392.0,Ezekiel Elliott,2.0,17.7,2.0,6.0,12.9,5.0,NIX,Defend the Crown,RB,RB
+7.0,4360238.0,Dameon Pierce,2.0,13.7,2.0,34.0,16.3,5.0,NIX,Defend the Crown,RB,RB
+6.0,3116593.0,Dalvin Cook,2.0,14.8,2.0,16.0,15.2,5.0,NIX,Defend the Crown,RB,RB
+6.0,3051392.0,Ezekiel Elliott,2.0,15.1,2.0,6.0,9.4,5.0,NIX,Defend the Crown,RB,RB
+2.0,3116593.0,Dalvin Cook,2.0,5.6,2.0,16.0,16.3,5.0,NIX,Defend the Crown,RB,RB
+2.0,3051392.0,Ezekiel Elliott,2.0,5.4,2.0,6.0,11.9,5.0,NIX,Defend the Crown,RB,RB
+3.0,3116593.0,Dalvin Cook,2.0,13.6,2.0,16.0,16.5,5.0,NIX,Defend the Crown,RB,RB
+3.0,3051392.0,Ezekiel Elliott,2.0,14.0,2.0,6.0,12.6,5.0,NIX,Defend the Crown,RB,RB
+1.0,3116593.0,Dalvin Cook,2.0,12.3,2.0,16.0,15.2,5.0,NIX,Defend the Crown,RB,RB
+1.0,3051392.0,Ezekiel Elliott,2.0,5.4,2.0,6.0,11.9,5.0,NIX,Defend the Crown,RB,RB
+10.0,3116593.0,Dalvin Cook,2.0,22.1,2.0,16.0,14.0,5.0,NIX,Defend the Crown,RB,RB
+10.0,15807.0,Cordarrelle Patterson,2.0,5.5,2.0,1.0,11.9,5.0,NIX,Defend the Crown,RB,RB
+8.0,3116593.0,Dalvin Cook,2.0,22.6,2.0,16.0,15.1,5.0,NIX,Defend the Crown,RB,RB
+8.0,4360238.0,Dameon Pierce,2.0,12.6,2.0,34.0,15.8,5.0,NIX,Defend the Crown,RB,RB
+9.0,3116593.0,Dalvin Cook,2.0,12.6,2.0,16.0,15.8,5.0,NIX,Defend the Crown,RB,RB
+9.0,4360238.0,Dameon Pierce,2.0,13.9,2.0,34.0,15.1,5.0,NIX,Defend the Crown,RB,RB
+4.0,4052042.0,James Robinson,2.0,2.9,2.0,20.0,12.6,6.0,ITTO,Team Ittounas,RB,RB
+4.0,4035886.0,Khalil Herbert,2.0,10.6,2.0,3.0,13.8,6.0,ITTO,Team Ittounas,RB,RB
+5.0,3115364.0,Leonard Fournette,2.0,30.9,2.0,27.0,14.0,6.0,ITTO,Team Ittounas,RB,RB
+5.0,4045163.0,Miles Sanders,2.0,7.4,2.0,21.0,13.0,6.0,ITTO,Team Ittounas,RB,RB
+7.0,3115364.0,Leonard Fournette,2.0,3.6,2.0,27.0,14.7,6.0,ITTO,Team Ittounas,RB,RB
+7.0,4052042.0,James Robinson,2.0,0.0,2.0,20.0,9.3,6.0,ITTO,Team Ittounas,RB,RB
+6.0,3115364.0,Leonard Fournette,2.0,19.1,2.0,27.0,15.0,6.0,ITTO,Team Ittounas,RB,RB
+6.0,4045163.0,Miles Sanders,2.0,13.7,2.0,21.0,12.1,6.0,ITTO,Team Ittounas,RB,RB
+2.0,3115364.0,Leonard Fournette,2.0,8.4,2.0,27.0,15.2,6.0,ITTO,Team Ittounas,RB,RB
+2.0,4045163.0,Miles Sanders,2.0,10.1,2.0,21.0,12.3,6.0,ITTO,Team Ittounas,RB,RB
+3.0,3115364.0,Leonard Fournette,2.0,9.5,2.0,27.0,15.7,6.0,ITTO,Team Ittounas,RB,RB
+3.0,4045163.0,Miles Sanders,2.0,4.9,2.0,21.0,12.5,6.0,ITTO,Team Ittounas,RB,RB
+1.0,3115364.0,Leonard Fournette,2.0,14.7,2.0,27.0,15.1,6.0,ITTO,Team Ittounas,RB,RB
+1.0,4045163.0,Miles Sanders,2.0,17.5,2.0,21.0,12.0,6.0,ITTO,Team Ittounas,RB,RB
+10.0,3115364.0,Leonard Fournette,2.0,10.3,2.0,27.0,11.4,6.0,ITTO,Team Ittounas,RB,RB
+10.0,4045163.0,Miles Sanders,2.0,5.4,2.0,21.0,12.1,6.0,ITTO,Team Ittounas,RB,RB
+8.0,3115364.0,Leonard Fournette,2.0,13.3,2.0,27.0,12.3,6.0,ITTO,Team Ittounas,RB,RB
+8.0,4045163.0,Miles Sanders,2.0,13.8,2.0,21.0,13.2,6.0,ITTO,Team Ittounas,RB,RB
+9.0,3115364.0,Leonard Fournette,2.0,8.5,2.0,27.0,11.4,6.0,ITTO,Team Ittounas,RB,RB
+9.0,4045163.0,Miles Sanders,2.0,15.3,2.0,21.0,12.8,6.0,ITTO,Team Ittounas,RB,RB
+4.0,4241457.0,Najee Harris,2.0,7.4,2.0,23.0,14.4,7.0,THIC,Kittle's Coming Home!,RB,RB
+4.0,3045147.0,James Conner,2.0,9.2,2.0,22.0,13.6,7.0,THIC,Kittle's Coming Home!,RB,RB
+5.0,4241457.0,Najee Harris,2.0,5.1,2.0,23.0,11.3,7.0,THIC,Kittle's Coming Home!,RB,RB
+5.0,3045147.0,James Conner,2.0,6.8,2.0,22.0,11.3,7.0,THIC,Kittle's Coming Home!,RB,RB
+7.0,4241457.0,Najee Harris,2.0,9.5,2.0,23.0,11.7,7.0,THIC,Kittle's Coming Home!,RB,RB
+7.0,2576414.0,Raheem Mostert,2.0,19.9,2.0,15.0,13.8,7.0,THIC,Kittle's Coming Home!,RB,RB
+6.0,4241457.0,Najee Harris,2.0,11.9,2.0,23.0,10.8,7.0,THIC,Kittle's Coming Home!,RB,RB
+6.0,2576414.0,Raheem Mostert,2.0,6.3,2.0,15.0,13.5,7.0,THIC,Kittle's Coming Home!,RB,RB
+2.0,4241457.0,Najee Harris,2.0,11.4,2.0,23.0,14.4,7.0,THIC,Kittle's Coming Home!,RB,RB
+2.0,3045147.0,James Conner,2.0,6.1,2.0,22.0,15.5,7.0,THIC,Kittle's Coming Home!,RB,RB
+3.0,4241457.0,Najee Harris,2.0,11.6,2.0,23.0,13.9,7.0,THIC,Kittle's Coming Home!,RB,RB
+3.0,3045147.0,James Conner,2.0,7.2,2.0,22.0,13.0,7.0,THIC,Kittle's Coming Home!,RB,RB
+1.0,4241457.0,Najee Harris,2.0,9.6,2.0,23.0,14.4,7.0,THIC,Kittle's Coming Home!,RB,RB
+1.0,3045147.0,James Conner,2.0,14.0,2.0,22.0,15.4,7.0,THIC,Kittle's Coming Home!,RB,RB
+10.0,4241457.0,Najee Harris,2.0,9.9,2.0,23.0,10.4,7.0,THIC,Kittle's Coming Home!,RB,RB
+10.0,4567048.0,Kenneth Walker III,2.0,10.2,2.0,26.0,15.2,7.0,THIC,Kittle's Coming Home!,RB,RB
+8.0,4567048.0,Kenneth Walker III,2.0,11.7,2.0,26.0,13.0,7.0,THIC,Kittle's Coming Home!,RB,RB
+8.0,2576414.0,Raheem Mostert,2.0,7.2,2.0,15.0,14.6,7.0,THIC,Kittle's Coming Home!,RB,RB
+9.0,4567048.0,Kenneth Walker III,2.0,26.4,2.0,26.0,14.0,7.0,THIC,Kittle's Coming Home!,RB,RB
+9.0,2576414.0,Raheem Mostert,2.0,8.6,2.0,15.0,12.7,7.0,THIC,Kittle's Coming Home!,RB,RB
+4.0,3043078.0,Derrick Henry,2.0,22.2,2.0,10.0,15.3,8.0,GREG,Greg's Gang,RB,RB
+4.0,3042519.0,Aaron Jones,2.0,13.0,2.0,9.0,13.2,8.0,GREG,Greg's Gang,RB,RB
+5.0,3043078.0,Derrick Henry,2.0,26.2,2.0,10.0,16.9,8.0,GREG,Greg's Gang,RB,RB
+5.0,3042519.0,Aaron Jones,2.0,9.0,2.0,9.0,13.2,8.0,GREG,Greg's Gang,RB,RB
+7.0,3043078.0,Derrick Henry,2.0,15.3,2.0,10.0,17.8,8.0,GREG,Greg's Gang,RB,RB
+7.0,3042519.0,Aaron Jones,2.0,24.1,2.0,9.0,12.5,8.0,GREG,Greg's Gang,RB,RB
+6.0,3042519.0,Aaron Jones,2.0,5.9,2.0,9.0,13.5,8.0,GREG,Greg's Gang,RB,RB
+6.0,4241474.0,Brian Robinson Jr.,2.0,12.0,2.0,28.0,7.0,8.0,GREG,Greg's Gang,RB,RB
+2.0,3043078.0,Derrick Henry,2.0,8.5,2.0,10.0,15.9,8.0,GREG,Greg's Gang,RB,RB
+2.0,3042519.0,Aaron Jones,2.0,30.5,2.0,9.0,13.7,8.0,GREG,Greg's Gang,RB,RB
+3.0,3043078.0,Derrick Henry,2.0,22.8,2.0,10.0,16.6,8.0,GREG,Greg's Gang,RB,RB
+3.0,3042519.0,Aaron Jones,2.0,4.2,2.0,9.0,12.1,8.0,GREG,Greg's Gang,RB,RB
+1.0,3043078.0,Derrick Henry,2.0,8.2,2.0,10.0,17.1,8.0,GREG,Greg's Gang,RB,RB
+1.0,3042519.0,Aaron Jones,2.0,9.1,2.0,9.0,13.7,8.0,GREG,Greg's Gang,RB,RB
+10.0,3043078.0,Derrick Henry,2.0,7.7,2.0,10.0,16.6,8.0,GREG,Greg's Gang,RB,RB
+10.0,4047365.0,Josh Jacobs,2.0,19.6,2.0,13.0,15.5,8.0,GREG,Greg's Gang,RB,RB
+8.0,3043078.0,Derrick Henry,2.0,35.3,2.0,10.0,18.5,8.0,GREG,Greg's Gang,RB,RB
+8.0,4047365.0,Josh Jacobs,2.0,6.4,2.0,13.0,17.9,8.0,GREG,Greg's Gang,RB,RB
+9.0,3043078.0,Derrick Henry,2.0,23.5,2.0,10.0,18.7,8.0,GREG,Greg's Gang,RB,RB
+9.0,4047365.0,Josh Jacobs,2.0,10.2,2.0,13.0,16.9,8.0,GREG,Greg's Gang,RB,RB
+4.0,4361579.0,Javonte Williams,2.0,3.2,2.0,7.0,13.2,9.0,Reid,I Hate Joe Burrow,RB,RB
+4.0,3122976.0,Jeff Wilson Jr.,2.0,13.4,2.0,15.0,13.8,9.0,Reid,I Hate Joe Burrow,RB,RB
+5.0,3117251.0,Christian McCaffrey,2.0,19.9,2.0,25.0,15.4,9.0,Reid,I Hate Joe Burrow,RB,RB
+5.0,3122976.0,Jeff Wilson Jr.,2.0,19.7,2.0,15.0,14.4,9.0,Reid,I Hate Joe Burrow,RB,RB
+7.0,3117251.0,Christian McCaffrey,2.0,7.2,2.0,25.0,8.6,9.0,Reid,I Hate Joe Burrow,RB,RB
+7.0,3122976.0,Jeff Wilson Jr.,2.0,5.4,2.0,15.0,11.3,9.0,Reid,I Hate Joe Burrow,RB,RB
+6.0,3117251.0,Christian McCaffrey,2.0,19.3,2.0,25.0,17.9,9.0,Reid,I Hate Joe Burrow,RB,RB
+6.0,3122976.0,Jeff Wilson Jr.,2.0,0.5,2.0,15.0,13.6,9.0,Reid,I Hate Joe Burrow,RB,RB
+2.0,3117251.0,Christian McCaffrey,2.0,14.8,2.0,25.0,19.5,9.0,Reid,I Hate Joe Burrow,RB,RB
+2.0,4361579.0,Javonte Williams,2.0,9.0,2.0,7.0,14.2,9.0,Reid,I Hate Joe Burrow,RB,RB
+3.0,3117251.0,Christian McCaffrey,2.0,12.5,2.0,25.0,18.5,9.0,Reid,I Hate Joe Burrow,RB,RB
+3.0,4361579.0,Javonte Williams,2.0,7.5,2.0,7.0,12.6,9.0,Reid,I Hate Joe Burrow,RB,RB
+1.0,3117251.0,Christian McCaffrey,2.0,13.7,2.0,25.0,18.0,9.0,Reid,I Hate Joe Burrow,RB,RB
+1.0,4361579.0,Javonte Williams,2.0,14.3,2.0,7.0,13.7,9.0,Reid,I Hate Joe Burrow,RB,RB
+10.0,3117251.0,Christian McCaffrey,2.0,15.7,2.0,25.0,20.3,9.0,Reid,I Hate Joe Burrow,RB,RB
+10.0,4239996.0,Travis Etienne Jr.,2.0,8.8,2.0,30.0,17.5,9.0,Reid,I Hate Joe Burrow,RB,RB
+8.0,3117251.0,Christian McCaffrey,2.0,36.26,2.0,25.0,16.4,9.0,Reid,I Hate Joe Burrow,RB,RB
+8.0,4239996.0,Travis Etienne Jr.,2.0,23.7,2.0,30.0,13.7,9.0,Reid,I Hate Joe Burrow,RB,RB
+9.0,4239996.0,Travis Etienne Jr.,2.0,25.6,2.0,30.0,16.4,9.0,Reid,I Hate Joe Burrow,RB,RB
+9.0,4240657.0,Michael Carter,2.0,15.1,2.0,20.0,10.7,9.0,Reid,I Hate Joe Burrow,RB,RB
+4.0,4242335.0,Jonathan Taylor,2.0,2.8,2.0,11.0,19.9,10.0,DAD,A Cursed Entity,RB,RB
+4.0,4241985.0,J.K. Dobbins,2.0,20.3,2.0,33.0,9.6,10.0,DAD,A Cursed Entity,RB,RB
+5.0,4240021.0,Cam Akers,2.0,3.3,2.0,14.0,7.4,10.0,DAD,A Cursed Entity,RB,RB
+5.0,4241985.0,J.K. Dobbins,2.0,4.4,2.0,33.0,11.9,10.0,DAD,A Cursed Entity,RB,RB
+7.0,4242335.0,Jonathan Taylor,2.0,12.0,2.0,11.0,16.9,10.0,DAD,A Cursed Entity,RB,RB
+7.0,4361529.0,Isiah Pacheco,2.0,9.3,2.0,12.0,7.2,10.0,DAD,A Cursed Entity,RB,RB
+6.0,4241985.0,J.K. Dobbins,2.0,1.5,2.0,33.0,10.7,10.0,DAD,A Cursed Entity,RB,RB
+6.0,4039359.0,Darrell Henderson Jr.,2.0,12.2,2.0,14.0,11.3,10.0,DAD,A Cursed Entity,RB,RB
+2.0,4242335.0,Jonathan Taylor,2.0,6.8,2.0,11.0,20.4,10.0,DAD,A Cursed Entity,RB,RB
+2.0,4039359.0,Darrell Henderson Jr.,2.0,10.7,2.0,14.0,14.3,10.0,DAD,A Cursed Entity,RB,RB
+3.0,4242335.0,Jonathan Taylor,2.0,10.6,2.0,11.0,18.4,10.0,DAD,A Cursed Entity,RB,RB
+3.0,4240021.0,Cam Akers,2.0,10.1,2.0,14.0,10.0,10.0,DAD,A Cursed Entity,RB,RB
+1.0,4242335.0,Jonathan Taylor,2.0,25.5,2.0,11.0,20.5,10.0,DAD,A Cursed Entity,RB,RB
+1.0,4240021.0,Cam Akers,2.0,0.0,2.0,14.0,11.3,10.0,DAD,A Cursed Entity,RB,RB
+10.0,4242335.0,Jonathan Taylor,2.0,23.3,2.0,11.0,14.8,10.0,DAD,A Cursed Entity,RB,RB
+10.0,4039359.0,Darrell Henderson Jr.,2.0,9.7,2.0,14.0,8.3,10.0,DAD,A Cursed Entity,RB,RB
+8.0,4242335.0,Jonathan Taylor,2.0,5.6,2.0,11.0,15.8,10.0,DAD,A Cursed Entity,RB,RB
+8.0,3051926.0,Gus Edwards,2.0,6.5,2.0,33.0,8.0,10.0,DAD,A Cursed Entity,RB,RB
+9.0,4361529.0,Isiah Pacheco,2.0,2.4,2.0,12.0,7.6,10.0,DAD,A Cursed Entity,RB,RB
+9.0,2979843.0,Kenyan Drake,2.0,23.9,2.0,33.0,8.8,10.0,DAD,A Cursed Entity,RB,RB
+8.0,3125116.0,D'Onta Foreman,23.0,31.8,2.0,29.0,10.9,1.0,QUON,Quon's  League ,FLEX,RB
+8.0,4242873.0,Eno Benjamin,23.0,6.5,2.0,34.0,12.8,2.0,RIP,Matthew Berry Dead,FLEX,RB
+4.0,2980453.0,Jamaal Williams,23.0,23.4,2.0,8.0,12.8,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+5.0,2980453.0,Jamaal Williams,23.0,5.6,2.0,8.0,14.8,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+7.0,2980453.0,Jamaal Williams,23.0,6.8,2.0,8.0,12.0,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+6.0,4040761.0,Devin Singletary,23.0,12.7,2.0,2.0,11.1,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+2.0,4360294.0,Antonio Gibson,23.0,11.1,2.0,28.0,14.9,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+1.0,4360294.0,Antonio Gibson,23.0,16.5,2.0,28.0,15.4,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+10.0,2980453.0,Jamaal Williams,23.0,11.9,2.0,8.0,11.4,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+9.0,2980453.0,Jamaal Williams,23.0,10.1,2.0,8.0,10.8,3.0,TnM,Team Tenner n Mamby ,FLEX,RB
+7.0,4259545.0,D'Andre Swift,23.0,0.0,2.0,8.0,0.0,4.0,Team,Mixon and Nixon ,FLEX,RB
+2.0,3059915.0,Kareem Hunt,23.0,8.4,2.0,5.0,10.1,4.0,Team,Mixon and Nixon ,FLEX,RB
+3.0,4259545.0,D'Andre Swift,23.0,6.1,2.0,8.0,14.4,4.0,Team,Mixon and Nixon ,FLEX,RB
+1.0,4035538.0,David Montgomery,23.0,6.5,2.0,3.0,13.1,4.0,Team,Mixon and Nixon ,FLEX,RB
+10.0,4259545.0,D'Andre Swift,23.0,7.7,2.0,8.0,11.1,4.0,Team,Mixon and Nixon ,FLEX,RB
+8.0,4259545.0,D'Andre Swift,23.0,11.8,2.0,8.0,11.3,4.0,Team,Mixon and Nixon ,FLEX,RB
+9.0,4259545.0,D'Andre Swift,23.0,6.5,2.0,8.0,11.1,4.0,Team,Mixon and Nixon ,FLEX,RB
+4.0,15807.0,Cordarrelle Patterson,23.0,9.8,2.0,1.0,14.2,5.0,NIX,Defend the Crown,FLEX,RB
+5.0,4242214.0,Clyde Edwards-Helaire,23.0,5.0,2.0,12.0,12.7,5.0,NIX,Defend the Crown,FLEX,RB
+7.0,3916148.0,Tony Pollard,23.0,11.9,2.0,6.0,10.0,5.0,NIX,Defend the Crown,FLEX,RB
+2.0,15807.0,Cordarrelle Patterson,23.0,5.1,2.0,1.0,11.3,5.0,NIX,Defend the Crown,FLEX,RB
+3.0,15807.0,Cordarrelle Patterson,23.0,21.8,2.0,1.0,10.7,5.0,NIX,Defend the Crown,FLEX,RB
+10.0,4360238.0,Dameon Pierce,23.0,11.2,2.0,34.0,15.4,5.0,NIX,Defend the Crown,FLEX,RB
+8.0,3916148.0,Tony Pollard,23.0,33.2,2.0,6.0,15.5,5.0,NIX,Defend the Crown,FLEX,RB
+4.0,3115364.0,Leonard Fournette,23.0,14.9,2.0,27.0,15.9,6.0,ITTO,Team Ittounas,FLEX,RB
+5.0,4052042.0,James Robinson,23.0,4.9,2.0,20.0,12.2,6.0,ITTO,Team Ittounas,FLEX,RB
+6.0,2576434.0,Melvin Gordon III,23.0,0.8,2.0,7.0,11.4,6.0,ITTO,Team Ittounas,FLEX,RB
+7.0,4567048.0,Kenneth Walker III,23.0,28.7,2.0,26.0,12.7,7.0,THIC,Kittle's Coming Home!,FLEX,RB
+8.0,4241457.0,Najee Harris,23.0,8.96,2.0,23.0,10.7,7.0,THIC,Kittle's Coming Home!,FLEX,RB
+4.0,4047365.0,Josh Jacobs,23.0,32.0,2.0,13.0,12.2,8.0,GREG,Greg's Gang,FLEX,RB
+5.0,3925347.0,Damien Harris,23.0,1.7,2.0,17.0,12.7,8.0,GREG,Greg's Gang,FLEX,RB
+7.0,4047365.0,Josh Jacobs,23.0,35.0,2.0,13.0,16.3,8.0,GREG,Greg's Gang,FLEX,RB
+2.0,4047365.0,Josh Jacobs,23.0,8.6,2.0,13.0,13.5,8.0,GREG,Greg's Gang,FLEX,RB
+3.0,3925347.0,Damien Harris,23.0,11.6,2.0,17.0,11.1,8.0,GREG,Greg's Gang,FLEX,RB
+10.0,3042519.0,Aaron Jones,23.0,22.6,2.0,9.0,12.6,8.0,GREG,Greg's Gang,FLEX,RB
+8.0,3042519.0,Aaron Jones,23.0,17.7,2.0,9.0,11.7,8.0,GREG,Greg's Gang,FLEX,RB
+9.0,3042519.0,Aaron Jones,23.0,5.5,2.0,9.0,16.5,8.0,GREG,Greg's Gang,FLEX,RB
+4.0,3117251.0,Christian McCaffrey,23.0,21.3,2.0,25.0,19.7,9.0,Reid,I Hate Joe Burrow,FLEX,RB
+6.0,4240455.0,Deon Jackson,23.0,23.1,2.0,11.0,9.9,9.0,Reid,I Hate Joe Burrow,FLEX,RB
+2.0,3122976.0,Jeff Wilson Jr.,23.0,11.3,2.0,15.0,10.7,9.0,Reid,I Hate Joe Burrow,FLEX,RB
+3.0,3122976.0,Jeff Wilson Jr.,23.0,10.1,2.0,15.0,11.1,9.0,Reid,I Hate Joe Burrow,FLEX,RB
+1.0,4239996.0,Travis Etienne Jr.,23.0,7.5,2.0,30.0,11.8,9.0,Reid,I Hate Joe Burrow,FLEX,RB
+8.0,4240657.0,Michael Carter,23.0,8.1,2.0,20.0,12.1,9.0,Reid,I Hate Joe Burrow,FLEX,RB
+1.0,4241555.0,Elijah Mitchell,23.0,4.1,2.0,25.0,14.5,10.0,DAD,A Cursed Entity,FLEX,RB
+8.0,4039359.0,Darrell Henderson Jr.,23.0,4.0,2.0,14.0,10.6,10.0,DAD,A Cursed Entity,FLEX,RB
+4.0,4569173.0,Rhamondre Stevenson,20.0,10.9,2.0,17.0,10.4,1.0,QUON,Quon's  League ,BN,RB
+4.0,4697815.0,Rachaad White,20.0,14.1,2.0,27.0,4.5,1.0,QUON,Quon's  League ,BN,RB
+4.0,4361529.0,Isiah Pacheco,20.0,9.3,2.0,12.0,3.0,1.0,QUON,Quon's  League ,BN,RB
+5.0,4239934.0,AJ Dillon,20.0,3.4,2.0,9.0,11.2,1.0,QUON,Quon's  League ,BN,RB
+5.0,4697815.0,Rachaad White,20.0,5.7,2.0,27.0,8.1,1.0,QUON,Quon's  League ,BN,RB
+5.0,4361529.0,Isiah Pacheco,20.0,0.0,2.0,12.0,5.6,1.0,QUON,Quon's  League ,BN,RB
+7.0,4239934.0,AJ Dillon,20.0,1.5,2.0,9.0,9.7,1.0,QUON,Quon's  League ,BN,RB
+7.0,3125116.0,D'Onta Foreman,20.0,15.5,2.0,29.0,7.4,1.0,QUON,Quon's  League ,BN,RB
+6.0,4239934.0,AJ Dillon,20.0,7.2,2.0,9.0,9.2,1.0,QUON,Quon's  League ,BN,RB
+6.0,4697815.0,Rachaad White,20.0,5.8,2.0,27.0,7.8,1.0,QUON,Quon's  League ,BN,RB
+2.0,4569173.0,Rhamondre Stevenson,20.0,5.6,2.0,17.0,9.6,1.0,QUON,Quon's  League ,BN,RB
+2.0,4697815.0,Rachaad White,20.0,0.1,2.0,27.0,4.5,1.0,QUON,Quon's  League ,BN,RB
+2.0,4361529.0,Isiah Pacheco,20.0,0.6,2.0,12.0,3.4,1.0,QUON,Quon's  League ,BN,RB
+3.0,4569173.0,Rhamondre Stevenson,20.0,18.1,2.0,17.0,9.2,1.0,QUON,Quon's  League ,BN,RB
+3.0,4697815.0,Rachaad White,20.0,0.0,2.0,27.0,5.3,1.0,QUON,Quon's  League ,BN,RB
+3.0,4361529.0,Isiah Pacheco,20.0,3.9,2.0,12.0,3.2,1.0,QUON,Quon's  League ,BN,RB
+1.0,4569173.0,Rhamondre Stevenson,20.0,3.7,2.0,17.0,10.0,1.0,QUON,Quon's  League ,BN,RB
+1.0,4697815.0,Rachaad White,20.0,3.1,2.0,27.0,4.0,1.0,QUON,Quon's  League ,BN,RB
+1.0,4361529.0,Isiah Pacheco,20.0,12.2,2.0,12.0,3.9,1.0,QUON,Quon's  League ,BN,RB
+10.0,4239934.0,AJ Dillon,20.0,6.5,2.0,9.0,7.0,1.0,QUON,Quon's  League ,BN,RB
+10.0,4569173.0,Rhamondre Stevenson,20.0,0.0,2.0,17.0,0.0,1.0,QUON,Quon's  League ,BN,RB
+8.0,4239934.0,AJ Dillon,20.0,6.8,2.0,9.0,5.5,1.0,QUON,Quon's  League ,BN,RB
+9.0,3929630.0,Saquon Barkley,20.0,0.0,2.0,19.0,0.0,1.0,QUON,Quon's  League ,BN,RB
+9.0,4239934.0,AJ Dillon,20.0,5.4,2.0,9.0,7.3,1.0,QUON,Quon's  League ,BN,RB
+4.0,3119195.0,Chase Edmonds,20.0,9.0,2.0,7.0,9.7,2.0,RIP,Matthew Berry Dead,BN,RB
+4.0,3139925.0,Rashaad Penny,20.0,28.2,2.0,26.0,10.4,2.0,RIP,Matthew Berry Dead,BN,RB
+5.0,3119195.0,Chase Edmonds,20.0,0.1,2.0,7.0,8.4,2.0,RIP,Matthew Berry Dead,BN,RB
+5.0,3139925.0,Rashaad Penny,20.0,5.4,2.0,26.0,8.5,2.0,RIP,Matthew Berry Dead,BN,RB
+7.0,3119195.0,Chase Edmonds,20.0,1.7,2.0,7.0,5.4,2.0,RIP,Matthew Berry Dead,BN,RB
+7.0,4242873.0,Eno Benjamin,20.0,21.3,2.0,34.0,13.7,2.0,RIP,Matthew Berry Dead,BN,RB
+7.0,2979843.0,Kenyan Drake,20.0,0.5,2.0,33.0,6.3,2.0,RIP,Matthew Berry Dead,BN,RB
+6.0,3119195.0,Chase Edmonds,20.0,4.1,2.0,7.0,6.3,2.0,RIP,Matthew Berry Dead,BN,RB
+6.0,4242873.0,Eno Benjamin,20.0,8.0,2.0,34.0,13.9,2.0,RIP,Matthew Berry Dead,BN,RB
+2.0,3054850.0,Alvin Kamara,20.0,0.0,2.0,18.0,0.0,2.0,RIP,Matthew Berry Dead,BN,RB
+2.0,4427366.0,Breece Hall,20.0,12.5,2.0,20.0,9.0,2.0,RIP,Matthew Berry Dead,BN,RB
+2.0,13981.0,Mark Ingram II,20.0,5.1,2.0,18.0,9.8,2.0,RIP,Matthew Berry Dead,BN,RB
+3.0,4427366.0,Breece Hall,20.0,12.2,2.0,20.0,7.6,2.0,RIP,Matthew Berry Dead,BN,RB
+3.0,3119195.0,Chase Edmonds,20.0,15.2,2.0,7.0,9.9,2.0,RIP,Matthew Berry Dead,BN,RB
+1.0,4427366.0,Breece Hall,20.0,7.1,2.0,20.0,9.2,2.0,RIP,Matthew Berry Dead,BN,RB
+1.0,3119195.0,Chase Edmonds,20.0,8.5,2.0,7.0,9.2,2.0,RIP,Matthew Berry Dead,BN,RB
+1.0,13981.0,Mark Ingram II,20.0,0.8,2.0,18.0,5.6,2.0,RIP,Matthew Berry Dead,BN,RB
+10.0,4242873.0,Eno Benjamin,20.0,0.0,2.0,34.0,7.1,2.0,RIP,Matthew Berry Dead,BN,RB
+10.0,15920.0,Latavius Murray,20.0,6.2,2.0,7.0,6.5,2.0,RIP,Matthew Berry Dead,BN,RB
+8.0,3119195.0,Chase Edmonds,20.0,1.4,2.0,7.0,7.4,2.0,RIP,Matthew Berry Dead,BN,RB
+9.0,4242873.0,Eno Benjamin,20.0,3.2,2.0,34.0,8.6,2.0,RIP,Matthew Berry Dead,BN,RB
+9.0,15920.0,Latavius Murray,20.0,0.0,2.0,7.0,0.0,2.0,RIP,Matthew Berry Dead,BN,RB
+4.0,4360294.0,Antonio Gibson,20.0,7.8,2.0,28.0,12.3,3.0,TnM,Team Tenner n Mamby ,BN,RB
+4.0,4040761.0,Devin Singletary,20.0,9.6,2.0,2.0,11.3,3.0,TnM,Team Tenner n Mamby ,BN,RB
+5.0,4360294.0,Antonio Gibson,20.0,5.4,2.0,28.0,10.1,3.0,TnM,Team Tenner n Mamby ,BN,RB
+5.0,4040761.0,Devin Singletary,20.0,5.1,2.0,2.0,12.1,3.0,TnM,Team Tenner n Mamby ,BN,RB
+7.0,4360294.0,Antonio Gibson,20.0,18.2,2.0,28.0,7.2,3.0,TnM,Team Tenner n Mamby ,BN,RB
+7.0,4040761.0,Devin Singletary,20.0,0.0,2.0,2.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+7.0,4241416.0,Chuba Hubbard,20.0,14.3,2.0,29.0,6.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+6.0,4360294.0,Antonio Gibson,20.0,7.8,2.0,28.0,6.7,3.0,TnM,Team Tenner n Mamby ,BN,RB
+6.0,2980453.0,Jamaal Williams,20.0,0.0,2.0,8.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+2.0,4040761.0,Devin Singletary,20.0,3.1,2.0,2.0,10.3,3.0,TnM,Team Tenner n Mamby ,BN,RB
+2.0,2980453.0,Jamaal Williams,20.0,6.5,2.0,8.0,9.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+3.0,4360294.0,Antonio Gibson,20.0,10.5,2.0,28.0,13.3,3.0,TnM,Team Tenner n Mamby ,BN,RB
+3.0,4040761.0,Devin Singletary,20.0,19.6,2.0,2.0,10.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+3.0,2980453.0,Jamaal Williams,20.0,23.7,2.0,8.0,7.5,3.0,TnM,Team Tenner n Mamby ,BN,RB
+1.0,4040761.0,Devin Singletary,20.0,7.2,2.0,2.0,9.8,3.0,TnM,Team Tenner n Mamby ,BN,RB
+1.0,2980453.0,Jamaal Williams,20.0,15.5,2.0,8.0,7.1,3.0,TnM,Team Tenner n Mamby ,BN,RB
+10.0,4360294.0,Antonio Gibson,20.0,13.3,2.0,28.0,10.8,3.0,TnM,Team Tenner n Mamby ,BN,RB
+10.0,4040761.0,Devin Singletary,20.0,15.2,2.0,2.0,9.8,3.0,TnM,Team Tenner n Mamby ,BN,RB
+10.0,4241416.0,Chuba Hubbard,20.0,1.4,2.0,29.0,8.7,3.0,TnM,Team Tenner n Mamby ,BN,RB
+8.0,3068267.0,Austin Ekeler,20.0,0.0,2.0,24.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+8.0,4360294.0,Antonio Gibson,20.0,18.2,2.0,28.0,8.2,3.0,TnM,Team Tenner n Mamby ,BN,RB
+8.0,2980453.0,Jamaal Williams,20.0,21.1,2.0,8.0,9.6,3.0,TnM,Team Tenner n Mamby ,BN,RB
+8.0,4241416.0,Chuba Hubbard,20.0,0.0,2.0,29.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+9.0,3128720.0,Nick Chubb,20.0,0.0,2.0,5.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+9.0,4360294.0,Antonio Gibson,20.0,7.7,2.0,28.0,10.6,3.0,TnM,Team Tenner n Mamby ,BN,RB
+9.0,4241416.0,Chuba Hubbard,20.0,0.0,2.0,29.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,RB
+4.0,4259545.0,D'Andre Swift,20.0,0.0,2.0,8.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+4.0,4035538.0,David Montgomery,20.0,0.0,2.0,3.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+4.0,4373626.0,Tyler Allgeier,20.0,10.9,2.0,1.0,5.7,4.0,Team,Mixon and Nixon ,BN,RB
+4.0,4421446.0,Craig Reynolds,20.0,4.7,2.0,8.0,8.1,4.0,Team,Mixon and Nixon ,BN,RB
+5.0,4259545.0,D'Andre Swift,20.0,0.0,2.0,8.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+5.0,3059915.0,Kareem Hunt,20.0,13.2,2.0,5.0,10.5,4.0,Team,Mixon and Nixon ,BN,RB
+5.0,4373626.0,Tyler Allgeier,20.0,4.5,2.0,1.0,8.1,4.0,Team,Mixon and Nixon ,BN,RB
+5.0,4421446.0,Craig Reynolds,20.0,10.7,2.0,8.0,4.8,4.0,Team,Mixon and Nixon ,BN,RB
+7.0,3059915.0,Kareem Hunt,20.0,7.3,2.0,5.0,9.0,4.0,Team,Mixon and Nixon ,BN,RB
+7.0,4373626.0,Tyler Allgeier,20.0,11.0,2.0,1.0,7.6,4.0,Team,Mixon and Nixon ,BN,RB
+6.0,4259545.0,D'Andre Swift,20.0,0.0,2.0,8.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+6.0,3059915.0,Kareem Hunt,20.0,1.2,2.0,5.0,9.9,4.0,Team,Mixon and Nixon ,BN,RB
+6.0,4373626.0,Tyler Allgeier,20.0,5.1,2.0,1.0,8.1,4.0,Team,Mixon and Nixon ,BN,RB
+2.0,4035538.0,David Montgomery,20.0,14.6,2.0,3.0,12.0,4.0,Team,Mixon and Nixon ,BN,RB
+2.0,4373626.0,Tyler Allgeier,20.0,3.0,2.0,1.0,3.7,4.0,Team,Mixon and Nixon ,BN,RB
+3.0,3059915.0,Kareem Hunt,20.0,7.6,2.0,5.0,9.7,4.0,Team,Mixon and Nixon ,BN,RB
+3.0,4373626.0,Tyler Allgeier,20.0,3.5,2.0,1.0,6.3,4.0,Team,Mixon and Nixon ,BN,RB
+1.0,3059915.0,Kareem Hunt,20.0,21.0,2.0,5.0,10.6,4.0,Team,Mixon and Nixon ,BN,RB
+1.0,4373626.0,Tyler Allgeier,20.0,0.0,2.0,1.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+10.0,3116385.0,Joe Mixon,20.0,0.0,2.0,4.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+10.0,4373626.0,Tyler Allgeier,20.0,1.8,2.0,1.0,5.9,4.0,Team,Mixon and Nixon ,BN,RB
+10.0,4244732.0,Caleb Huntley,20.0,3.2,2.0,1.0,3.6,4.0,Team,Mixon and Nixon ,BN,RB
+8.0,4035538.0,David Montgomery,20.0,7.0,2.0,3.0,10.1,4.0,Team,Mixon and Nixon ,BN,RB
+8.0,3059915.0,Kareem Hunt,20.0,9.2,2.0,5.0,7.7,4.0,Team,Mixon and Nixon ,BN,RB
+9.0,3059915.0,Kareem Hunt,20.0,0.0,2.0,5.0,0.0,4.0,Team,Mixon and Nixon ,BN,RB
+9.0,4373626.0,Tyler Allgeier,20.0,12.8,2.0,1.0,7.6,4.0,Team,Mixon and Nixon ,BN,RB
+9.0,4244732.0,Caleb Huntley,20.0,3.4,2.0,1.0,4.9,4.0,Team,Mixon and Nixon ,BN,RB
+4.0,3916148.0,Tony Pollard,20.0,1.3,2.0,6.0,10.3,5.0,NIX,Defend the Crown,BN,RB
+4.0,4242214.0,Clyde Edwards-Helaire,20.0,21.9,2.0,12.0,10.3,5.0,NIX,Defend the Crown,BN,RB
+4.0,4360238.0,Dameon Pierce,20.0,22.9,2.0,34.0,11.6,5.0,NIX,Defend the Crown,BN,RB
+5.0,3051392.0,Ezekiel Elliott,20.0,7.8,2.0,6.0,11.4,5.0,NIX,Defend the Crown,BN,RB
+5.0,3916148.0,Tony Pollard,20.0,14.6,2.0,6.0,9.4,5.0,NIX,Defend the Crown,BN,RB
+7.0,3116593.0,Dalvin Cook,20.0,0.0,2.0,16.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+7.0,4242214.0,Clyde Edwards-Helaire,20.0,9.2,2.0,12.0,7.2,5.0,NIX,Defend the Crown,BN,RB
+6.0,3916148.0,Tony Pollard,20.0,6.2,2.0,6.0,7.5,5.0,NIX,Defend the Crown,BN,RB
+6.0,4242214.0,Clyde Edwards-Helaire,20.0,3.3,2.0,12.0,9.6,5.0,NIX,Defend the Crown,BN,RB
+6.0,4360238.0,Dameon Pierce,20.0,0.0,2.0,34.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+2.0,3916148.0,Tony Pollard,20.0,17.8,2.0,6.0,8.1,5.0,NIX,Defend the Crown,BN,RB
+2.0,4242214.0,Clyde Edwards-Helaire,20.0,13.8,2.0,12.0,11.0,5.0,NIX,Defend the Crown,BN,RB
+2.0,4360238.0,Dameon Pierce,20.0,8.2,2.0,34.0,9.3,5.0,NIX,Defend the Crown,BN,RB
+3.0,3916148.0,Tony Pollard,20.0,10.5,2.0,6.0,10.1,5.0,NIX,Defend the Crown,BN,RB
+3.0,4242214.0,Clyde Edwards-Helaire,20.0,12.4,2.0,12.0,10.7,5.0,NIX,Defend the Crown,BN,RB
+3.0,4360238.0,Dameon Pierce,20.0,17.1,2.0,34.0,11.0,5.0,NIX,Defend the Crown,BN,RB
+1.0,3916148.0,Tony Pollard,20.0,3.2,2.0,6.0,9.3,5.0,NIX,Defend the Crown,BN,RB
+1.0,4242214.0,Clyde Edwards-Helaire,20.0,20.9,2.0,12.0,10.5,5.0,NIX,Defend the Crown,BN,RB
+1.0,15807.0,Cordarrelle Patterson,20.0,21.1,2.0,1.0,9.5,5.0,NIX,Defend the Crown,BN,RB
+1.0,4360238.0,Dameon Pierce,20.0,4.4,2.0,34.0,10.0,5.0,NIX,Defend the Crown,BN,RB
+10.0,3916148.0,Tony Pollard,20.0,20.3,2.0,6.0,14.6,5.0,NIX,Defend the Crown,BN,RB
+10.0,4242214.0,Clyde Edwards-Helaire,20.0,0.0,2.0,12.0,6.7,5.0,NIX,Defend the Crown,BN,RB
+8.0,3051392.0,Ezekiel Elliott,20.0,0.0,2.0,6.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+8.0,4242214.0,Clyde Edwards-Helaire,20.0,0.0,2.0,12.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+9.0,3916148.0,Tony Pollard,20.0,0.0,2.0,6.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+9.0,4242214.0,Clyde Edwards-Helaire,20.0,2.4,2.0,12.0,7.7,5.0,NIX,Defend the Crown,BN,RB
+9.0,15807.0,Cordarrelle Patterson,20.0,17.8,2.0,1.0,9.5,5.0,NIX,Defend the Crown,BN,RB
+9.0,3916430.0,Nyheim Hines,20.0,0.0,2.0,2.0,6.0,5.0,NIX,Defend the Crown,BN,RB
+4.0,4045163.0,Miles Sanders,20.0,28.6,2.0,21.0,11.6,6.0,ITTO,Team Ittounas,BN,RB
+4.0,4048244.0,Alexander Mattison,20.0,8.3,2.0,16.0,4.6,6.0,ITTO,Team Ittounas,BN,RB
+4.0,2576434.0,Melvin Gordon III,20.0,-1.2,2.0,7.0,9.4,6.0,ITTO,Team Ittounas,BN,RB
+4.0,4371733.0,Kenneth Gainwell,20.0,8.2,2.0,21.0,5.9,6.0,ITTO,Team Ittounas,BN,RB
+5.0,4048244.0,Alexander Mattison,20.0,5.5,2.0,16.0,4.1,6.0,ITTO,Team Ittounas,BN,RB
+5.0,2576434.0,Melvin Gordon III,20.0,11.8,2.0,7.0,12.2,6.0,ITTO,Team Ittounas,BN,RB
+5.0,4035886.0,Khalil Herbert,20.0,1.1,2.0,3.0,8.9,6.0,ITTO,Team Ittounas,BN,RB
+5.0,4371733.0,Kenneth Gainwell,20.0,2.0,2.0,21.0,4.6,6.0,ITTO,Team Ittounas,BN,RB
+7.0,4045163.0,Miles Sanders,20.0,0.0,2.0,21.0,0.0,6.0,ITTO,Team Ittounas,BN,RB
+7.0,4048244.0,Alexander Mattison,20.0,0.0,2.0,16.0,0.0,6.0,ITTO,Team Ittounas,BN,RB
+7.0,4035886.0,Khalil Herbert,20.0,16.2,2.0,3.0,6.0,6.0,ITTO,Team Ittounas,BN,RB
+6.0,4048244.0,Alexander Mattison,20.0,0.3,2.0,16.0,5.6,6.0,ITTO,Team Ittounas,BN,RB
+6.0,4052042.0,James Robinson,20.0,6.0,2.0,20.0,8.6,6.0,ITTO,Team Ittounas,BN,RB
+6.0,4035886.0,Khalil Herbert,20.0,7.4,2.0,3.0,6.8,6.0,ITTO,Team Ittounas,BN,RB
+6.0,4371733.0,Kenneth Gainwell,20.0,2.5,2.0,21.0,3.7,6.0,ITTO,Team Ittounas,BN,RB
+2.0,4048244.0,Alexander Mattison,20.0,2.9,2.0,16.0,4.3,6.0,ITTO,Team Ittounas,BN,RB
+2.0,2576434.0,Melvin Gordon III,20.0,5.8,2.0,7.0,10.6,6.0,ITTO,Team Ittounas,BN,RB
+2.0,4052042.0,James Robinson,20.0,14.8,2.0,20.0,10.5,6.0,ITTO,Team Ittounas,BN,RB
+2.0,4035886.0,Khalil Herbert,20.0,4.6,2.0,3.0,5.0,6.0,ITTO,Team Ittounas,BN,RB
+2.0,4371733.0,Kenneth Gainwell,20.0,2.3,2.0,21.0,5.9,6.0,ITTO,Team Ittounas,BN,RB
+3.0,4048244.0,Alexander Mattison,20.0,10.9,2.0,16.0,5.2,6.0,ITTO,Team Ittounas,BN,RB
+3.0,2576434.0,Melvin Gordon III,20.0,14.0,2.0,7.0,8.6,6.0,ITTO,Team Ittounas,BN,RB
+3.0,4052042.0,James Robinson,20.0,19.1,2.0,20.0,11.0,6.0,ITTO,Team Ittounas,BN,RB
+3.0,4035886.0,Khalil Herbert,20.0,29.9,2.0,3.0,5.9,6.0,ITTO,Team Ittounas,BN,RB
+3.0,4371733.0,Kenneth Gainwell,20.0,0.6,2.0,21.0,5.3,6.0,ITTO,Team Ittounas,BN,RB
+1.0,4048244.0,Alexander Mattison,20.0,3.6,2.0,16.0,3.8,6.0,ITTO,Team Ittounas,BN,RB
+1.0,2576434.0,Melvin Gordon III,20.0,6.2,2.0,7.0,8.3,6.0,ITTO,Team Ittounas,BN,RB
+1.0,4052042.0,James Robinson,20.0,19.4,2.0,20.0,7.7,6.0,ITTO,Team Ittounas,BN,RB
+1.0,4035886.0,Khalil Herbert,20.0,10.8,2.0,3.0,6.6,6.0,ITTO,Team Ittounas,BN,RB
+1.0,4371733.0,Kenneth Gainwell,20.0,10.2,2.0,21.0,5.8,6.0,ITTO,Team Ittounas,BN,RB
+10.0,4048244.0,Alexander Mattison,20.0,2.4,2.0,16.0,3.2,6.0,ITTO,Team Ittounas,BN,RB
+10.0,4052042.0,James Robinson,20.0,0.0,2.0,20.0,0.0,6.0,ITTO,Team Ittounas,BN,RB
+10.0,4035886.0,Khalil Herbert,20.0,7.7,2.0,3.0,9.7,6.0,ITTO,Team Ittounas,BN,RB
+10.0,4371733.0,Kenneth Gainwell,20.0,1.7,2.0,21.0,4.6,6.0,ITTO,Team Ittounas,BN,RB
+8.0,4048244.0,Alexander Mattison,20.0,10.0,2.0,16.0,4.8,6.0,ITTO,Team Ittounas,BN,RB
+8.0,4052042.0,James Robinson,20.0,1.7,2.0,20.0,4.9,6.0,ITTO,Team Ittounas,BN,RB
+8.0,4035886.0,Khalil Herbert,20.0,15.9,2.0,3.0,6.0,6.0,ITTO,Team Ittounas,BN,RB
+8.0,4371733.0,Kenneth Gainwell,20.0,1.6,2.0,21.0,3.6,6.0,ITTO,Team Ittounas,BN,RB
+9.0,4048244.0,Alexander Mattison,20.0,0.6,2.0,16.0,4.1,6.0,ITTO,Team Ittounas,BN,RB
+9.0,4052042.0,James Robinson,20.0,12.3,2.0,20.0,6.8,6.0,ITTO,Team Ittounas,BN,RB
+9.0,4035886.0,Khalil Herbert,20.0,3.3,2.0,3.0,8.2,6.0,ITTO,Team Ittounas,BN,RB
+9.0,4371733.0,Kenneth Gainwell,20.0,11.3,2.0,21.0,3.6,6.0,ITTO,Team Ittounas,BN,RB
+4.0,4379399.0,James Cook,20.0,0.0,2.0,2.0,2.7,7.0,THIC,Kittle's Coming Home!,BN,RB
+4.0,4567048.0,Kenneth Walker III,20.0,2.9,2.0,26.0,5.6,7.0,THIC,Kittle's Coming Home!,BN,RB
+4.0,2576414.0,Raheem Mostert,20.0,10.1,2.0,15.0,9.8,7.0,THIC,Kittle's Coming Home!,BN,RB
+5.0,4379399.0,James Cook,20.0,9.1,2.0,2.0,2.4,7.0,THIC,Kittle's Coming Home!,BN,RB
+5.0,4567048.0,Kenneth Walker III,20.0,14.8,2.0,26.0,4.9,7.0,THIC,Kittle's Coming Home!,BN,RB
+5.0,2576414.0,Raheem Mostert,20.0,18.7,2.0,15.0,12.3,7.0,THIC,Kittle's Coming Home!,BN,RB
+7.0,3045147.0,James Conner,20.0,0.0,2.0,22.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,RB
+6.0,3045147.0,James Conner,20.0,0.0,2.0,22.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,RB
+6.0,4567048.0,Kenneth Walker III,20.0,18.0,2.0,26.0,10.8,7.0,THIC,Kittle's Coming Home!,BN,RB
+2.0,4379399.0,James Cook,20.0,5.3,2.0,2.0,1.4,7.0,THIC,Kittle's Coming Home!,BN,RB
+2.0,4567048.0,Kenneth Walker III,20.0,2.5,2.0,26.0,5.5,7.0,THIC,Kittle's Coming Home!,BN,RB
+2.0,2576414.0,Raheem Mostert,20.0,9.4,2.0,15.0,7.8,7.0,THIC,Kittle's Coming Home!,BN,RB
+3.0,4379399.0,James Cook,20.0,6.0,2.0,2.0,1.9,7.0,THIC,Kittle's Coming Home!,BN,RB
+3.0,4567048.0,Kenneth Walker III,20.0,4.8,2.0,26.0,5.9,7.0,THIC,Kittle's Coming Home!,BN,RB
+3.0,2576414.0,Raheem Mostert,20.0,3.1,2.0,15.0,8.2,7.0,THIC,Kittle's Coming Home!,BN,RB
+1.0,4379399.0,James Cook,20.0,-1.8,2.0,2.0,5.2,7.0,THIC,Kittle's Coming Home!,BN,RB
+1.0,4567048.0,Kenneth Walker III,20.0,0.0,2.0,26.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,RB
+1.0,2576414.0,Raheem Mostert,20.0,3.7,2.0,15.0,8.2,7.0,THIC,Kittle's Coming Home!,BN,RB
+10.0,3045147.0,James Conner,20.0,22.1,2.0,22.0,10.9,7.0,THIC,Kittle's Coming Home!,BN,RB
+10.0,2576414.0,Raheem Mostert,20.0,18.7,2.0,15.0,10.1,7.0,THIC,Kittle's Coming Home!,BN,RB
+8.0,3045147.0,James Conner,20.0,0.0,2.0,22.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,RB
+9.0,4241457.0,Najee Harris,20.0,0.0,2.0,23.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,RB
+9.0,3045147.0,James Conner,20.0,8.9,2.0,22.0,9.9,7.0,THIC,Kittle's Coming Home!,BN,RB
+4.0,3925347.0,Damien Harris,20.0,14.9,2.0,17.0,10.1,8.0,GREG,Greg's Gang,BN,RB
+4.0,4241474.0,Brian Robinson Jr.,20.0,0.0,2.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+5.0,4047365.0,Josh Jacobs,20.0,27.8,2.0,13.0,12.4,8.0,GREG,Greg's Gang,BN,RB
+5.0,4241474.0,Brian Robinson Jr.,20.0,2.2,2.0,28.0,4.8,8.0,GREG,Greg's Gang,BN,RB
+7.0,3925347.0,Damien Harris,20.0,1.5,2.0,17.0,10.8,8.0,GREG,Greg's Gang,BN,RB
+7.0,4241474.0,Brian Robinson Jr.,20.0,9.6,2.0,28.0,9.3,8.0,GREG,Greg's Gang,BN,RB
+6.0,3043078.0,Derrick Henry,20.0,0.0,2.0,10.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+6.0,4047365.0,Josh Jacobs,20.0,0.0,2.0,13.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+6.0,3925347.0,Damien Harris,20.0,0.0,2.0,17.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+2.0,3925347.0,Damien Harris,20.0,15.7,2.0,17.0,10.3,8.0,GREG,Greg's Gang,BN,RB
+2.0,4241474.0,Brian Robinson Jr.,20.0,0.0,2.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+3.0,4047365.0,Josh Jacobs,20.0,12.2,2.0,13.0,11.0,8.0,GREG,Greg's Gang,BN,RB
+3.0,4241474.0,Brian Robinson Jr.,20.0,0.0,2.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+1.0,4047365.0,Josh Jacobs,20.0,7.8,2.0,13.0,11.6,8.0,GREG,Greg's Gang,BN,RB
+1.0,3925347.0,Damien Harris,20.0,6.8,2.0,17.0,10.3,8.0,GREG,Greg's Gang,BN,RB
+1.0,4241474.0,Brian Robinson Jr.,20.0,0.0,2.0,28.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+10.0,3925347.0,Damien Harris,20.0,0.0,2.0,17.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+10.0,4241474.0,Brian Robinson Jr.,20.0,14.6,2.0,28.0,8.9,8.0,GREG,Greg's Gang,BN,RB
+8.0,3925347.0,Damien Harris,20.0,6.2,2.0,17.0,7.7,8.0,GREG,Greg's Gang,BN,RB
+8.0,4241474.0,Brian Robinson Jr.,20.0,2.0,2.0,28.0,8.8,8.0,GREG,Greg's Gang,BN,RB
+9.0,3925347.0,Damien Harris,20.0,0.0,2.0,17.0,0.0,8.0,GREG,Greg's Gang,BN,RB
+9.0,4241474.0,Brian Robinson Jr.,20.0,4.8,2.0,28.0,8.5,8.0,GREG,Greg's Gang,BN,RB
+4.0,4239996.0,Travis Etienne Jr.,20.0,3.2,2.0,30.0,8.2,9.0,Reid,I Hate Joe Burrow,BN,RB
+4.0,4240657.0,Michael Carter,20.0,3.9,2.0,20.0,9.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+4.0,3916430.0,Nyheim Hines,20.0,1.3,2.0,2.0,7.7,9.0,Reid,I Hate Joe Burrow,BN,RB
+5.0,4239996.0,Travis Etienne Jr.,20.0,12.9,2.0,30.0,9.2,9.0,Reid,I Hate Joe Burrow,BN,RB
+5.0,4240657.0,Michael Carter,20.0,16.3,2.0,20.0,8.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+5.0,3916430.0,Nyheim Hines,20.0,1.3,2.0,2.0,10.4,9.0,Reid,I Hate Joe Burrow,BN,RB
+5.0,3139033.0,Mike Boone,20.0,10.0,2.0,7.0,7.1,9.0,Reid,I Hate Joe Burrow,BN,RB
+7.0,4239996.0,Travis Etienne Jr.,20.0,18.4,2.0,30.0,9.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+7.0,4240657.0,Michael Carter,20.0,8.4,2.0,20.0,7.1,9.0,Reid,I Hate Joe Burrow,BN,RB
+7.0,3139033.0,Mike Boone,20.0,2.3,2.0,7.0,4.6,9.0,Reid,I Hate Joe Burrow,BN,RB
+7.0,4240455.0,Deon Jackson,20.0,0.3,2.0,11.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,RB
+6.0,4239996.0,Travis Etienne Jr.,20.0,11.8,2.0,30.0,9.1,9.0,Reid,I Hate Joe Burrow,BN,RB
+6.0,4240657.0,Michael Carter,20.0,5.2,2.0,20.0,7.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+6.0,3139033.0,Mike Boone,20.0,0.9,2.0,7.0,7.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+2.0,4239996.0,Travis Etienne Jr.,20.0,6.8,2.0,30.0,8.7,9.0,Reid,I Hate Joe Burrow,BN,RB
+2.0,4240657.0,Michael Carter,20.0,7.5,2.0,20.0,11.8,9.0,Reid,I Hate Joe Burrow,BN,RB
+2.0,3916430.0,Nyheim Hines,20.0,5.7,2.0,2.0,7.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+2.0,15971.0,Rex Burkhead,20.0,1.9,2.0,34.0,9.9,9.0,Reid,I Hate Joe Burrow,BN,RB
+3.0,4239996.0,Travis Etienne Jr.,20.0,9.0,2.0,30.0,8.3,9.0,Reid,I Hate Joe Burrow,BN,RB
+3.0,4240657.0,Michael Carter,20.0,5.1,2.0,20.0,11.5,9.0,Reid,I Hate Joe Burrow,BN,RB
+3.0,3916430.0,Nyheim Hines,20.0,5.5,2.0,2.0,7.4,9.0,Reid,I Hate Joe Burrow,BN,RB
+1.0,4240657.0,Michael Carter,20.0,13.5,2.0,20.0,11.3,9.0,Reid,I Hate Joe Burrow,BN,RB
+1.0,3916430.0,Nyheim Hines,20.0,9.4,2.0,2.0,6.8,9.0,Reid,I Hate Joe Burrow,BN,RB
+10.0,4240657.0,Michael Carter,20.0,0.0,2.0,20.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,RB
+10.0,3122976.0,Jeff Wilson Jr.,20.0,21.3,2.0,15.0,10.0,9.0,Reid,I Hate Joe Burrow,BN,RB
+10.0,3116389.0,Samaje Perine,20.0,0.0,2.0,4.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,RB
+8.0,3122976.0,Jeff Wilson Jr.,20.0,4.5,2.0,15.0,4.1,9.0,Reid,I Hate Joe Burrow,BN,RB
+8.0,4379399.0,James Cook,20.0,8.1,2.0,2.0,4.1,9.0,Reid,I Hate Joe Burrow,BN,RB
+9.0,3117251.0,Christian McCaffrey,20.0,0.0,2.0,25.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,RB
+9.0,3122976.0,Jeff Wilson Jr.,20.0,14.7,2.0,15.0,5.4,9.0,Reid,I Hate Joe Burrow,BN,RB
+9.0,4243003.0,Ronnie Rivers,20.0,0.0,2.0,14.0,5.4,9.0,Reid,I Hate Joe Burrow,BN,RB
+9.0,3116389.0,Samaje Perine,20.0,5.9,2.0,4.0,4.4,9.0,Reid,I Hate Joe Burrow,BN,RB
+4.0,4240021.0,Cam Akers,20.0,1.3,2.0,14.0,8.6,10.0,DAD,A Cursed Entity,BN,RB
+4.0,4039359.0,Darrell Henderson Jr.,20.0,5.4,2.0,14.0,7.1,10.0,DAD,A Cursed Entity,BN,RB
+5.0,4242335.0,Jonathan Taylor,20.0,0.0,2.0,11.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+5.0,4039359.0,Darrell Henderson Jr.,20.0,5.0,2.0,14.0,7.7,10.0,DAD,A Cursed Entity,BN,RB
+5.0,4244732.0,Caleb Huntley,20.0,3.4,2.0,1.0,6.5,10.0,DAD,A Cursed Entity,BN,RB
+5.0,4240455.0,Deon Jackson,20.0,11.1,2.0,11.0,5.7,10.0,DAD,A Cursed Entity,BN,RB
+7.0,4240021.0,Cam Akers,20.0,0.0,2.0,14.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+7.0,4039359.0,Darrell Henderson Jr.,20.0,0.0,2.0,14.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+7.0,2576434.0,Melvin Gordon III,20.0,6.0,2.0,7.0,6.7,10.0,DAD,A Cursed Entity,BN,RB
+7.0,4697815.0,Rachaad White,20.0,4.7,2.0,27.0,7.0,10.0,DAD,A Cursed Entity,BN,RB
+7.0,3051926.0,Gus Edwards,20.0,18.6,2.0,33.0,3.9,10.0,DAD,A Cursed Entity,BN,RB
+6.0,4242335.0,Jonathan Taylor,20.0,0.0,2.0,11.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+6.0,4240021.0,Cam Akers,20.0,0.0,2.0,14.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+2.0,4240021.0,Cam Akers,20.0,7.2,2.0,14.0,7.6,10.0,DAD,A Cursed Entity,BN,RB
+2.0,4241985.0,J.K. Dobbins,20.0,0.0,2.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+2.0,4360569.0,Jordan Mason,20.0,0.0,2.0,25.0,1.4,10.0,DAD,A Cursed Entity,BN,RB
+2.0,4426475.0,Tyrion Davis-Price,20.0,3.3,2.0,25.0,2.9,10.0,DAD,A Cursed Entity,BN,RB
+3.0,4241985.0,J.K. Dobbins,20.0,5.0,2.0,33.0,10.0,10.0,DAD,A Cursed Entity,BN,RB
+3.0,4039359.0,Darrell Henderson Jr.,20.0,1.7,2.0,14.0,9.6,10.0,DAD,A Cursed Entity,BN,RB
+3.0,4360569.0,Jordan Mason,20.0,0.7,2.0,25.0,1.9,10.0,DAD,A Cursed Entity,BN,RB
+1.0,4241985.0,J.K. Dobbins,20.0,0.0,2.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+1.0,4039359.0,Darrell Henderson Jr.,20.0,9.8,2.0,14.0,7.1,10.0,DAD,A Cursed Entity,BN,RB
+1.0,4361777.0,Zamir White,20.0,0.0,2.0,13.0,3.5,10.0,DAD,A Cursed Entity,BN,RB
+10.0,4697815.0,Rachaad White,20.0,11.5,2.0,27.0,7.0,10.0,DAD,A Cursed Entity,BN,RB
+10.0,3051926.0,Gus Edwards,20.0,0.0,2.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+10.0,4361529.0,Isiah Pacheco,20.0,6.2,2.0,12.0,7.6,10.0,DAD,A Cursed Entity,BN,RB
+10.0,2979843.0,Kenyan Drake,20.0,0.0,2.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+8.0,4240021.0,Cam Akers,20.0,0.0,2.0,14.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+8.0,2576434.0,Melvin Gordon III,20.0,12.7,2.0,7.0,8.9,10.0,DAD,A Cursed Entity,BN,RB
+8.0,4697815.0,Rachaad White,20.0,5.8,2.0,27.0,7.1,10.0,DAD,A Cursed Entity,BN,RB
+8.0,4361529.0,Isiah Pacheco,20.0,0.0,2.0,12.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+9.0,4242335.0,Jonathan Taylor,20.0,0.0,2.0,11.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+9.0,4240021.0,Cam Akers,20.0,0.3,2.0,14.0,4.1,10.0,DAD,A Cursed Entity,BN,RB
+9.0,4039359.0,Darrell Henderson Jr.,20.0,5.6,2.0,14.0,6.4,10.0,DAD,A Cursed Entity,BN,RB
+9.0,4697815.0,Rachaad White,20.0,5.9,2.0,27.0,6.7,10.0,DAD,A Cursed Entity,BN,RB
+9.0,3051926.0,Gus Edwards,20.0,0.0,2.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+5.0,15807.0,Cordarrelle Patterson,21.0,0.0,2.0,1.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+7.0,15807.0,Cordarrelle Patterson,21.0,0.0,2.0,1.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+6.0,15807.0,Cordarrelle Patterson,21.0,0.0,2.0,1.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+10.0,3051392.0,Ezekiel Elliott,21.0,0.0,2.0,6.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+8.0,15807.0,Cordarrelle Patterson,21.0,0.0,2.0,1.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+9.0,3051392.0,Ezekiel Elliott,21.0,0.0,2.0,6.0,0.0,5.0,NIX,Defend the Crown,BN,RB
+4.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+5.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+7.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+6.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+2.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+3.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+10.0,4241555.0,Elijah Mitchell,21.0,9.3,2.0,25.0,4.3,10.0,DAD,A Cursed Entity,BN,RB
+8.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+9.0,4241555.0,Elijah Mitchell,21.0,0.0,2.0,25.0,0.0,10.0,DAD,A Cursed Entity,BN,RB
+9.0,3918639.0,Gerald Everett,23.0,6.1,4.0,24.0,9.8,5.0,NIX,Defend the Crown,FLEX,TE
+6.0,2573401.0,Tyler Higbee,23.0,1.2,4.0,14.0,10.3,7.0,THIC,Kittle's Coming Home!,FLEX,TE
+3.0,2573401.0,Tyler Higbee,23.0,8.1,4.0,14.0,9.4,7.0,THIC,Kittle's Coming Home!,FLEX,TE
+4.0,4036133.0,T.J. Hockenson,6.0,35.9,4.0,16.0,8.8,1.0,QUON,Quon's  League ,TE,TE
+5.0,4036133.0,T.J. Hockenson,6.0,1.1,4.0,16.0,10.7,1.0,QUON,Quon's  League ,TE,TE
+7.0,4036133.0,T.J. Hockenson,6.0,6.8,4.0,16.0,9.5,1.0,QUON,Quon's  League ,TE,TE
+6.0,3127292.0,Will Dissly,6.0,1.7,4.0,26.0,5.4,1.0,QUON,Quon's  League ,TE,TE
+2.0,4036133.0,T.J. Hockenson,6.0,4.1,4.0,16.0,8.5,1.0,QUON,Quon's  League ,TE,TE
+3.0,4036133.0,T.J. Hockenson,6.0,9.3,4.0,16.0,9.2,1.0,QUON,Quon's  League ,TE,TE
+1.0,4036133.0,T.J. Hockenson,6.0,5.8,4.0,16.0,8.2,1.0,QUON,Quon's  League ,TE,TE
+10.0,4036133.0,T.J. Hockenson,6.0,8.0,4.0,16.0,9.8,1.0,QUON,Quon's  League ,TE,TE
+8.0,4036133.0,T.J. Hockenson,6.0,9.5,4.0,16.0,9.2,1.0,QUON,Quon's  League ,TE,TE
+9.0,4036133.0,T.J. Hockenson,6.0,11.5,4.0,16.0,8.3,1.0,QUON,Quon's  League ,TE,TE
+4.0,3915486.0,Tyler Conklin,6.0,6.7,4.0,20.0,6.7,2.0,RIP,Matthew Berry Dead,TE,TE
+5.0,3915486.0,Tyler Conklin,6.0,0.0,4.0,20.0,7.1,2.0,RIP,Matthew Berry Dead,TE,TE
+7.0,2468609.0,Taysom Hill,6.0,9.62,4.0,18.0,8.3,2.0,RIP,Matthew Berry Dead,TE,TE
+6.0,2468609.0,Taysom Hill,6.0,4.54,4.0,18.0,7.4,2.0,RIP,Matthew Berry Dead,TE,TE
+2.0,3117256.0,Dalton Schultz,6.0,0.8,4.0,6.0,7.8,2.0,RIP,Matthew Berry Dead,TE,TE
+3.0,3924365.0,Hayden Hurst,6.0,1.2,4.0,4.0,6.7,2.0,RIP,Matthew Berry Dead,TE,TE
+1.0,3117256.0,Dalton Schultz,6.0,9.7,4.0,6.0,9.2,2.0,RIP,Matthew Berry Dead,TE,TE
+10.0,3117256.0,Dalton Schultz,6.0,14.4,4.0,6.0,7.0,2.0,RIP,Matthew Berry Dead,TE,TE
+8.0,2468609.0,Taysom Hill,6.0,7.78,4.0,18.0,7.9,2.0,RIP,Matthew Berry Dead,TE,TE
+9.0,2468609.0,Taysom Hill,6.0,1.12,4.0,18.0,8.0,2.0,RIP,Matthew Berry Dead,TE,TE
+4.0,2576925.0,Darren Waller,6.0,3.9,4.0,13.0,9.4,3.0,TnM,Team Tenner n Mamby ,TE,TE
+5.0,2576925.0,Darren Waller,6.0,0.0,4.0,13.0,9.2,3.0,TnM,Team Tenner n Mamby ,TE,TE
+7.0,15835.0,Zach Ertz,6.0,5.1,4.0,22.0,9.7,3.0,TnM,Team Tenner n Mamby ,TE,TE
+6.0,15835.0,Zach Ertz,6.0,10.5,4.0,22.0,10.2,3.0,TnM,Team Tenner n Mamby ,TE,TE
+2.0,2576925.0,Darren Waller,6.0,14.0,4.0,13.0,9.4,3.0,TnM,Team Tenner n Mamby ,TE,TE
+3.0,2576925.0,Darren Waller,6.0,3.7,4.0,13.0,11.0,3.0,TnM,Team Tenner n Mamby ,TE,TE
+1.0,2576925.0,Darren Waller,6.0,9.9,4.0,13.0,9.7,3.0,TnM,Team Tenner n Mamby ,TE,TE
+10.0,15835.0,Zach Ertz,6.0,1.7,4.0,22.0,8.6,3.0,TnM,Team Tenner n Mamby ,TE,TE
+8.0,15835.0,Zach Ertz,6.0,11.4,4.0,22.0,9.4,3.0,TnM,Team Tenner n Mamby ,TE,TE
+9.0,15835.0,Zach Ertz,6.0,12.5,4.0,22.0,8.7,3.0,TnM,Team Tenner n Mamby ,TE,TE
+4.0,3121023.0,Dallas Goedert,6.0,9.7,4.0,21.0,7.6,4.0,Team,Mixon and Nixon ,TE,TE
+5.0,3121023.0,Dallas Goedert,6.0,13.5,4.0,21.0,8.1,4.0,Team,Mixon and Nixon ,TE,TE
+7.0,2975674.0,Robert Tonyan,6.0,4.7,4.0,9.0,6.7,4.0,Team,Mixon and Nixon ,TE,TE
+6.0,3121023.0,Dallas Goedert,6.0,3.2,4.0,21.0,7.7,4.0,Team,Mixon and Nixon ,TE,TE
+2.0,3121023.0,Dallas Goedert,6.0,10.7,4.0,21.0,7.0,4.0,Team,Mixon and Nixon ,TE,TE
+3.0,3121023.0,Dallas Goedert,6.0,10.1,4.0,21.0,7.8,4.0,Team,Mixon and Nixon ,TE,TE
+1.0,3121023.0,Dallas Goedert,6.0,7.5,4.0,21.0,8.2,4.0,Team,Mixon and Nixon ,TE,TE
+10.0,3121023.0,Dallas Goedert,6.0,7.8,4.0,21.0,9.5,4.0,Team,Mixon and Nixon ,TE,TE
+8.0,3121023.0,Dallas Goedert,6.0,9.4,4.0,21.0,8.4,4.0,Team,Mixon and Nixon ,TE,TE
+9.0,3121023.0,Dallas Goedert,6.0,20.0,4.0,21.0,8.6,4.0,Team,Mixon and Nixon ,TE,TE
+4.0,15847.0,Travis Kelce,6.0,19.7,4.0,12.0,13.4,5.0,NIX,Defend the Crown,TE,TE
+5.0,15847.0,Travis Kelce,6.0,30.0,4.0,12.0,14.5,5.0,NIX,Defend the Crown,TE,TE
+7.0,15847.0,Travis Kelce,6.0,12.8,4.0,12.0,13.8,5.0,NIX,Defend the Crown,TE,TE
+6.0,15847.0,Travis Kelce,6.0,15.2,4.0,12.0,13.5,5.0,NIX,Defend the Crown,TE,TE
+2.0,15847.0,Travis Kelce,6.0,7.6,4.0,12.0,12.9,5.0,NIX,Defend the Crown,TE,TE
+3.0,15847.0,Travis Kelce,6.0,15.9,4.0,12.0,13.1,5.0,NIX,Defend the Crown,TE,TE
+1.0,15847.0,Travis Kelce,6.0,22.1,4.0,12.0,11.6,5.0,NIX,Defend the Crown,TE,TE
+10.0,15847.0,Travis Kelce,6.0,17.1,4.0,12.0,16.0,5.0,NIX,Defend the Crown,TE,TE
+8.0,3116164.0,Mike Gesicki,6.0,11.3,4.0,15.0,7.6,5.0,NIX,Defend the Crown,TE,TE
+9.0,15847.0,Travis Kelce,6.0,15.6,4.0,12.0,14.2,5.0,NIX,Defend the Crown,TE,TE
+4.0,4360248.0,Kyle Pitts,6.0,3.0,4.0,1.0,9.5,6.0,ITTO,Team Ittounas,TE,TE
+5.0,3924365.0,Hayden Hurst,6.0,14.3,4.0,4.0,6.2,6.0,ITTO,Team Ittounas,TE,TE
+7.0,3924365.0,Hayden Hurst,6.0,7.8,4.0,4.0,6.1,6.0,ITTO,Team Ittounas,TE,TE
+6.0,3924365.0,Hayden Hurst,6.0,3.6,4.0,4.0,6.4,6.0,ITTO,Team Ittounas,TE,TE
+2.0,4360248.0,Kyle Pitts,6.0,2.9,4.0,1.0,9.4,6.0,ITTO,Team Ittounas,TE,TE
+3.0,4360248.0,Kyle Pitts,6.0,11.2,4.0,1.0,8.0,6.0,ITTO,Team Ittounas,TE,TE
+1.0,4360248.0,Kyle Pitts,6.0,2.9,4.0,1.0,9.5,6.0,ITTO,Team Ittounas,TE,TE
+10.0,4360248.0,Kyle Pitts,6.0,3.8,4.0,1.0,8.8,6.0,ITTO,Team Ittounas,TE,TE
+8.0,3924365.0,Hayden Hurst,6.0,6.2,4.0,4.0,7.5,6.0,ITTO,Team Ittounas,TE,TE
+9.0,4360248.0,Kyle Pitts,6.0,3.7,4.0,1.0,8.8,6.0,ITTO,Team Ittounas,TE,TE
+4.0,3040151.0,George Kittle,6.0,3.4,4.0,25.0,9.2,7.0,THIC,Kittle's Coming Home!,TE,TE
+5.0,3040151.0,George Kittle,6.0,5.2,4.0,25.0,7.0,7.0,THIC,Kittle's Coming Home!,TE,TE
+7.0,3040151.0,George Kittle,6.0,18.8,4.0,25.0,8.9,7.0,THIC,Kittle's Coming Home!,TE,TE
+6.0,3040151.0,George Kittle,6.0,12.3,4.0,25.0,7.8,7.0,THIC,Kittle's Coming Home!,TE,TE
+2.0,2573401.0,Tyler Higbee,6.0,10.6,4.0,14.0,7.4,7.0,THIC,Kittle's Coming Home!,TE,TE
+3.0,3040151.0,George Kittle,6.0,4.8,4.0,25.0,10.3,7.0,THIC,Kittle's Coming Home!,TE,TE
+1.0,4040980.0,Irv Smith Jr.,6.0,0.0,4.0,16.0,7.3,7.0,THIC,Kittle's Coming Home!,TE,TE
+10.0,3040151.0,George Kittle,6.0,2.6,4.0,25.0,8.9,7.0,THIC,Kittle's Coming Home!,TE,TE
+8.0,3040151.0,George Kittle,6.0,11.4,4.0,25.0,9.4,7.0,THIC,Kittle's Coming Home!,TE,TE
+9.0,2573401.0,Tyler Higbee,6.0,0.0,4.0,14.0,8.3,7.0,THIC,Kittle's Coming Home!,TE,TE
+4.0,4361411.0,Pat Freiermuth,6.0,12.0,4.0,23.0,8.3,8.0,GREG,Greg's Gang,TE,TE
+5.0,4361411.0,Pat Freiermuth,6.0,2.2,4.0,23.0,8.8,8.0,GREG,Greg's Gang,TE,TE
+7.0,4361411.0,Pat Freiermuth,6.0,11.5,4.0,23.0,8.5,8.0,GREG,Greg's Gang,TE,TE
+6.0,4040980.0,Irv Smith Jr.,6.0,8.7,4.0,16.0,6.2,8.0,GREG,Greg's Gang,TE,TE
+2.0,4361411.0,Pat Freiermuth,6.0,10.2,4.0,23.0,7.7,8.0,GREG,Greg's Gang,TE,TE
+3.0,4361411.0,Pat Freiermuth,6.0,5.1,4.0,23.0,9.2,8.0,GREG,Greg's Gang,TE,TE
+1.0,4361411.0,Pat Freiermuth,6.0,10.0,4.0,23.0,7.3,8.0,GREG,Greg's Gang,TE,TE
+10.0,4361411.0,Pat Freiermuth,6.0,5.6,4.0,23.0,9.0,8.0,GREG,Greg's Gang,TE,TE
+8.0,4361411.0,Pat Freiermuth,6.0,7.7,4.0,23.0,8.6,8.0,GREG,Greg's Gang,TE,TE
+9.0,3051876.0,Evan Engram,6.0,1.3,4.0,30.0,7.8,8.0,GREG,Greg's Gang,TE,TE
+4.0,3123076.0,David Njoku,6.0,7.2,4.0,5.0,8.1,9.0,Reid,I Hate Joe Burrow,TE,TE
+5.0,3123076.0,David Njoku,6.0,11.8,4.0,5.0,8.9,9.0,Reid,I Hate Joe Burrow,TE,TE
+7.0,3123076.0,David Njoku,6.0,10.6,4.0,5.0,8.8,9.0,Reid,I Hate Joe Burrow,TE,TE
+6.0,3123076.0,David Njoku,6.0,7.3,4.0,5.0,8.0,9.0,Reid,I Hate Joe Burrow,TE,TE
+2.0,3930086.0,Dawson Knox,6.0,6.1,4.0,2.0,7.3,9.0,Reid,I Hate Joe Burrow,TE,TE
+3.0,3930086.0,Dawson Knox,6.0,4.5,4.0,2.0,7.4,9.0,Reid,I Hate Joe Burrow,TE,TE
+1.0,3930086.0,Dawson Knox,6.0,1.0,4.0,2.0,7.7,9.0,Reid,I Hate Joe Burrow,TE,TE
+10.0,3930086.0,Dawson Knox,6.0,7.7,4.0,2.0,6.6,9.0,Reid,I Hate Joe Burrow,TE,TE
+8.0,3930086.0,Dawson Knox,6.0,8.0,4.0,2.0,6.4,9.0,Reid,I Hate Joe Burrow,TE,TE
+9.0,3930086.0,Dawson Knox,6.0,4.0,4.0,2.0,6.5,9.0,Reid,I Hate Joe Burrow,TE,TE
+4.0,3116365.0,Mark Andrews,6.0,2.5,4.0,33.0,13.6,10.0,DAD,A Cursed Entity,TE,TE
+5.0,3116365.0,Mark Andrews,6.0,18.9,4.0,33.0,12.9,10.0,DAD,A Cursed Entity,TE,TE
+7.0,3116365.0,Mark Andrews,6.0,0.4,4.0,33.0,15.5,10.0,DAD,A Cursed Entity,TE,TE
+6.0,3116365.0,Mark Andrews,6.0,20.1,4.0,33.0,14.1,10.0,DAD,A Cursed Entity,TE,TE
+2.0,3116365.0,Mark Andrews,6.0,21.2,4.0,33.0,11.3,10.0,DAD,A Cursed Entity,TE,TE
+3.0,3116365.0,Mark Andrews,6.0,24.9,4.0,33.0,12.9,10.0,DAD,A Cursed Entity,TE,TE
+1.0,3116365.0,Mark Andrews,6.0,7.7,4.0,33.0,12.0,10.0,DAD,A Cursed Entity,TE,TE
+10.0,4367209.0,Greg Dulcich,6.0,1.6,4.0,7.0,6.9,10.0,DAD,A Cursed Entity,TE,TE
+8.0,3116365.0,Mark Andrews,6.0,4.8,4.0,33.0,13.1,10.0,DAD,A Cursed Entity,TE,TE
+9.0,4361050.0,Isaiah Likely,6.0,8.9,4.0,33.0,8.1,10.0,DAD,A Cursed Entity,TE,TE
+6.0,4036133.0,T.J. Hockenson,20.0,0.0,4.0,16.0,0.0,1.0,QUON,Quon's  League ,BN,TE
+4.0,3117256.0,Dalton Schultz,20.0,0.0,4.0,6.0,6.9,2.0,RIP,Matthew Berry Dead,BN,TE
+5.0,3117256.0,Dalton Schultz,20.0,0.0,4.0,6.0,6.9,2.0,RIP,Matthew Berry Dead,BN,TE
+7.0,3117256.0,Dalton Schultz,20.0,7.4,4.0,6.0,6.8,2.0,RIP,Matthew Berry Dead,BN,TE
+6.0,3117256.0,Dalton Schultz,20.0,0.0,4.0,6.0,0.0,2.0,RIP,Matthew Berry Dead,BN,TE
+3.0,3117256.0,Dalton Schultz,20.0,0.0,4.0,6.0,0.0,2.0,RIP,Matthew Berry Dead,BN,TE
+10.0,2468609.0,Taysom Hill,20.0,0.1,4.0,18.0,6.0,2.0,RIP,Matthew Berry Dead,BN,TE
+8.0,3117256.0,Dalton Schultz,20.0,10.4,4.0,6.0,6.4,2.0,RIP,Matthew Berry Dead,BN,TE
+9.0,3117256.0,Dalton Schultz,20.0,0.0,4.0,6.0,0.0,2.0,RIP,Matthew Berry Dead,BN,TE
+4.0,15835.0,Zach Ertz,20.0,13.7,4.0,22.0,8.4,3.0,TnM,Team Tenner n Mamby ,BN,TE
+5.0,15835.0,Zach Ertz,20.0,7.8,4.0,22.0,8.8,3.0,TnM,Team Tenner n Mamby ,BN,TE
+7.0,2576925.0,Darren Waller,20.0,0.0,4.0,13.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,TE
+6.0,2576925.0,Darren Waller,20.0,0.0,4.0,13.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,TE
+2.0,15835.0,Zach Ertz,20.0,11.5,4.0,22.0,7.1,3.0,TnM,Team Tenner n Mamby ,BN,TE
+3.0,15835.0,Zach Ertz,20.0,7.5,4.0,22.0,8.2,3.0,TnM,Team Tenner n Mamby ,BN,TE
+1.0,15835.0,Zach Ertz,20.0,10.4,4.0,22.0,8.1,3.0,TnM,Team Tenner n Mamby ,BN,TE
+8.0,2576925.0,Darren Waller,20.0,0.0,4.0,13.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,TE
+9.0,2576925.0,Darren Waller,20.0,0.0,4.0,13.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,TE
+7.0,3121023.0,Dallas Goedert,20.0,0.0,4.0,21.0,0.0,4.0,Team,Mixon and Nixon ,BN,TE
+10.0,2975674.0,Robert Tonyan,20.0,1.3,4.0,9.0,6.4,4.0,Team,Mixon and Nixon ,BN,TE
+8.0,2975674.0,Robert Tonyan,20.0,6.0,4.0,9.0,6.6,4.0,Team,Mixon and Nixon ,BN,TE
+9.0,2975674.0,Robert Tonyan,20.0,4.4,4.0,9.0,7.1,4.0,Team,Mixon and Nixon ,BN,TE
+4.0,3918639.0,Gerald Everett,20.0,14.6,4.0,24.0,7.1,5.0,NIX,Defend the Crown,BN,TE
+5.0,3918639.0,Gerald Everett,20.0,0.7,4.0,24.0,9.0,5.0,NIX,Defend the Crown,BN,TE
+7.0,3918639.0,Gerald Everett,20.0,8.8,4.0,24.0,7.9,5.0,NIX,Defend the Crown,BN,TE
+6.0,3918639.0,Gerald Everett,20.0,5.4,4.0,24.0,8.0,5.0,NIX,Defend the Crown,BN,TE
+10.0,3918639.0,Gerald Everett,20.0,3.3,4.0,24.0,9.5,5.0,NIX,Defend the Crown,BN,TE
+8.0,15847.0,Travis Kelce,20.0,0.0,4.0,12.0,0.0,5.0,NIX,Defend the Crown,BN,TE
+8.0,3918639.0,Gerald Everett,20.0,0.0,4.0,24.0,0.0,5.0,NIX,Defend the Crown,BN,TE
+7.0,4360248.0,Kyle Pitts,20.0,2.4,4.0,1.0,7.5,6.0,ITTO,Team Ittounas,BN,TE
+3.0,3918639.0,Gerald Everett,20.0,3.5,4.0,24.0,7.7,6.0,ITTO,Team Ittounas,BN,TE
+10.0,3924365.0,Hayden Hurst,20.0,0.0,4.0,4.0,0.0,6.0,ITTO,Team Ittounas,BN,TE
+8.0,4360248.0,Kyle Pitts,20.0,16.5,4.0,1.0,7.3,6.0,ITTO,Team Ittounas,BN,TE
+9.0,3924365.0,Hayden Hurst,20.0,6.0,4.0,4.0,7.4,6.0,ITTO,Team Ittounas,BN,TE
+4.0,2573401.0,Tyler Higbee,20.0,12.3,4.0,14.0,8.8,7.0,THIC,Kittle's Coming Home!,BN,TE
+5.0,2573401.0,Tyler Higbee,20.0,8.1,4.0,14.0,9.7,7.0,THIC,Kittle's Coming Home!,BN,TE
+7.0,2573401.0,Tyler Higbee,20.0,0.0,4.0,14.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,TE
+2.0,3040151.0,George Kittle,20.0,0.0,4.0,25.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,TE
+1.0,3040151.0,George Kittle,20.0,0.0,4.0,25.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,TE
+10.0,2573401.0,Tyler Higbee,20.0,11.3,4.0,14.0,6.3,7.0,THIC,Kittle's Coming Home!,BN,TE
+8.0,2573401.0,Tyler Higbee,20.0,2.5,4.0,14.0,8.7,7.0,THIC,Kittle's Coming Home!,BN,TE
+9.0,3040151.0,George Kittle,20.0,0.0,4.0,25.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,TE
+6.0,4361411.0,Pat Freiermuth,20.0,0.0,4.0,23.0,0.0,8.0,GREG,Greg's Gang,BN,TE
+9.0,4361411.0,Pat Freiermuth,20.0,0.0,4.0,23.0,0.0,8.0,GREG,Greg's Gang,BN,TE
+4.0,3930086.0,Dawson Knox,20.0,5.5,4.0,2.0,7.1,9.0,Reid,I Hate Joe Burrow,BN,TE
+5.0,3930086.0,Dawson Knox,20.0,0.0,4.0,2.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,TE
+7.0,3930086.0,Dawson Knox,20.0,0.0,4.0,2.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,TE
+6.0,3930086.0,Dawson Knox,20.0,11.2,4.0,2.0,7.7,9.0,Reid,I Hate Joe Burrow,BN,TE
+10.0,3116365.0,Mark Andrews,20.0,0.0,4.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,TE
+9.0,3116365.0,Mark Andrews,20.0,0.0,4.0,33.0,0.0,10.0,DAD,A Cursed Entity,BN,TE
+10.0,2576925.0,Darren Waller,21.0,0.0,4.0,13.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,TE
+5.0,4360248.0,Kyle Pitts,21.0,0.0,4.0,1.0,0.0,6.0,ITTO,Team Ittounas,BN,TE
+6.0,4360248.0,Kyle Pitts,21.0,9.4,4.0,1.0,7.7,6.0,ITTO,Team Ittounas,BN,TE
+10.0,3123076.0,David Njoku,21.0,0.0,4.0,5.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,TE
+8.0,3123076.0,David Njoku,21.0,0.0,4.0,5.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,TE
+9.0,3123076.0,David Njoku,21.0,0.0,4.0,5.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,TE
+4.0,16757.0,Derek Carr,20.0,11.52,1.0,13.0,16.1,1.0,QUON,Quon's  League ,BN,QB
+5.0,16757.0,Derek Carr,20.0,17.94,1.0,13.0,17.7,1.0,QUON,Quon's  League ,BN,QB
+7.0,4040715.0,Jalen Hurts,20.0,0.0,1.0,21.0,0.0,1.0,QUON,Quon's  League ,BN,QB
+6.0,16757.0,Derek Carr,20.0,0.0,1.0,13.0,0.0,1.0,QUON,Quon's  League ,BN,QB
+2.0,16757.0,Derek Carr,20.0,18.98,1.0,13.0,17.6,1.0,QUON,Quon's  League ,BN,QB
+3.0,16757.0,Derek Carr,20.0,19.82,1.0,13.0,17.9,1.0,QUON,Quon's  League ,BN,QB
+1.0,16757.0,Derek Carr,20.0,13.8,1.0,13.0,16.0,1.0,QUON,Quon's  League ,BN,QB
+8.0,16757.0,Derek Carr,20.0,1.94,1.0,13.0,16.7,1.0,QUON,Quon's  League ,BN,QB
+4.0,4241479.0,Tua Tagovailoa,20.0,2.4,1.0,15.0,18.3,2.0,RIP,Matthew Berry Dead,BN,QB
+7.0,4241479.0,Tua Tagovailoa,20.0,15.94,1.0,15.0,17.9,2.0,RIP,Matthew Berry Dead,BN,QB
+2.0,11237.0,Matt Ryan,20.0,1.8,1.0,11.0,15.9,2.0,RIP,Matthew Berry Dead,BN,QB
+3.0,4038941.0,Justin Herbert,20.0,12.58,1.0,24.0,20.2,2.0,RIP,Matthew Berry Dead,BN,QB
+1.0,11237.0,Matt Ryan,20.0,15.28,1.0,11.0,16.0,2.0,RIP,Matthew Berry Dead,BN,QB
+10.0,4038941.0,Justin Herbert,20.0,12.04,1.0,24.0,18.0,2.0,RIP,Matthew Berry Dead,BN,QB
+8.0,4038941.0,Justin Herbert,20.0,0.0,1.0,24.0,0.0,2.0,RIP,Matthew Berry Dead,BN,QB
+9.0,4241479.0,Tua Tagovailoa,20.0,24.08,1.0,15.0,19.5,2.0,RIP,Matthew Berry Dead,BN,QB
+7.0,3918298.0,Josh Allen,20.0,0.0,1.0,2.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,QB
+10.0,14880.0,Kirk Cousins,20.0,15.48,1.0,16.0,15.8,3.0,TnM,Team Tenner n Mamby ,BN,QB
+4.0,8439.0,Aaron Rodgers,20.0,16.14,1.0,9.0,16.8,4.0,Team,Mixon and Nixon ,BN,QB
+5.0,8439.0,Aaron Rodgers,20.0,16.88,1.0,9.0,16.1,4.0,Team,Mixon and Nixon ,BN,QB
+7.0,8439.0,Aaron Rodgers,20.0,15.76,1.0,9.0,16.0,4.0,Team,Mixon and Nixon ,BN,QB
+6.0,8439.0,Aaron Rodgers,20.0,11.84,1.0,9.0,16.4,4.0,Team,Mixon and Nixon ,BN,QB
+2.0,8439.0,Aaron Rodgers,20.0,16.36,1.0,9.0,19.6,4.0,Team,Mixon and Nixon ,BN,QB
+3.0,8439.0,Aaron Rodgers,20.0,16.1,1.0,9.0,16.2,4.0,Team,Mixon and Nixon ,BN,QB
+1.0,8439.0,Aaron Rodgers,20.0,3.7,1.0,9.0,19.7,4.0,Team,Mixon and Nixon ,BN,QB
+10.0,3916387.0,Lamar Jackson,20.0,0.0,1.0,33.0,0.0,4.0,Team,Mixon and Nixon ,BN,QB
+8.0,8439.0,Aaron Rodgers,20.0,15.22,1.0,9.0,13.5,4.0,Team,Mixon and Nixon ,BN,QB
+9.0,8439.0,Aaron Rodgers,20.0,13.64,1.0,9.0,18.5,4.0,Team,Mixon and Nixon ,BN,QB
+4.0,2330.0,Tom Brady,20.0,25.4,1.0,27.0,17.4,5.0,NIX,Defend the Crown,BN,QB
+5.0,12483.0,Matthew Stafford,20.0,10.32,1.0,14.0,14.8,5.0,NIX,Defend the Crown,BN,QB
+7.0,12483.0,Matthew Stafford,20.0,0.0,1.0,14.0,0.0,5.0,NIX,Defend the Crown,BN,QB
+6.0,12483.0,Matthew Stafford,20.0,11.82,1.0,14.0,14.9,5.0,NIX,Defend the Crown,BN,QB
+2.0,2330.0,Tom Brady,20.0,9.4,1.0,27.0,18.1,5.0,NIX,Defend the Crown,BN,QB
+3.0,2330.0,Tom Brady,20.0,14.74,1.0,27.0,17.9,5.0,NIX,Defend the Crown,BN,QB
+1.0,12483.0,Matthew Stafford,20.0,7.8,1.0,14.0,16.9,5.0,NIX,Defend the Crown,BN,QB
+10.0,2330.0,Tom Brady,20.0,16.02,1.0,27.0,16.5,5.0,NIX,Defend the Crown,BN,QB
+10.0,3917315.0,Kyler Murray,20.0,0.0,1.0,22.0,0.0,6.0,ITTO,Team Ittounas,BN,QB
+7.0,14881.0,Russell Wilson,20.0,0.0,1.0,7.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,QB
+6.0,14881.0,Russell Wilson,20.0,13.82,1.0,7.0,16.9,7.0,THIC,Kittle's Coming Home!,BN,QB
+10.0,3917792.0,Daniel Jones,20.0,18.28,1.0,19.0,16.9,7.0,THIC,Kittle's Coming Home!,BN,QB
+8.0,14881.0,Russell Wilson,20.0,13.78,1.0,7.0,14.7,7.0,THIC,Kittle's Coming Home!,BN,QB
+9.0,3917792.0,Daniel Jones,20.0,0.0,1.0,19.0,0.0,7.0,THIC,Kittle's Coming Home!,BN,QB
+8.0,3139477.0,Patrick Mahomes,20.0,0.0,1.0,12.0,0.0,8.0,GREG,Greg's Gang,BN,QB
+1.0,2577417.0,Dak Prescott,20.0,4.46,1.0,6.0,18.6,9.0,Reid,I Hate Joe Burrow,BN,QB
+10.0,3915511.0,Joe Burrow,20.0,0.0,1.0,4.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+8.0,2577417.0,Dak Prescott,20.0,25.4,1.0,6.0,15.3,9.0,Reid,I Hate Joe Burrow,BN,QB
+9.0,2577417.0,Dak Prescott,20.0,0.0,1.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+4.0,4360310.0,Trevor Lawrence,20.0,5.66,1.0,30.0,16.8,10.0,DAD,A Cursed Entity,BN,QB
+6.0,4361259.0,Zach Wilson,20.0,4.5,1.0,20.0,15.9,10.0,DAD,A Cursed Entity,BN,QB
+3.0,4361259.0,Zach Wilson,20.0,0.0,1.0,20.0,0.0,10.0,DAD,A Cursed Entity,BN,QB
+4.0,4040715.0,Jalen Hurts,0.0,15.96,1.0,21.0,23.8,1.0,QUON,Quon's  League ,QB,QB
+5.0,4040715.0,Jalen Hurts,0.0,27.66,1.0,21.0,24.7,1.0,QUON,Quon's  League ,QB,QB
+7.0,16757.0,Derek Carr,0.0,13.54,1.0,13.0,16.5,1.0,QUON,Quon's  League ,QB,QB
+6.0,4040715.0,Jalen Hurts,0.0,16.9,1.0,21.0,22.1,1.0,QUON,Quon's  League ,QB,QB
+2.0,4040715.0,Jalen Hurts,0.0,33.02,1.0,21.0,22.0,1.0,QUON,Quon's  League ,QB,QB
+3.0,4040715.0,Jalen Hurts,0.0,27.6,1.0,21.0,23.9,1.0,QUON,Quon's  League ,QB,QB
+1.0,4040715.0,Jalen Hurts,0.0,24.72,1.0,21.0,22.9,1.0,QUON,Quon's  League ,QB,QB
+10.0,4040715.0,Jalen Hurts,0.0,21.8,1.0,21.0,23.1,1.0,QUON,Quon's  League ,QB,QB
+8.0,4040715.0,Jalen Hurts,0.0,28.4,1.0,21.0,24.0,1.0,QUON,Quon's  League ,QB,QB
+9.0,4040715.0,Jalen Hurts,0.0,20.02,1.0,21.0,24.2,1.0,QUON,Quon's  League ,QB,QB
+4.0,4038941.0,Justin Herbert,0.0,21.1,1.0,24.0,19.5,2.0,RIP,Matthew Berry Dead,QB,QB
+5.0,4038941.0,Justin Herbert,0.0,14.42,1.0,24.0,21.6,2.0,RIP,Matthew Berry Dead,QB,QB
+7.0,4038941.0,Justin Herbert,0.0,17.62,1.0,24.0,21.3,2.0,RIP,Matthew Berry Dead,QB,QB
+6.0,4038941.0,Justin Herbert,0.0,8.42,1.0,24.0,18.1,2.0,RIP,Matthew Berry Dead,QB,QB
+2.0,4038941.0,Justin Herbert,0.0,23.46,1.0,24.0,21.4,2.0,RIP,Matthew Berry Dead,QB,QB
+3.0,4241479.0,Tua Tagovailoa,0.0,11.44,1.0,15.0,17.7,2.0,RIP,Matthew Berry Dead,QB,QB
+1.0,4038941.0,Justin Herbert,0.0,23.26,1.0,24.0,20.8,2.0,RIP,Matthew Berry Dead,QB,QB
+10.0,4241479.0,Tua Tagovailoa,0.0,23.4,1.0,15.0,20.5,2.0,RIP,Matthew Berry Dead,QB,QB
+8.0,4241479.0,Tua Tagovailoa,0.0,29.18,1.0,15.0,20.2,2.0,RIP,Matthew Berry Dead,QB,QB
+9.0,4038941.0,Justin Herbert,0.0,12.1,1.0,24.0,21.1,2.0,RIP,Matthew Berry Dead,QB,QB
+4.0,3918298.0,Josh Allen,0.0,23.52,1.0,2.0,25.1,3.0,TnM,Team Tenner n Mamby ,QB,QB
+5.0,3918298.0,Josh Allen,0.0,35.16,1.0,2.0,23.6,3.0,TnM,Team Tenner n Mamby ,QB,QB
+7.0,11237.0,Matt Ryan,0.0,9.92,1.0,11.0,15.8,3.0,TnM,Team Tenner n Mamby ,QB,QB
+6.0,3918298.0,Josh Allen,0.0,26.36,1.0,2.0,26.1,3.0,TnM,Team Tenner n Mamby ,QB,QB
+2.0,3918298.0,Josh Allen,0.0,29.68,1.0,2.0,24.4,3.0,TnM,Team Tenner n Mamby ,QB,QB
+3.0,3918298.0,Josh Allen,0.0,26.7,1.0,2.0,24.2,3.0,TnM,Team Tenner n Mamby ,QB,QB
+1.0,3918298.0,Josh Allen,0.0,31.48,1.0,2.0,22.6,3.0,TnM,Team Tenner n Mamby ,QB,QB
+10.0,3918298.0,Josh Allen,0.0,19.6,1.0,2.0,24.2,3.0,TnM,Team Tenner n Mamby ,QB,QB
+8.0,3918298.0,Josh Allen,0.0,17.62,1.0,2.0,23.8,3.0,TnM,Team Tenner n Mamby ,QB,QB
+9.0,3918298.0,Josh Allen,0.0,24.8,1.0,2.0,23.0,3.0,TnM,Team Tenner n Mamby ,QB,QB
+4.0,3916387.0,Lamar Jackson,0.0,13.06,1.0,33.0,23.1,4.0,Team,Mixon and Nixon ,QB,QB
+5.0,3916387.0,Lamar Jackson,0.0,14.76,1.0,33.0,22.9,4.0,Team,Mixon and Nixon ,QB,QB
+7.0,3916387.0,Lamar Jackson,0.0,10.7,1.0,33.0,25.4,4.0,Team,Mixon and Nixon ,QB,QB
+6.0,3916387.0,Lamar Jackson,0.0,16.1,1.0,33.0,21.9,4.0,Team,Mixon and Nixon ,QB,QB
+2.0,3916387.0,Lamar Jackson,0.0,42.62,1.0,33.0,20.6,4.0,Team,Mixon and Nixon ,QB,QB
+3.0,3916387.0,Lamar Jackson,0.0,39.42,1.0,33.0,23.2,4.0,Team,Mixon and Nixon ,QB,QB
+1.0,3916387.0,Lamar Jackson,0.0,20.22,1.0,33.0,21.2,4.0,Team,Mixon and Nixon ,QB,QB
+10.0,14881.0,Russell Wilson,0.0,14.24,1.0,7.0,14.3,4.0,Team,Mixon and Nixon ,QB,QB
+8.0,3916387.0,Lamar Jackson,0.0,21.82,1.0,33.0,21.3,4.0,Team,Mixon and Nixon ,QB,QB
+9.0,3916387.0,Lamar Jackson,0.0,17.52,1.0,33.0,20.7,4.0,Team,Mixon and Nixon ,QB,QB
+4.0,12483.0,Matthew Stafford,0.0,6.76,1.0,14.0,16.3,5.0,NIX,Defend the Crown,QB,QB
+5.0,2330.0,Tom Brady,0.0,19.74,1.0,27.0,20.2,5.0,NIX,Defend the Crown,QB,QB
+7.0,2330.0,Tom Brady,0.0,11.7,1.0,27.0,17.1,5.0,NIX,Defend the Crown,QB,QB
+6.0,2330.0,Tom Brady,0.0,13.72,1.0,27.0,19.3,5.0,NIX,Defend the Crown,QB,QB
+2.0,12483.0,Matthew Stafford,0.0,18.88,1.0,14.0,18.1,5.0,NIX,Defend the Crown,QB,QB
+3.0,12483.0,Matthew Stafford,0.0,10.16,1.0,14.0,18.7,5.0,NIX,Defend the Crown,QB,QB
+1.0,2330.0,Tom Brady,0.0,10.38,1.0,27.0,19.1,5.0,NIX,Defend the Crown,QB,QB
+10.0,4360310.0,Trevor Lawrence,0.0,20.96,1.0,30.0,17.1,5.0,NIX,Defend the Crown,QB,QB
+8.0,2330.0,Tom Brady,0.0,17.1,1.0,27.0,17.8,5.0,NIX,Defend the Crown,QB,QB
+9.0,2330.0,Tom Brady,0.0,15.2,1.0,27.0,15.9,5.0,NIX,Defend the Crown,QB,QB
+4.0,3917315.0,Kyler Murray,0.0,22.88,1.0,22.0,18.2,6.0,ITTO,Team Ittounas,QB,QB
+5.0,3917315.0,Kyler Murray,0.0,16.2,1.0,22.0,18.1,6.0,ITTO,Team Ittounas,QB,QB
+7.0,3917315.0,Kyler Murray,0.0,17.16,1.0,22.0,19.1,6.0,ITTO,Team Ittounas,QB,QB
+6.0,3917315.0,Kyler Murray,0.0,14.88,1.0,22.0,22.1,6.0,ITTO,Team Ittounas,QB,QB
+2.0,3917315.0,Kyler Murray,0.0,25.88,1.0,22.0,20.1,6.0,ITTO,Team Ittounas,QB,QB
+3.0,3917315.0,Kyler Murray,0.0,13.36,1.0,22.0,20.2,6.0,ITTO,Team Ittounas,QB,QB
+1.0,3917315.0,Kyler Murray,0.0,20.62,1.0,22.0,20.5,6.0,ITTO,Team Ittounas,QB,QB
+10.0,16760.0,Jimmy Garoppolo,0.0,15.9,1.0,25.0,15.9,6.0,ITTO,Team Ittounas,QB,QB
+8.0,3917315.0,Kyler Murray,0.0,24.64,1.0,22.0,18.5,6.0,ITTO,Team Ittounas,QB,QB
+9.0,3917315.0,Kyler Murray,0.0,19.0,1.0,22.0,19.3,6.0,ITTO,Team Ittounas,QB,QB
+4.0,14881.0,Russell Wilson,0.0,26.98,1.0,7.0,18.0,7.0,THIC,Kittle's Coming Home!,QB,QB
+5.0,14881.0,Russell Wilson,0.0,9.16,1.0,7.0,17.4,7.0,THIC,Kittle's Coming Home!,QB,QB
+7.0,3917792.0,Daniel Jones,0.0,28.78,1.0,19.0,15.1,7.0,THIC,Kittle's Coming Home!,QB,QB
+6.0,3917792.0,Daniel Jones,0.0,13.52,1.0,19.0,16.6,7.0,THIC,Kittle's Coming Home!,QB,QB
+2.0,14881.0,Russell Wilson,0.0,11.06,1.0,7.0,20.1,7.0,THIC,Kittle's Coming Home!,QB,QB
+3.0,14881.0,Russell Wilson,0.0,9.06,1.0,7.0,17.8,7.0,THIC,Kittle's Coming Home!,QB,QB
+1.0,14881.0,Russell Wilson,0.0,17.8,1.0,7.0,19.1,7.0,THIC,Kittle's Coming Home!,QB,QB
+10.0,15864.0,Geno Smith,0.0,19.2,1.0,26.0,17.2,7.0,THIC,Kittle's Coming Home!,QB,QB
+8.0,3917792.0,Daniel Jones,0.0,9.04,1.0,19.0,18.5,7.0,THIC,Kittle's Coming Home!,QB,QB
+9.0,15864.0,Geno Smith,0.0,20.8,1.0,26.0,18.3,7.0,THIC,Kittle's Coming Home!,QB,QB
+4.0,3139477.0,Patrick Mahomes,0.0,23.36,1.0,12.0,20.6,8.0,GREG,Greg's Gang,QB,QB
+5.0,3139477.0,Patrick Mahomes,0.0,30.48,1.0,12.0,23.3,8.0,GREG,Greg's Gang,QB,QB
+7.0,3139477.0,Patrick Mahomes,0.0,26.92,1.0,12.0,20.4,8.0,GREG,Greg's Gang,QB,QB
+6.0,3139477.0,Patrick Mahomes,0.0,19.62,1.0,12.0,21.1,8.0,GREG,Greg's Gang,QB,QB
+2.0,3139477.0,Patrick Mahomes,0.0,17.3,1.0,12.0,22.3,8.0,GREG,Greg's Gang,QB,QB
+3.0,3139477.0,Patrick Mahomes,0.0,17.08,1.0,12.0,22.4,8.0,GREG,Greg's Gang,QB,QB
+1.0,3139477.0,Patrick Mahomes,0.0,34.9,1.0,12.0,22.7,8.0,GREG,Greg's Gang,QB,QB
+10.0,3139477.0,Patrick Mahomes,0.0,31.14,1.0,12.0,23.7,8.0,GREG,Greg's Gang,QB,QB
+8.0,14880.0,Kirk Cousins,0.0,23.48,1.0,16.0,16.0,8.0,GREG,Greg's Gang,QB,QB
+9.0,3139477.0,Patrick Mahomes,0.0,34.14,1.0,12.0,22.2,8.0,GREG,Greg's Gang,QB,QB
+4.0,3915511.0,Joe Burrow,0.0,20.08,1.0,4.0,18.4,9.0,Reid,I Hate Joe Burrow,QB,QB
+5.0,3915511.0,Joe Burrow,0.0,17.28,1.0,4.0,19.7,9.0,Reid,I Hate Joe Burrow,QB,QB
+7.0,3915511.0,Joe Burrow,0.0,39.24,1.0,4.0,19.8,9.0,Reid,I Hate Joe Burrow,QB,QB
+6.0,3915511.0,Joe Burrow,0.0,32.5,1.0,4.0,17.3,9.0,Reid,I Hate Joe Burrow,QB,QB
+2.0,3915511.0,Joe Burrow,0.0,16.56,1.0,4.0,17.9,9.0,Reid,I Hate Joe Burrow,QB,QB
+3.0,3915511.0,Joe Burrow,0.0,23.0,1.0,4.0,18.4,9.0,Reid,I Hate Joe Burrow,QB,QB
+1.0,3915511.0,Joe Burrow,0.0,18.22,1.0,4.0,18.1,9.0,Reid,I Hate Joe Burrow,QB,QB
+10.0,2577417.0,Dak Prescott,0.0,19.2,1.0,6.0,14.7,9.0,Reid,I Hate Joe Burrow,QB,QB
+8.0,3915511.0,Joe Burrow,0.0,13.48,1.0,4.0,21.6,9.0,Reid,I Hate Joe Burrow,QB,QB
+9.0,3915511.0,Joe Burrow,0.0,19.14,1.0,4.0,19.7,9.0,Reid,I Hate Joe Burrow,QB,QB
+4.0,4361259.0,Zach Wilson,0.0,18.28,1.0,20.0,15.1,10.0,DAD,A Cursed Entity,QB,QB
+5.0,4361259.0,Zach Wilson,0.0,14.6,1.0,20.0,16.6,10.0,DAD,A Cursed Entity,QB,QB
+7.0,15864.0,Geno Smith,0.0,13.1,1.0,26.0,19.4,10.0,DAD,A Cursed Entity,QB,QB
+6.0,15864.0,Geno Smith,0.0,12.68,1.0,26.0,19.6,10.0,DAD,A Cursed Entity,QB,QB
+2.0,4383351.0,Trey Lance,0.0,2.5,1.0,25.0,18.0,10.0,DAD,A Cursed Entity,QB,QB
+3.0,14880.0,Kirk Cousins,0.0,18.3,1.0,16.0,18.4,10.0,DAD,A Cursed Entity,QB,QB
+1.0,4383351.0,Trey Lance,0.0,9.96,1.0,25.0,17.5,10.0,DAD,A Cursed Entity,QB,QB
+10.0,4362887.0,Justin Fields,0.0,39.38,1.0,3.0,21.8,10.0,DAD,A Cursed Entity,QB,QB
+8.0,15864.0,Geno Smith,0.0,19.08,1.0,26.0,17.5,10.0,DAD,A Cursed Entity,QB,QB
+9.0,4362887.0,Justin Fields,0.0,42.72,1.0,3.0,16.3,10.0,DAD,A Cursed Entity,QB,QB
+5.0,4241479.0,Tua Tagovailoa,21.0,0.0,1.0,15.0,0.0,2.0,RIP,Matthew Berry Dead,BN,QB
+6.0,4241479.0,Tua Tagovailoa,21.0,0.0,1.0,15.0,0.0,2.0,RIP,Matthew Berry Dead,BN,QB
+4.0,2577417.0,Dak Prescott,21.0,0.0,1.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+5.0,2577417.0,Dak Prescott,21.0,0.0,1.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+7.0,2577417.0,Dak Prescott,21.0,12.28,1.0,6.0,19.3,9.0,Reid,I Hate Joe Burrow,BN,QB
+6.0,2577417.0,Dak Prescott,21.0,0.0,1.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+2.0,2577417.0,Dak Prescott,21.0,0.0,1.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+3.0,2577417.0,Dak Prescott,21.0,0.0,1.0,6.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,QB
+4.0,-16002.0,Bills D/ST,20.0,8.0,16.0,2.0,3.8,1.0,QUON,Quon's  League ,BN,DST
+5.0,-16006.0,Cowboys D/ST,20.0,22.0,16.0,6.0,7.6,1.0,QUON,Quon's  League ,BN,DST
+7.0,-16002.0,Bills D/ST,20.0,0.0,16.0,2.0,0.0,1.0,QUON,Quon's  League ,BN,DST
+6.0,-16002.0,Bills D/ST,20.0,6.0,16.0,2.0,3.0,1.0,QUON,Quon's  League ,BN,DST
+3.0,-16002.0,Bills D/ST,20.0,6.0,16.0,2.0,4.6,1.0,QUON,Quon's  League ,BN,DST
+1.0,-16002.0,Bills D/ST,20.0,18.0,16.0,2.0,5.1,1.0,QUON,Quon's  League ,BN,DST
+10.0,-16002.0,Bills D/ST,20.0,3.0,16.0,2.0,5.1,1.0,QUON,Quon's  League ,BN,DST
+8.0,-16002.0,Bills D/ST,20.0,4.0,16.0,2.0,6.3,1.0,QUON,Quon's  League ,BN,DST
+9.0,-16006.0,Cowboys D/ST,20.0,0.0,16.0,6.0,0.0,1.0,QUON,Quon's  League ,BN,DST
+10.0,-16020.0,Jets D/ST,20.0,0.0,16.0,20.0,0.0,2.0,RIP,Matthew Berry Dead,BN,DST
+9.0,-16020.0,Jets D/ST,20.0,10.0,16.0,20.0,3.5,2.0,RIP,Matthew Berry Dead,BN,DST
+4.0,-16014.0,Rams D/ST,20.0,0.0,16.0,14.0,5.2,4.0,Team,Mixon and Nixon ,BN,DST
+7.0,-16014.0,Rams D/ST,20.0,0.0,16.0,14.0,0.0,4.0,Team,Mixon and Nixon ,BN,DST
+6.0,-16007.0,Broncos D/ST,20.0,6.0,16.0,7.0,3.4,4.0,Team,Mixon and Nixon ,BN,DST
+2.0,-16028.0,Commanders D/ST,20.0,-1.0,16.0,28.0,6.2,4.0,Team,Mixon and Nixon ,BN,DST
+3.0,-16028.0,Commanders D/ST,20.0,2.0,16.0,28.0,3.1,4.0,Team,Mixon and Nixon ,BN,DST
+1.0,-16014.0,Rams D/ST,20.0,6.0,16.0,14.0,4.0,4.0,Team,Mixon and Nixon ,BN,DST
+8.0,-16014.0,Rams D/ST,20.0,1.0,16.0,14.0,5.6,4.0,Team,Mixon and Nixon ,BN,DST
+5.0,-16021.0,Eagles D/ST,20.0,3.0,16.0,21.0,6.2,6.0,ITTO,Team Ittounas,BN,DST
+7.0,-16021.0,Eagles D/ST,20.0,0.0,16.0,21.0,0.0,6.0,ITTO,Team Ittounas,BN,DST
+6.0,-16009.0,Packers D/ST,20.0,4.0,16.0,9.0,5.9,6.0,ITTO,Team Ittounas,BN,DST
+7.0,-16025.0,49ers D/ST,20.0,-4.0,16.0,25.0,3.6,8.0,GREG,Greg's Gang,BN,DST
+10.0,-16017.0,Patriots D/ST,20.0,0.0,16.0,17.0,0.0,8.0,GREG,Greg's Gang,BN,DST
+8.0,-16033.0,Ravens D/ST,20.0,5.0,16.0,33.0,3.7,9.0,Reid,I Hate Joe Burrow,BN,DST
+4.0,-16027.0,Buccaneers D/ST,20.0,-1.0,16.0,27.0,3.0,10.0,DAD,A Cursed Entity,BN,DST
+4.0,-16006.0,Cowboys D/ST,16.0,11.0,16.0,6.0,6.8,1.0,QUON,Quon's  League ,DEF,DST
+5.0,-16002.0,Bills D/ST,16.0,10.0,16.0,2.0,8.4,1.0,QUON,Quon's  League ,DEF,DST
+7.0,-16006.0,Cowboys D/ST,16.0,19.0,16.0,6.0,5.5,1.0,QUON,Quon's  League ,DEF,DST
+6.0,-16006.0,Cowboys D/ST,16.0,6.0,16.0,6.0,4.1,1.0,QUON,Quon's  League ,DEF,DST
+2.0,-16002.0,Bills D/ST,16.0,22.0,16.0,2.0,6.1,1.0,QUON,Quon's  League ,DEF,DST
+3.0,-16006.0,Cowboys D/ST,16.0,10.0,16.0,6.0,7.3,1.0,QUON,Quon's  League ,DEF,DST
+1.0,-16021.0,Eagles D/ST,16.0,5.0,16.0,21.0,6.9,1.0,QUON,Quon's  League ,DEF,DST
+10.0,-16006.0,Cowboys D/ST,16.0,2.0,16.0,6.0,5.9,1.0,QUON,Quon's  League ,DEF,DST
+8.0,-16006.0,Cowboys D/ST,16.0,10.0,16.0,6.0,8.4,1.0,QUON,Quon's  League ,DEF,DST
+9.0,-16002.0,Bills D/ST,16.0,4.0,16.0,2.0,6.8,1.0,QUON,Quon's  League ,DEF,DST
+4.0,-16005.0,Browns D/ST,16.0,3.0,16.0,5.0,6.4,2.0,RIP,Matthew Berry Dead,DEF,DST
+5.0,-16010.0,Titans D/ST,16.0,5.0,16.0,10.0,6.0,2.0,RIP,Matthew Berry Dead,DEF,DST
+7.0,-16020.0,Jets D/ST,16.0,6.0,16.0,20.0,6.8,2.0,RIP,Matthew Berry Dead,DEF,DST
+6.0,-16004.0,Bengals D/ST,16.0,0.0,16.0,4.0,6.0,2.0,RIP,Matthew Berry Dead,DEF,DST
+2.0,-16005.0,Browns D/ST,16.0,0.0,16.0,5.0,6.9,2.0,RIP,Matthew Berry Dead,DEF,DST
+3.0,-16005.0,Browns D/ST,16.0,10.0,16.0,5.0,7.3,2.0,RIP,Matthew Berry Dead,DEF,DST
+1.0,-16005.0,Browns D/ST,16.0,8.0,16.0,5.0,7.3,2.0,RIP,Matthew Berry Dead,DEF,DST
+10.0,-16022.0,Cardinals D/ST,16.0,10.0,16.0,22.0,6.1,2.0,RIP,Matthew Berry Dead,DEF,DST
+8.0,-16020.0,Jets D/ST,16.0,10.0,16.0,20.0,6.3,2.0,RIP,Matthew Berry Dead,DEF,DST
+9.0,-16009.0,Packers D/ST,16.0,5.0,16.0,9.0,4.5,2.0,RIP,Matthew Berry Dead,DEF,DST
+4.0,-16024.0,Chargers D/ST,16.0,8.0,16.0,24.0,7.4,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+5.0,-16030.0,Jaguars D/ST,16.0,6.0,16.0,30.0,7.8,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+7.0,-16013.0,Raiders D/ST,16.0,6.0,16.0,13.0,5.9,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+6.0,-16030.0,Jaguars D/ST,16.0,-4.0,16.0,30.0,7.3,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+2.0,-16025.0,49ers D/ST,16.0,13.0,16.0,25.0,7.0,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+3.0,-16026.0,Seahawks D/ST,16.0,6.0,16.0,26.0,6.8,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+1.0,-16025.0,49ers D/ST,16.0,6.0,16.0,25.0,8.5,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+10.0,-16010.0,Titans D/ST,16.0,11.0,16.0,10.0,6.2,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+8.0,-16001.0,Falcons D/ST,16.0,3.0,16.0,1.0,7.4,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+9.0,-16004.0,Bengals D/ST,16.0,8.0,16.0,4.0,6.8,3.0,TnM,Team Tenner n Mamby ,DEF,DST
+5.0,-16014.0,Rams D/ST,16.0,6.0,16.0,14.0,5.1,4.0,Team,Mixon and Nixon ,DEF,DST
+7.0,-16007.0,Broncos D/ST,16.0,6.0,16.0,7.0,7.4,4.0,Team,Mixon and Nixon ,DEF,DST
+6.0,-16014.0,Rams D/ST,16.0,10.0,16.0,14.0,7.5,4.0,Team,Mixon and Nixon ,DEF,DST
+2.0,-16014.0,Rams D/ST,16.0,11.0,16.0,14.0,8.1,4.0,Team,Mixon and Nixon ,DEF,DST
+3.0,-16014.0,Rams D/ST,16.0,4.0,16.0,14.0,4.1,4.0,Team,Mixon and Nixon ,DEF,DST
+1.0,-16028.0,Commanders D/ST,16.0,3.0,16.0,28.0,6.5,4.0,Team,Mixon and Nixon ,DEF,DST
+10.0,-16014.0,Rams D/ST,16.0,4.0,16.0,14.0,6.5,4.0,Team,Mixon and Nixon ,DEF,DST
+8.0,-16010.0,Titans D/ST,16.0,11.0,16.0,10.0,6.1,4.0,Team,Mixon and Nixon ,DEF,DST
+9.0,-16014.0,Rams D/ST,16.0,4.0,16.0,14.0,4.3,4.0,Team,Mixon and Nixon ,DEF,DST
+4.0,-16003.0,Bears D/ST,16.0,5.0,16.0,3.0,6.1,5.0,NIX,Defend the Crown,DEF,DST
+5.0,-16015.0,Dolphins D/ST,16.0,-1.0,16.0,15.0,7.8,5.0,NIX,Defend the Crown,DEF,DST
+7.0,-16015.0,Dolphins D/ST,16.0,11.0,16.0,15.0,6.4,5.0,NIX,Defend the Crown,DEF,DST
+6.0,-16028.0,Commanders D/ST,16.0,11.0,16.0,28.0,6.0,5.0,NIX,Defend the Crown,DEF,DST
+2.0,-16011.0,Colts D/ST,16.0,0.0,16.0,11.0,6.5,5.0,NIX,Defend the Crown,DEF,DST
+3.0,-16003.0,Bears D/ST,16.0,5.0,16.0,3.0,6.5,5.0,NIX,Defend the Crown,DEF,DST
+1.0,-16011.0,Colts D/ST,16.0,7.0,16.0,11.0,7.3,5.0,NIX,Defend the Crown,DEF,DST
+10.0,-16001.0,Falcons D/ST,16.0,1.0,16.0,1.0,6.5,5.0,NIX,Defend the Crown,DEF,DST
+8.0,-16015.0,Dolphins D/ST,16.0,0.0,16.0,15.0,4.8,5.0,NIX,Defend the Crown,DEF,DST
+9.0,-16015.0,Dolphins D/ST,16.0,8.0,16.0,15.0,6.0,5.0,NIX,Defend the Crown,DEF,DST
+4.0,-16009.0,Packers D/ST,16.0,8.0,16.0,9.0,8.0,6.0,ITTO,Team Ittounas,DEF,DST
+5.0,-16009.0,Packers D/ST,16.0,3.0,16.0,9.0,6.3,6.0,ITTO,Team Ittounas,DEF,DST
+7.0,-16009.0,Packers D/ST,16.0,8.0,16.0,9.0,5.0,6.0,ITTO,Team Ittounas,DEF,DST
+6.0,-16021.0,Eagles D/ST,16.0,7.0,16.0,21.0,6.4,6.0,ITTO,Team Ittounas,DEF,DST
+2.0,-16007.0,Broncos D/ST,16.0,8.0,16.0,7.0,7.2,6.0,ITTO,Team Ittounas,DEF,DST
+3.0,-16018.0,Saints D/ST,16.0,6.0,16.0,18.0,6.8,6.0,ITTO,Team Ittounas,DEF,DST
+1.0,-16007.0,Broncos D/ST,16.0,7.0,16.0,7.0,6.4,6.0,ITTO,Team Ittounas,DEF,DST
+10.0,-16021.0,Eagles D/ST,16.0,7.0,16.0,21.0,7.1,6.0,ITTO,Team Ittounas,DEF,DST
+8.0,-16021.0,Eagles D/ST,16.0,13.0,16.0,21.0,8.0,6.0,ITTO,Team Ittounas,DEF,DST
+9.0,-16021.0,Eagles D/ST,16.0,8.0,16.0,21.0,7.3,6.0,ITTO,Team Ittounas,DEF,DST
+4.0,-16023.0,Steelers D/ST,16.0,5.0,16.0,23.0,6.7,7.0,THIC,Kittle's Coming Home!,DEF,DST
+5.0,-16012.0,Chiefs D/ST,16.0,0.0,16.0,12.0,5.7,7.0,THIC,Kittle's Coming Home!,DEF,DST
+7.0,-16003.0,Bears D/ST,16.0,12.0,16.0,3.0,5.2,7.0,THIC,Kittle's Coming Home!,DEF,DST
+6.0,-16003.0,Bears D/ST,16.0,8.0,16.0,3.0,5.8,7.0,THIC,Kittle's Coming Home!,DEF,DST
+2.0,-16023.0,Steelers D/ST,16.0,2.0,16.0,23.0,5.9,7.0,THIC,Kittle's Coming Home!,DEF,DST
+3.0,-16023.0,Steelers D/ST,16.0,1.0,16.0,23.0,6.3,7.0,THIC,Kittle's Coming Home!,DEF,DST
+1.0,-16018.0,Saints D/ST,16.0,3.0,16.0,18.0,8.5,7.0,THIC,Kittle's Coming Home!,DEF,DST
+10.0,-16011.0,Colts D/ST,16.0,2.0,16.0,11.0,5.3,7.0,THIC,Kittle's Coming Home!,DEF,DST
+8.0,-16011.0,Colts D/ST,16.0,4.0,16.0,11.0,5.3,7.0,THIC,Kittle's Coming Home!,DEF,DST
+9.0,-16011.0,Colts D/ST,16.0,8.0,16.0,11.0,6.1,7.0,THIC,Kittle's Coming Home!,DEF,DST
+4.0,-16025.0,49ers D/ST,16.0,22.0,16.0,25.0,6.8,8.0,GREG,Greg's Gang,DEF,DST
+5.0,-16025.0,49ers D/ST,16.0,15.0,16.0,25.0,8.8,8.0,GREG,Greg's Gang,DEF,DST
+7.0,-16017.0,Patriots D/ST,16.0,4.0,16.0,17.0,7.2,8.0,GREG,Greg's Gang,DEF,DST
+6.0,-16025.0,49ers D/ST,16.0,4.0,16.0,25.0,6.5,8.0,GREG,Greg's Gang,DEF,DST
+2.0,-16004.0,Bengals D/ST,16.0,3.0,16.0,4.0,7.6,8.0,GREG,Greg's Gang,DEF,DST
+3.0,-16034.0,Texans D/ST,16.0,8.0,16.0,34.0,7.7,8.0,GREG,Greg's Gang,DEF,DST
+1.0,-16010.0,Titans D/ST,16.0,8.0,16.0,10.0,6.6,8.0,GREG,Greg's Gang,DEF,DST
+10.0,-16019.0,Giants D/ST,16.0,8.0,16.0,19.0,6.6,8.0,GREG,Greg's Gang,DEF,DST
+8.0,-16017.0,Patriots D/ST,16.0,8.0,16.0,17.0,6.7,8.0,GREG,Greg's Gang,DEF,DST
+9.0,-16017.0,Patriots D/ST,16.0,26.0,16.0,17.0,6.4,8.0,GREG,Greg's Gang,DEF,DST
+4.0,-16019.0,Giants D/ST,16.0,15.0,16.0,19.0,7.7,9.0,Reid,I Hate Joe Burrow,DEF,DST
+5.0,-16016.0,Vikings D/ST,16.0,6.0,16.0,16.0,7.4,9.0,Reid,I Hate Joe Burrow,DEF,DST
+7.0,-16033.0,Ravens D/ST,16.0,11.0,16.0,33.0,4.1,9.0,Reid,I Hate Joe Burrow,DEF,DST
+6.0,-16033.0,Ravens D/ST,16.0,8.0,16.0,33.0,5.1,9.0,Reid,I Hate Joe Burrow,DEF,DST
+2.0,-16033.0,Ravens D/ST,16.0,2.0,16.0,33.0,5.9,9.0,Reid,I Hate Joe Burrow,DEF,DST
+3.0,-16033.0,Ravens D/ST,16.0,8.0,16.0,33.0,5.4,9.0,Reid,I Hate Joe Burrow,DEF,DST
+1.0,-16033.0,Ravens D/ST,16.0,9.0,16.0,33.0,5.8,9.0,Reid,I Hate Joe Burrow,DEF,DST
+10.0,-16018.0,Saints D/ST,16.0,5.0,16.0,18.0,6.9,9.0,Reid,I Hate Joe Burrow,DEF,DST
+8.0,-16028.0,Commanders D/ST,16.0,7.0,16.0,28.0,5.9,9.0,Reid,I Hate Joe Burrow,DEF,DST
+9.0,-16033.0,Ravens D/ST,16.0,11.0,16.0,33.0,4.1,9.0,Reid,I Hate Joe Burrow,DEF,DST
+4.0,-16007.0,Broncos D/ST,16.0,1.0,16.0,7.0,5.9,10.0,DAD,A Cursed Entity,DEF,DST
+5.0,-16027.0,Buccaneers D/ST,16.0,8.0,16.0,27.0,7.0,10.0,DAD,A Cursed Entity,DEF,DST
+7.0,-16027.0,Buccaneers D/ST,16.0,1.0,16.0,27.0,7.6,10.0,DAD,A Cursed Entity,DEF,DST
+6.0,-16027.0,Buccaneers D/ST,16.0,4.0,16.0,27.0,6.7,10.0,DAD,A Cursed Entity,DEF,DST
+2.0,-16009.0,Packers D/ST,16.0,10.0,16.0,9.0,9.1,10.0,DAD,A Cursed Entity,DEF,DST
+3.0,-16027.0,Buccaneers D/ST,16.0,6.0,16.0,27.0,6.4,10.0,DAD,A Cursed Entity,DEF,DST
+1.0,-16029.0,Panthers D/ST,16.0,0.0,16.0,29.0,6.2,10.0,DAD,A Cursed Entity,DEF,DST
+10.0,-16007.0,Broncos D/ST,16.0,4.0,16.0,7.0,6.3,10.0,DAD,A Cursed Entity,DEF,DST
+8.0,-16030.0,Jaguars D/ST,16.0,5.0,16.0,30.0,5.8,10.0,DAD,A Cursed Entity,DEF,DST
+9.0,-16016.0,Vikings D/ST,16.0,8.0,16.0,16.0,5.5,10.0,DAD,A Cursed Entity,DEF,DST
+6.0,3051909.0,Daniel Carlson,20.0,0.0,5.0,13.0,0.0,1.0,QUON,Quon's  League ,BN,K
+5.0,3055899.0,Harrison Butker,20.0,0.0,5.0,12.0,0.0,2.0,RIP,Matthew Berry Dead,BN,K
+8.0,3055899.0,Harrison Butker,20.0,0.0,5.0,12.0,0.0,2.0,RIP,Matthew Berry Dead,BN,K
+10.0,15683.0,Justin Tucker,20.0,0.0,5.0,33.0,0.0,3.0,TnM,Team Tenner n Mamby ,BN,K
+10.0,10621.0,Nick Folk,20.0,0.0,5.0,17.0,0.0,5.0,NIX,Defend the Crown,BN,K
+10.0,4360234.0,Evan McPherson,20.0,0.0,5.0,4.0,0.0,9.0,Reid,I Hate Joe Burrow,BN,K
+4.0,3051909.0,Daniel Carlson,17.0,13.0,5.0,13.0,8.2,1.0,QUON,Quon's  League ,K,K
+5.0,3051909.0,Daniel Carlson,17.0,16.0,5.0,13.0,8.7,1.0,QUON,Quon's  League ,K,K
+7.0,3051909.0,Daniel Carlson,17.0,10.0,5.0,13.0,9.5,1.0,QUON,Quon's  League ,K,K
+6.0,2473037.0,Jason Myers,17.0,13.0,5.0,26.0,7.8,1.0,QUON,Quon's  League ,K,K
+2.0,3051909.0,Daniel Carlson,17.0,13.0,5.0,13.0,8.6,1.0,QUON,Quon's  League ,K,K
+3.0,3051909.0,Daniel Carlson,17.0,10.0,5.0,13.0,8.2,1.0,QUON,Quon's  League ,K,K
+1.0,3051909.0,Daniel Carlson,17.0,9.0,5.0,13.0,7.9,1.0,QUON,Quon's  League ,K,K
+10.0,3051909.0,Daniel Carlson,17.0,2.0,5.0,13.0,8.5,1.0,QUON,Quon's  League ,K,K
+8.0,3051909.0,Daniel Carlson,17.0,0.0,5.0,13.0,7.8,1.0,QUON,Quon's  League ,K,K
+9.0,3051909.0,Daniel Carlson,17.0,8.0,5.0,13.0,9.0,1.0,QUON,Quon's  League ,K,K
+4.0,16339.0,Brandon McManus,17.0,4.0,5.0,7.0,7.7,2.0,RIP,Matthew Berry Dead,K,K
+5.0,12731.0,Ryan Succop,17.0,8.0,5.0,27.0,7.6,2.0,RIP,Matthew Berry Dead,K,K
+7.0,3055899.0,Harrison Butker,17.0,5.0,5.0,12.0,8.1,2.0,RIP,Matthew Berry Dead,K,K
+6.0,3055899.0,Harrison Butker,17.0,11.0,5.0,12.0,8.3,2.0,RIP,Matthew Berry Dead,K,K
+2.0,16339.0,Brandon McManus,17.0,12.0,5.0,7.0,8.3,2.0,RIP,Matthew Berry Dead,K,K
+3.0,16339.0,Brandon McManus,17.0,5.0,5.0,7.0,8.3,2.0,RIP,Matthew Berry Dead,K,K
+1.0,16339.0,Brandon McManus,17.0,11.0,5.0,7.0,8.1,2.0,RIP,Matthew Berry Dead,K,K
+10.0,3055899.0,Harrison Butker,17.0,2.0,5.0,12.0,8.0,2.0,RIP,Matthew Berry Dead,K,K
+8.0,16486.0,Brett Maher,17.0,7.0,5.0,6.0,8.1,2.0,RIP,Matthew Berry Dead,K,K
+9.0,3055899.0,Harrison Butker,17.0,4.0,5.0,12.0,8.3,2.0,RIP,Matthew Berry Dead,K,K
+4.0,15683.0,Justin Tucker,17.0,11.0,5.0,33.0,8.1,3.0,TnM,Team Tenner n Mamby ,K,K
+5.0,15683.0,Justin Tucker,17.0,16.0,5.0,33.0,8.0,3.0,TnM,Team Tenner n Mamby ,K,K
+7.0,15683.0,Justin Tucker,17.0,13.0,5.0,33.0,8.5,3.0,TnM,Team Tenner n Mamby ,K,K
+6.0,15683.0,Justin Tucker,17.0,8.0,5.0,33.0,7.8,3.0,TnM,Team Tenner n Mamby ,K,K
+2.0,15683.0,Justin Tucker,17.0,10.0,5.0,33.0,8.8,3.0,TnM,Team Tenner n Mamby ,K,K
+3.0,15683.0,Justin Tucker,17.0,8.0,5.0,33.0,8.4,3.0,TnM,Team Tenner n Mamby ,K,K
+1.0,15683.0,Justin Tucker,17.0,6.0,5.0,33.0,8.5,3.0,TnM,Team Tenner n Mamby ,K,K
+10.0,3917232.0,Tyler Bass,17.0,13.0,5.0,2.0,7.7,3.0,TnM,Team Tenner n Mamby ,K,K
+8.0,15683.0,Justin Tucker,17.0,9.0,5.0,33.0,8.1,3.0,TnM,Team Tenner n Mamby ,K,K
+9.0,15683.0,Justin Tucker,17.0,10.0,5.0,33.0,7.9,3.0,TnM,Team Tenner n Mamby ,K,K
+4.0,3975763.0,Greg Joseph,17.0,17.0,5.0,16.0,7.5,4.0,Team,Mixon and Nixon ,K,K
+5.0,3975763.0,Greg Joseph,17.0,3.0,5.0,16.0,8.4,4.0,Team,Mixon and Nixon ,K,K
+7.0,16339.0,Brandon McManus,17.0,3.0,5.0,7.0,8.3,4.0,Team,Mixon and Nixon ,K,K
+6.0,3975763.0,Greg Joseph,17.0,3.0,5.0,16.0,7.6,4.0,Team,Mixon and Nixon ,K,K
+2.0,3055899.0,Harrison Butker,17.0,0.0,5.0,12.0,0.0,4.0,Team,Mixon and Nixon ,K,K
+3.0,3975763.0,Greg Joseph,17.0,4.0,5.0,16.0,8.5,4.0,Team,Mixon and Nixon ,K,K
+1.0,3055899.0,Harrison Butker,17.0,9.0,5.0,12.0,8.3,4.0,Team,Mixon and Nixon ,K,K
+10.0,17427.0,Cairo Santos,17.0,5.0,5.0,3.0,8.2,4.0,Team,Mixon and Nixon ,K,K
+8.0,16339.0,Brandon McManus,17.0,3.0,5.0,7.0,7.6,4.0,Team,Mixon and Nixon ,K,K
+9.0,17427.0,Cairo Santos,17.0,6.0,5.0,3.0,8.3,4.0,Team,Mixon and Nixon ,K,K
+4.0,11122.0,Matt Prater,17.0,8.0,5.0,22.0,7.6,5.0,NIX,Defend the Crown,K,K
+5.0,10621.0,Nick Folk,17.0,18.0,5.0,17.0,7.6,5.0,NIX,Defend the Crown,K,K
+7.0,10621.0,Nick Folk,17.0,2.0,5.0,17.0,7.9,5.0,NIX,Defend the Crown,K,K
+6.0,10621.0,Nick Folk,17.0,7.0,5.0,17.0,6.9,5.0,NIX,Defend the Crown,K,K
+2.0,11122.0,Matt Prater,17.0,1.0,5.0,22.0,7.7,5.0,NIX,Defend the Crown,K,K
+3.0,11122.0,Matt Prater,17.0,14.0,5.0,22.0,8.3,5.0,NIX,Defend the Crown,K,K
+1.0,11122.0,Matt Prater,17.0,1.0,5.0,22.0,8.0,5.0,NIX,Defend the Crown,K,K
+10.0,4428963.0,Cade York,17.0,5.0,5.0,5.0,7.7,5.0,NIX,Defend the Crown,K,K
+8.0,10621.0,Nick Folk,17.0,21.0,5.0,17.0,7.1,5.0,NIX,Defend the Crown,K,K
+9.0,10621.0,Nick Folk,17.0,17.0,5.0,17.0,7.9,5.0,NIX,Defend the Crown,K,K
+4.0,3049899.0,Younghoe Koo,17.0,12.0,5.0,1.0,8.5,6.0,ITTO,Team Ittounas,K,K
+5.0,3049899.0,Younghoe Koo,17.0,1.0,5.0,1.0,8.1,6.0,ITTO,Team Ittounas,K,K
+7.0,3049899.0,Younghoe Koo,17.0,6.0,5.0,1.0,7.3,6.0,ITTO,Team Ittounas,K,K
+6.0,3049899.0,Younghoe Koo,17.0,4.0,5.0,1.0,7.1,6.0,ITTO,Team Ittounas,K,K
+2.0,3049899.0,Younghoe Koo,17.0,4.0,5.0,1.0,7.0,6.0,ITTO,Team Ittounas,K,K
+3.0,3049899.0,Younghoe Koo,17.0,12.0,5.0,1.0,7.7,6.0,ITTO,Team Ittounas,K,K
+1.0,2985659.0,Wil Lutz,17.0,9.0,5.0,18.0,7.2,6.0,ITTO,Team Ittounas,K,K
+10.0,2473037.0,Jason Myers,17.0,6.0,5.0,26.0,7.8,6.0,ITTO,Team Ittounas,K,K
+8.0,2473037.0,Jason Myers,17.0,11.0,5.0,26.0,8.0,6.0,ITTO,Team Ittounas,K,K
+9.0,2473037.0,Jason Myers,17.0,8.0,5.0,26.0,7.9,6.0,ITTO,Team Ittounas,K,K
+4.0,3124679.0,Jason Sanders,17.0,9.0,5.0,15.0,7.3,7.0,THIC,Kittle's Coming Home!,K,K
+5.0,3124679.0,Jason Sanders,17.0,6.0,5.0,15.0,7.5,7.0,THIC,Kittle's Coming Home!,K,K
+7.0,3124679.0,Jason Sanders,17.0,12.0,5.0,15.0,7.5,7.0,THIC,Kittle's Coming Home!,K,K
+6.0,3124679.0,Jason Sanders,17.0,5.0,5.0,15.0,7.1,7.0,THIC,Kittle's Coming Home!,K,K
+2.0,10621.0,Nick Folk,17.0,5.0,5.0,17.0,8.0,7.0,THIC,Kittle's Coming Home!,K,K
+3.0,3124679.0,Jason Sanders,17.0,3.0,5.0,15.0,8.0,7.0,THIC,Kittle's Coming Home!,K,K
+1.0,10621.0,Nick Folk,17.0,1.0,5.0,17.0,8.4,7.0,THIC,Kittle's Coming Home!,K,K
+10.0,3124679.0,Jason Sanders,17.0,7.0,5.0,15.0,7.6,7.0,THIC,Kittle's Coming Home!,K,K
+8.0,3124679.0,Jason Sanders,17.0,8.0,5.0,15.0,7.2,7.0,THIC,Kittle's Coming Home!,K,K
+9.0,3124679.0,Jason Sanders,17.0,4.0,5.0,15.0,7.5,7.0,THIC,Kittle's Coming Home!,K,K
+4.0,3917232.0,Tyler Bass,17.0,11.0,5.0,2.0,7.3,8.0,GREG,Greg's Gang,K,K
+5.0,3917232.0,Tyler Bass,17.0,7.0,5.0,2.0,7.9,8.0,GREG,Greg's Gang,K,K
+7.0,12731.0,Ryan Succop,17.0,3.0,5.0,27.0,8.2,8.0,GREG,Greg's Gang,K,K
+6.0,3917232.0,Tyler Bass,17.0,6.0,5.0,2.0,7.3,8.0,GREG,Greg's Gang,K,K
+2.0,3917232.0,Tyler Bass,17.0,12.0,5.0,2.0,8.1,8.0,GREG,Greg's Gang,K,K
+3.0,3917232.0,Tyler Bass,17.0,4.0,5.0,2.0,7.9,8.0,GREG,Greg's Gang,K,K
+1.0,3917232.0,Tyler Bass,17.0,8.0,5.0,2.0,7.4,8.0,GREG,Greg's Gang,K,K
+10.0,12731.0,Ryan Succop,17.0,3.0,5.0,27.0,8.3,8.0,GREG,Greg's Gang,K,K
+8.0,12731.0,Ryan Succop,17.0,10.0,5.0,27.0,8.1,8.0,GREG,Greg's Gang,K,K
+9.0,12731.0,Ryan Succop,17.0,12.0,5.0,27.0,8.1,8.0,GREG,Greg's Gang,K,K
+4.0,4360234.0,Evan McPherson,17.0,11.0,5.0,4.0,8.1,9.0,Reid,I Hate Joe Burrow,K,K
+5.0,4360234.0,Evan McPherson,17.0,6.0,5.0,4.0,7.9,9.0,Reid,I Hate Joe Burrow,K,K
+7.0,4360234.0,Evan McPherson,17.0,5.0,5.0,4.0,8.1,9.0,Reid,I Hate Joe Burrow,K,K
+6.0,4360234.0,Evan McPherson,17.0,8.0,5.0,4.0,7.2,9.0,Reid,I Hate Joe Burrow,K,K
+2.0,4360234.0,Evan McPherson,17.0,13.0,5.0,4.0,8.4,9.0,Reid,I Hate Joe Burrow,K,K
+3.0,4360234.0,Evan McPherson,17.0,9.0,5.0,4.0,8.2,9.0,Reid,I Hate Joe Burrow,K,K
+1.0,4360234.0,Evan McPherson,17.0,6.0,5.0,4.0,9.0,9.0,Reid,I Hate Joe Burrow,K,K
+10.0,12460.0,Graham Gano,17.0,7.0,5.0,19.0,9.1,9.0,Reid,I Hate Joe Burrow,K,K
+8.0,4360234.0,Evan McPherson,17.0,-1.0,5.0,4.0,7.6,9.0,Reid,I Hate Joe Burrow,K,K
+9.0,4360234.0,Evan McPherson,17.0,5.0,5.0,4.0,8.0,9.0,Reid,I Hate Joe Burrow,K,K
+4.0,12460.0,Graham Gano,17.0,9.0,5.0,19.0,9.6,10.0,DAD,A Cursed Entity,K,K
+5.0,12460.0,Graham Gano,17.0,10.0,5.0,19.0,8.3,10.0,DAD,A Cursed Entity,K,K
+7.0,12460.0,Graham Gano,17.0,11.0,5.0,19.0,7.8,10.0,DAD,A Cursed Entity,K,K
+6.0,12460.0,Graham Gano,17.0,6.0,5.0,19.0,8.3,10.0,DAD,A Cursed Entity,K,K
+2.0,4249087.0,Matt Gay,17.0,7.0,5.0,14.0,9.0,10.0,DAD,A Cursed Entity,K,K
+3.0,4249087.0,Matt Gay,17.0,9.0,5.0,14.0,8.6,10.0,DAD,A Cursed Entity,K,K
+1.0,4249087.0,Matt Gay,17.0,6.0,5.0,14.0,8.9,10.0,DAD,A Cursed Entity,K,K
+10.0,3049899.0,Younghoe Koo,17.0,1.0,5.0,1.0,8.0,10.0,DAD,A Cursed Entity,K,K
+8.0,12460.0,Graham Gano,17.0,8.0,5.0,19.0,8.8,10.0,DAD,A Cursed Entity,K,K
+9.0,3049899.0,Younghoe Koo,17.0,5.0,5.0,1.0,8.5,10.0,DAD,A Cursed Entity,K,K
+4.0,3055899.0,Harrison Butker,21.0,0.0,5.0,12.0,0.0,2.0,RIP,Matthew Berry Dead,BN,K

@@ -33,7 +33,7 @@ def organize_player_stats(team_info):
 
 def get_player_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info):
     for week in range(week_start,week_end):
-        url = f'https://fantasy.espn.com/apis/v3/games/ffl/seasons/2022/segments/0/leagues/95898?scoringPeriodId={week}&view=mRoster'
+        url = f'https://fantasy.espn.com/apis/v3/games/ffl/seasons/2022/segments/0/leagues/{league_id}?scoringPeriodId={week}&view=mRoster'
         r = requests.get(url, cookies={"swid": swid,"espn_s2": espn_s2})
         x = r.json()
 
