@@ -11,7 +11,4 @@ For private leagues, you'll need your espn_s2 and swid cookies
 
 1. Update config.yaml to use your league_id
 2. Update config.yaml to use your espn_s2 and swid
-3. run $ python get_all_fantasy_data.py.py
-
-
-Please make sure to re-comment that as it slows down performance!
+3. run $ python get_all_fantasy_data.py
