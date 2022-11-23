@@ -8,21 +8,21 @@ from sklearn.model_selection import train_test_split
 
 import datetime
 
-def get_expected_wins():
+def get_expected_wins(week_end):
 
-    first_thursday_of_season = datetime.datetime(2022, 9, 8) # Date of First Thursday
-    days_in_season_elapsed = datetime.datetime.today() - first_thursday_of_season
-    week = days_in_season_elapsed.days // 7 + 1 #pulls the week number
+    #first_thursday_of_season = datetime.datetime(2022, 9, 8) # Date of First Thursday
+    #days_in_season_elapsed = datetime.datetime.today() - first_thursday_of_season
+    #week = days_in_season_elapsed.days // 7 + 1 #pulls the week number
 
 
     team_data = pd.read_csv('prod_data/fantasy_team_stats.csv')
 
-    team_data = team_data[team_data['Week'] < week] #ignore current_week
+    team_data = team_data[team_data['Week'] < week_end] #ignore current_week
 
 
 
     fant = team_data.copy() #dataset used for model
-    fant = fant[fant['Week'] < week] #ignore current_week
+    fant = fant[fant['Week'] < week_end] #ignore current_week
 
 
 

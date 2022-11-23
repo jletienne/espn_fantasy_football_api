@@ -30,6 +30,6 @@ get_player_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info
 
 get_team_stats(swid, espn_s2, league_id, year, week_start, week_end, team_info)
 
-get_expected_wins()
+get_expected_wins(week_end)
 
 get_draft_results(swid, espn_s2, league_id, year)
