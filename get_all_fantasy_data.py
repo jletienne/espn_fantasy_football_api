@@ -13,7 +13,7 @@ first_thursday_of_season = datetime.datetime(2022, 9, 8) # Date of First Thursda
 days_in_season_elapsed = datetime.datetime.today() - first_thursday_of_season
 
 week_start = 1
-week_end = days_in_season_elapsed.days // 7 + 1 #pulls the week number
+week_end = 13 #days_in_season_elapsed.days // 7 + 1 #pulls the week number
 
 config = yaml.safe_load(open('config.yaml'))
 
