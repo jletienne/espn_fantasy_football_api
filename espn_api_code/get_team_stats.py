@@ -14,7 +14,7 @@ def get_team_stats(swid, espn_s2, league_id, year, week_start, week_end, team_in
             game['matchupPeriodId'],
             game['home']['teamId'], game['home']['totalPoints'],
             game['away']['teamId'], game['away']['totalPoints']
-        ] for game in x['schedule']]
+        ] for game in x['schedule'] if game['playoffTierType'] == 'NONE']
 
     team_stats = pd.DataFrame(team_stats, columns=['Week', 'Team1', 'Score1', 'Team2', 'Score2'])
     team_stats['Type'] = ['Regular' if w<=14 else 'Playoff' for w in team_stats['Week']]
