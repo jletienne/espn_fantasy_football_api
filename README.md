@@ -9,7 +9,7 @@ For private leagues, you'll need your espn_s2 and swid cookies
 
 and 
 
-![](espn_cookies_2.png)
+![](1BA90A63-0A02-4CE9-BD1B-7B4AEBBE9A21.png)
 
 ### Three Steps
 
