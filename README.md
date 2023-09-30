@@ -7,6 +7,10 @@ For private leagues, you'll need your espn_s2 and swid cookies
 
 ![](espn_cookies.png)
 
+and 
+
+![](espn_cookies_2.png)
+
 ### Three Steps
 
 1. Update config.yaml to use your league_id
